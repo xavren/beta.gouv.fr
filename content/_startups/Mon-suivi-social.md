@@ -1,9 +1,8 @@
 ---
-mission: >-
-  Libérer du temps pour l'accompagnement social grâce à une solution simple,
-  intuitive et sécurisée.
+mission: Libérer du temps pour l'accompagnement social grâce à une solution
+  simple, intuitive et sécurisée.
 incubator: anct
-repository: https://gitlab.com/incubateur-territoires/startups/monsuivisocial
+repository: ""
 contact: monsuivisocial@anct.gouv.fr
 accessibility_status: non conforme
 usertypes:
@@ -13,14 +12,21 @@ sponsors:
   - /organisations/anct
 link: https://monsuivisocial.incubateur.anct.gouv.fr/
 stats: false
-dashlord_url: >-
-  https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/monsuivisocial-incubateur-anct-gouv-fr/
+dashlord_url: https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr/url/monsuivisocial-incubateur-anct-gouv-fr/
+events:
+  - comment: Mon Suivi Social a été récompensé lors du Congrès National de l'Union
+      Nationale des Centres Communaux d'Action Sociale (UNCCAS)
+    name: other
+    date: 2023-03-28
 phases:
   - name: investigation
     start: 2021-06-01
     end: 2022-02-01
   - name: construction
     start: 2022-03-01
+    end: 2023-09-04
+  - name: acceleration
+    start: 2023-09-04
 ---
 ### Contexte/problème
 
@@ -38,16 +44,18 @@ Ce prototype a été testé auprès d'autres CCAS et les besoins ont été confi
 
 ### Stratégie
 
-1 - La construction d'une version beta de la solution (**interface agent**) a débuté en mars 2022 et sera mise en test auprès d'une dizaine de structure dans les prochaines semaines.
+1 - La construction d'une version beta de la solution (**interface agent**) a débuté en mars 2022, co-construction et tests auprès d'une dizaine de structure durant plusieurs mois.
 
-Les premières fonctionnalités expérimentées porteront sur :
+Les premières fonctionnalités expérimentées portaient sur :
 
 * Dossier bénéficiaire (fiche bénéficiaire et espace document associé)
 * Suivi des échanges et accompagnements
 * Module statistique
 
-Le déploiement des fonctionnalités complémentaires sera progressif, et reposera sur une logique de co-construction.
+2 - Perspectives complémentaires : le déploiement des fonctionnalités complémentaires sera progressif, et reposera sur une logique de co-construction. Des partenariats avec d'autres outils existants seront étudiés (prise de RDV ...)
 
-2 - Perspective complémentaire (échéance à définir) :  étude plus approfonfie autour du besoin "bénéficiaire" : coffre-fort numérique, synthèse des RDV et rappels par mails/SMS, suivi de dossier, accès sécurisé pour l'entourage ou les aidants habilités.
+3 - Déploiement : la solution est désormais utilisée au sein d'une centaine de structures. L'objectif est de tripler ce nombre au courant du 1er trimestre 2024.
 
-![](https://beta.gouv.fr/img/netlifycms/mon.suivi.social.accueil.png)
+4- Partenariat : en cours de contractualisation.
+
+![](/img/netlifycms/illustration.mss.png)
