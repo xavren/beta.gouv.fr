@@ -9,11 +9,11 @@ missions:
     status: independent
 startups:
   - ozensemble
-  - jeveuxaider
-  - api-engagement
 previously:
   - pop
   - eac
+  - jeveuxaider
+  - api-engagement
 competences:
   - Développement Backend
   - Développement Frontend
