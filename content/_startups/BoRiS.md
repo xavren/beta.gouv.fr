@@ -27,7 +27,7 @@ En parallèle, 150.000 locataires HLM sont asujettis au surloyer de solidarité,
 Ces ménages, comme 70% des Français, sont éligibles à un dispositif d'accession abordable à la propriété : le Bail Réel Solidaire. Celui-ci permet d'acheter un bien immobilier sans acquérir le foncier. Cela permet de de devenir propriétaire pour 30% à 40% de moins que le prix du marché.
 Le problème, c'est que le dispositif est complexes, l'éligibilité pas toujours simple à mesurer, et il existe un risque de dérives.
 
-<h2>BoRiS accompagne les bénéficiaires potentiels dans leurs démarches</h2>h2>
+<h2>BoRiS accompagne les bénéficiaires potentiels dans leurs démarches</h2>
 BoRiS, c'est l'ami serviable qui s'assoit à vos côtés pour simplifier le parcours de l'achat d'un logement en BRS.
 
 La plateforme propose trois fonctionnalités complémentaires :
