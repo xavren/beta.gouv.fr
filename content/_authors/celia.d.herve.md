@@ -1,6 +1,6 @@
 ---
 fullname: Célia d'Hervé
-role: Appui aux intrapreneuses
+role: Intrapreneure Monitor Fish
 domaine: Intraprenariat
 missions:
   - start: 2022-09-01
