@@ -5,7 +5,7 @@ role: Coach
 github: clairevigier
 missions:
   - start: 2018-10-01
-    end: 2022-12-31
+    end: 2022-01-31
     status: service
     employer: NUMA
 startups:
