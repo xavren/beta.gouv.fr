@@ -21,7 +21,6 @@ Plus de 1 500 CFA se sont créés depuis la loi du 5 septembre 2018 pour la l
 
 Si des outils existent pour présenter la voie de l’apprentissage, les candidats recherchent des retours d’expériences de pairs, qui ont vécu les mêmes doutes et peuvent témoigner de ce qu’a été leur parcours. Ces témoignages permettent aux candidats de se projeter concrètement dans une formation et d’apaiser le choix d’orientation, surtout dans le secondaire. Les filières en apprentissage  proposées en infra-bac souffrent encore de préjugés et sont parfois considérées comme une voie de garage pour les mauvais élèves ou menant a des métiers peu qualifiés. Les témoignages apportent de nouveaux éléments sur la perception de la qualité de la formation et de l’accompagnement aux jeunes et aux adultes qui les appuient (parents, équipes pédagogiques, psychologues de l’Éducation Nationale, associations, …). L’accès à ces informations n’est pas aisé pour les candidats et les accompagnants car aucune source neutre n’expose aujourd’hui des avis vérifiés sur les formations en apprentissage.
 
-
 # Sirius
 
 Sirius donne accès aux témoignages des apprentis pour aider les jeunes dans leurs choix d’orientation. Le service est co-construit avec l'ensemble des acteurs, CFA, collégiens, apprentis, établissements scolaires et équipes éducatives ; et se décline en 2 volets :
@@ -50,8 +49,6 @@ Sirius bénéficie d’un appui interministériel :
 * La Délégation Générale à l'Emploi et à la Formation Professionnelle *(ministère du travail)*, finance l’expérimentation et apporte un soutien technique et organisationnel au projet.
 * L’ONISEP *(ministère de l'Éducation nationale et de la Jeunesse et ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)*, pilote la réalisation et pourrait être un repreneur pérenne de la solution.
 * La mission interministérielle InserJeunes, assure un cadre méthodologique à l’équipe et apporte les expertises transverses indispensable au bon déroulé de l’expérimentation *(déploiement, environnement de travail, etc…).* Elle accompagne [d'autres produits](https://beta.gouv.fr/startups/?incubateur=mission-inserjeunes) ayant tous pour objectif d’éclairer les choix d’orientation des jeunes pour faciliter leur insertion professionnelle, contribuant ainsi à ce que notre réponse soit cohérente avec les besoins des usagers.
-
-
 
 # Les bénéfices attendus
 
