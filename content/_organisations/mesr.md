@@ -1,5 +1,5 @@
 ---
-name: Ministère Enseignement Supérieur et de la Recherche et de l'Innovation
+name: Ministère Enseignement Supérieur et de la Recherche
 acronym: MESRI
 domaine_ministeriel: enseignement-sup
 type: administration-centrale
