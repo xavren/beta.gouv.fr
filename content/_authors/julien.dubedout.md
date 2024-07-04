@@ -15,7 +15,6 @@ missions:
     end: 2024-09-21
     status: independent
     employer: Numa
-    startups: []
 startups:
   - resorption-bidonvilles
 competences:
