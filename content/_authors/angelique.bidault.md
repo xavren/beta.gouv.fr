@@ -9,4 +9,5 @@ missions:
     employer: LBC
     startups:
       - seves
+uuid: 6cfb40e6-cc11-451e-a2b3-300825a88b2d
 ---

@@ -7,11 +7,11 @@ missions:
   - start: 2023-09-04
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - territoires-en-transitions
 startups:
   - territoires-en-transitions
 memberType: beta
+uuid: 20b89f39-9f07-40b4-bcce-4beffbe4380d
 ---
 UXUI Designer

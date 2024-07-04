@@ -28,5 +28,6 @@ competences:
   - Product strategy
 previously:
   - sndv_maritime
+uuid: 528c92c6-255a-474e-8c0c-eb2dbb40060e
 ---
 Entrepreneur au service de l'impact - Auteur Documentaire

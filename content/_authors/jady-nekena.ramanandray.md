@@ -14,9 +14,9 @@ startups:
   - pilotagevoiepro
 previously:
   - exposition-ij
-badges: null
 competences:
   - Gestion de Produit
   - Développement Backend
+uuid: 5901248b-d97c-4f2f-bc28-f0e13e1339e2
 ---
 Analyste de données le jour. Et la nuit aussi. :)

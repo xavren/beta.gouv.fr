@@ -26,5 +26,6 @@ badges:
 competences:
   - Gestion de Produit
   - Communication
+uuid: e2b95ffd-4b15-45b8-98fb-7909b02d154b
 ---
 Passionnée par l'innovation sous toutes ses FoRmEs

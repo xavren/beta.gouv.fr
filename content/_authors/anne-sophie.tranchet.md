@@ -28,8 +28,6 @@ missions:
   - start: 2023-10-01
     end: 2026-09-30
     status: admin
-    employer: ''
-    startups: []
 competences:
   - UX
   - UI
@@ -39,5 +37,6 @@ teams:
 previously:
   - cartobio
   - dialogue
+uuid: 89297660-7749-4438-b9a9-cc8e8be543f8
 ---
 Concevoir pour toutes et tous

@@ -15,7 +15,6 @@ missions:
     end: 2024-09-21
     status: independent
     employer: Numa
-    startups: []
 startups:
   - resorption-bidonvilles
 competences:
@@ -24,5 +23,6 @@ competences:
   - Facilitation
   - Product design
   - Accessibilité
+uuid: 80ec3c04-5779-457c-9c21-4148c495e7dd
 ---
 Designer, j'améliore l’expérience des agents et usagers du Service Public

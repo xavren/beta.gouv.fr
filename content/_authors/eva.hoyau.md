@@ -8,4 +8,5 @@ missions:
     end: 2025-02-01
     status: admin
 memberType: autre
+uuid: 023e526b-25cb-40dc-8bf1-b7ed42178207
 ---

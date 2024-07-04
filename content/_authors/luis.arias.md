@@ -23,4 +23,5 @@ competences:
   - PostgreSQL
   - Python
 memberType: beta
+uuid: 82275991-1861-40b0-8c25-f41812f334a9
 ---

@@ -13,5 +13,6 @@ startups:
   - l-application-du-cej
 badges:
   - segur
+uuid: 562150c9-e2f6-4627-8459-0599294e962e
 ---
 Product Owner CEJ

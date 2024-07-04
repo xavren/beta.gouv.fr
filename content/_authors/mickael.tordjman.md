@@ -14,5 +14,6 @@ missions:
 startups:
   - oscars
 memberType: beta
+uuid: bc5847e3-aa68-4caa-84e0-ff21ca9d4b00
 ---
 Fullstack Developer Freelance - OSCARS

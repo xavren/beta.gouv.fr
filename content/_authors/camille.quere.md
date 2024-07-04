@@ -10,5 +10,6 @@ missions:
       - encyclopedie-des-metiers
 startups:
   - encyclopedie-des-metiers
+uuid: 2ee6ba63-81e2-4461-8d3f-079561039e80
 ---
 Product Owner

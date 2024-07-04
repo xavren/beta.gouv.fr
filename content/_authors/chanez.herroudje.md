@@ -9,4 +9,5 @@ missions:
     employer: GIP Plateforme de l'inclusion
     startups:
       - place-de-marche-inclusion
+uuid: e8a8cc1f-fb80-4642-975f-117a073203b5
 ---

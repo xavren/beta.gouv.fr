@@ -8,7 +8,6 @@ missions:
   - start: 2023-05-23
     end: 2024-07-31
     status: independent
-    employer: ''
     startups:
       - eimis
 startups:
@@ -16,5 +15,6 @@ startups:
 memberType: beta
 previously:
   - eimis
+uuid: 7c8f97f5-4950-476a-a48d-566716880b20
 ---
 Développeur 🧑‍💻

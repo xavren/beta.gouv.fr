@@ -15,5 +15,6 @@ startups:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: bda3de86-19a0-4bb3-b20b-e95c17c10bab
 ---
 Développeur et bricoleur, ou peut-être l'inverse !

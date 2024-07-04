@@ -13,5 +13,6 @@ missions:
 startups:
   - archifiltre
 memberType: beta
+uuid: 070eaf6b-a7e1-4c28-a2da-a7cca55bf505
 ---
 Développeur mais surtout entrepreneur

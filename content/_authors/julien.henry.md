@@ -12,5 +12,6 @@ missions:
 competences:
   - Communication
 memberType: beta
+uuid: 065d8072-9b2b-41b4-ac6f-7b7cf385719f
 ---
 Nouvel arrivant dans la communauté Beta Gouv auprès de Dossier Facile en tant qu'opérateur.

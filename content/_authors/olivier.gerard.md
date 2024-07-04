@@ -7,7 +7,6 @@ missions:
   - start: 2021-05-16
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - reva
 startups:
@@ -16,5 +15,6 @@ previously:
   - eva
 competences:
   - Coaching
+uuid: cefedf25-9923-4a48-95c8-64751010b7d1
 ---
 Un expert des politiques d'emploi/formation  et de leurs écosystèmes. Bonne connaissance du système de la formation professionnelle

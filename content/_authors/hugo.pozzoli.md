@@ -14,5 +14,6 @@ missions:
 startups:
   - snu
 memberType: beta
+uuid: 149f620b-3418-446b-8ea5-87e418b9053f
 ---
 Développeur fullstack senior

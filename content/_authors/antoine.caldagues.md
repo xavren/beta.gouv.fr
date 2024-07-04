@@ -13,6 +13,6 @@ missions:
 startups:
   - data-inclusion
 memberType: beta
+uuid: dbe45327-d152-411f-b56b-c5bdf54e091c
 ---
-
 Entre Paris et la Normandie

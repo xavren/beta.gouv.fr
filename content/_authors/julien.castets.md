@@ -15,4 +15,5 @@ startups:
   - mesads
 competences:
   - Développement Backend
+uuid: d56023df-0b74-418b-973d-570d852efa22
 ---

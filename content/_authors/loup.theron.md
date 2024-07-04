@@ -12,5 +12,6 @@ missions:
       - monitorfish
 startups:
   - monitorfish
+uuid: 4fb2ddd9-659c-4bbf-b4fa-133e9cd9f0c1
 ---
 Je suis développeur full-stack passionné par les réseaux décentralisés, l’open-source et de manière générale par les projets qui œuvrent pour le commun.

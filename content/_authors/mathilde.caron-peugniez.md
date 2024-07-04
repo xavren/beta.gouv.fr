@@ -16,6 +16,5 @@ previously:
 memberType: beta
 teams:
   - /teams/mtes
-
-
+uuid: 28263019-c2bf-4d48-ac21-cf8075ed07cc
 ---

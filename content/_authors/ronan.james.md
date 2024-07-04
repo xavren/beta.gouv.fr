@@ -8,10 +8,10 @@ missions:
     end: 2021-06-30
     status: admin
     employer: DGEFP
-  - status: independent
-    employer: DINUM
-    start: 2021-07-01
+  - start: 2021-07-01
     end: 2022-08-30
+    status: independent
+    employer: DINUM
 previously:
   - carnet.de.bord
 badges:
@@ -19,5 +19,6 @@ badges:
 competences:
   - Communication
   - Administration Publique
+uuid: 357f6190-eedd-4e84-9883-642a10a1b019
 ---
 Acteur de terrain et d'innovation publique, animé par l'envie d'Innover & Servir - Go Carnet de bord !

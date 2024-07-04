@@ -14,5 +14,6 @@ startups:
   - l-application-du-cej
 badges:
   - segur
+uuid: 631dc67e-7606-44c6-933e-799faa8020e3
 ---
 Fan d'applications mobiles, de grands débats, de stand-up, de pâtes au pesto. Du PSG et de l'OM, y'a quoi ?

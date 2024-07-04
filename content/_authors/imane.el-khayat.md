@@ -11,5 +11,6 @@ missions:
       - monstage
 startups:
   - monstage
+uuid: cacaf2b2-80fd-43b3-b0e4-6427b67a69e8
 ---
 Communication, donjons et dragons.

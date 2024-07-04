@@ -12,6 +12,6 @@ missions:
 startups:
   - dossierfacile
 memberType: beta
+uuid: c02f81ba-531e-437a-9e32-c6e1b35e195b
 ---
-
 Chargée de déploiement

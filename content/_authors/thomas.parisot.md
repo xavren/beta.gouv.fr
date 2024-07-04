@@ -17,9 +17,9 @@ missions:
     status: service
     employer: lazone/solstice
 link: https://détour.studio
-startups:
 previously:
   - cartobio
   - data.gouv.fr
+uuid: 40678a6c-9f1d-4b44-a4fe-a5898f7ea3a6
 ---
 Vivre un futur désirable.

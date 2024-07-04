@@ -10,4 +10,5 @@ missions:
       - comobi
 startups:
   - comobi
+uuid: 53a7d26c-db6a-4b59-976c-8725b3708d0e
 ---

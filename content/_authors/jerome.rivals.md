@@ -27,4 +27,5 @@ startups:
 previously:
   - signalement
   - zero-logement-vacant
+uuid: 4bf8db01-a007-4d42-b2e1-98b04b4db7d6
 ---

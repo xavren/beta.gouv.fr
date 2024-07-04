@@ -17,5 +17,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: 7bbd8c5c-4316-451c-8172-83690b1c8cd0
 ---
 Développeur fullstack au service du bien commun

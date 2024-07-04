@@ -24,4 +24,5 @@ competences:
   - Croissance
   - Administration Publique
 link: https://www.linkedin.com/in/maxine-sabater-64333bb0/
+uuid: bd179caa-2c6d-4a4f-954b-9dc16214b03a
 ---

@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: Fabrique numérique des Armées
 memberType: beta
+uuid: 9bb79bab-d644-4c19-ab87-ecb9e4bfd5fb
 ---

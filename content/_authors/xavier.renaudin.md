@@ -12,4 +12,5 @@ missions:
 startups:
   - espace.sur.demande
 memberType: beta
+uuid: ff70e7a3-70c5-4947-80dc-e825aed3c9e8
 ---

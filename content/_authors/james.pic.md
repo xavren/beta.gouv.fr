@@ -12,5 +12,6 @@ missions:
 github: jpic
 startups:
   - mrs
+uuid: 08c941e5-b0a0-4507-8350-983447d30e49
 ---
 Consultant [YourLabs](https://yourlabs.org), [marque de logiciels libres](https://yourlabs.fr) propulsant [MRS](https://www.mrs.beta.gouv.fr)

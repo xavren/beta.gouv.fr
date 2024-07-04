@@ -12,4 +12,5 @@ missions:
 startups:
   - l-application-du-cej
 memberType: autre
+uuid: 0eb5933a-e08a-4c64-8627-4a8bb2d4db55
 ---

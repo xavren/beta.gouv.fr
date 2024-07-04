@@ -13,5 +13,6 @@ missions:
       - reva
 startups:
   - reva
+uuid: 3634ef91-790a-4197-9880-05d6bf72deba
 ---
 Développeur freelance, motard et de temps en temps je dessine

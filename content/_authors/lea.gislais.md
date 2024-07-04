@@ -12,4 +12,5 @@ missions:
 startups:
   - deveco
 memberType: beta
+uuid: de1716b4-e72e-4605-b791-f0df6f4cb337
 ---

@@ -13,5 +13,6 @@ avatar: https://secure.gravatar.com/avatar/c29357ec95d831454ceecbd52675a75b?size
 github: tusbar
 startups:
   - geo.data.gouv.fr
+uuid: 288c6a2e-8340-460c-8a81-192793027db4
 ---
 Simplicité et automatisation.

@@ -26,5 +26,6 @@ competences:
   - UI
   - Accessibilité
   - Ecoconception
+uuid: ed628c34-2fe9-4d2b-8d7a-b6c49eebd666
 ---
 UXUI designer

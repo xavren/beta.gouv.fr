@@ -14,5 +14,6 @@ missions:
 startups:
   - l-application-du-cej
 memberType: autre
+uuid: 4e1fb49f-97d7-4645-a574-ba1648fcf32d
 ---
 J'aime Flutter, le surf et le ski sans oublier la Raclette

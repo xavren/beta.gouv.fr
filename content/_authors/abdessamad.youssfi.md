@@ -20,4 +20,5 @@ previously:
 competences:
   - Croissance
   - Gestion de Produit
+uuid: 1691b501-e3d2-4ab5-91d0-b5ea3e8e677f
 ---

@@ -12,4 +12,5 @@ missions:
     employer: IPPON
     startups:
       - delta.v
+uuid: 57d6348b-566d-44d1-bcdc-282f3e0873bc
 ---

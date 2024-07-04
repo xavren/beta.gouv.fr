@@ -12,5 +12,6 @@ missions:
 startups:
   - docurba
 memberType: beta
+uuid: 6efbf34a-8fdb-4e41-90c9-4aa711e9c760
 ---
 Chargée de déploiement

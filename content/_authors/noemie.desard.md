@@ -15,5 +15,6 @@ competences:
   - Communication
   - Gestion de Produit
   - Coaching
+uuid: abb8003d-ab23-4254-89c6-dd8c83aabc8e
 ---
 UX designer

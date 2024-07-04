@@ -12,4 +12,5 @@ competences:
   - Administration Publique
   - Droit / Affaires juridiques
 memberType: autre
+uuid: 1f956236-d0e3-41fc-b288-bc76c42578df
 ---

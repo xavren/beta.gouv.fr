@@ -12,5 +12,6 @@ missions:
       - signaux-faibles
 startups:
   - signaux-faibles
+uuid: 141ee8e2-0ffd-4d06-b7a2-ba5b3150bc00
 ---
 Data-Scientist @ DGFiP

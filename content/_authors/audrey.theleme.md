@@ -13,5 +13,6 @@ competences:
   - UI
 teams:
   - /teams/lab-mi
+uuid: 5574fa26-e2ff-43ba-8172-a9ef696e0921
 ---
 Je suis UX Designer au sein du Laboratoire d'Innovation du Ministère de l'Intérieur

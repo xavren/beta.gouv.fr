@@ -13,4 +13,5 @@ missions:
 startups:
   - carnet.de.bord
 memberType: beta
+uuid: 2fa2cbea-3bfd-44ef-8cbf-173860a02c6f
 ---

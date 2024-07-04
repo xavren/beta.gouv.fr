@@ -10,4 +10,5 @@ missions:
     startups:
       - monstage
 memberType: autre
+uuid: 9588f6b9-5d52-4ce5-98d9-a77ff9bef606
 ---

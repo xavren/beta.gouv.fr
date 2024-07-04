@@ -7,19 +7,18 @@ missions:
   - start: 2018-09-04
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
+      - data-inclusion
       - diagoriente
-      - histologe
       - dora
       - exposition-ij
+      - histologe
+      - homologation
       - la-bonne-alternance
       - nis2
-      - homologation
-      - tdb-apprentissage
-      - data-inclusion
-      - sirius
       - pilotagevoiepro
+      - sirius
+      - tdb-apprentissage
       - themis
 startups:
   - diagoriente
@@ -38,4 +37,5 @@ previously:
   - cmachance
 badges:
   - segur
+uuid: 63aa51d5-e2a3-4f35-94e8-0ffdc9eac404
 ---

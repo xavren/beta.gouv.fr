@@ -12,5 +12,6 @@ missions:
 startups:
   - l-application-du-cej
 memberType: autre
+uuid: dd33e93a-2fbc-485b-a743-9f9963a4b311
 ---
 Product Owner couteau suisse

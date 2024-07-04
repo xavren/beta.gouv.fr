@@ -12,4 +12,5 @@ missions:
 competences:
   - achats
 memberType: beta
+uuid: f59ba9d6-d8db-4d4d-8f2d-7736ccafaa6a
 ---

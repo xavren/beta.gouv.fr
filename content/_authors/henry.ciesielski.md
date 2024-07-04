@@ -12,4 +12,5 @@ startups:
   - zero-logement-vacant
 competences:
   - Administration Publique
+uuid: 9fe14550-4f05-490f-8f7f-68b3d1215a2c
 ---

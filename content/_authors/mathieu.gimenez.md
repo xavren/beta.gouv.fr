@@ -12,15 +12,15 @@ missions:
     startups:
       - aigle
       - boris
+      - detournement-de-terres-agricoles
       - docurba
       - dossierfacile
       - envergo
-      - pitchou
       - mediation.logement
       - mon-diagnostic-artificialisation
-      - zero-logement-vacant
       - otelo
-      - detournement-de-terres-agricoles
+      - pitchou
+      - zero-logement-vacant
 memberType: dinum
 competences:
   - Gestion de Produit
@@ -29,6 +29,6 @@ competences:
   - Facilitation
 teams:
   - /teams/mtes
+uuid: e61c001c-b6e4-4501-93cd-2fd1f5bc382c
 ---
-
 Acrobate à impact 🤸‍♂️

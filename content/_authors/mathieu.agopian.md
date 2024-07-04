@@ -31,5 +31,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: 1d53d2e9-a768-474e-9309-a0f90ffb4ac7
 ---
 Insatiable Curieux

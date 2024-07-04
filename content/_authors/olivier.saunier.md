@@ -11,4 +11,5 @@ missions:
 startups:
   - competence.validee
 memberType: beta
+uuid: ee4e9f81-c63a-40a8-86ec-c214caaff99a
 ---

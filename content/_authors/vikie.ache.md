@@ -19,4 +19,5 @@ previously:
 competences:
   - Communication
   - Gestion de Produit
+uuid: fd71acbc-c868-4baf-a0e8-76a024298bf2
 ---

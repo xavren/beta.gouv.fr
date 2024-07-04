@@ -22,4 +22,5 @@ competences:
   - Intrapreneur
   - Gestion de produit
   - Gestion de système d'information
+uuid: 2a944a2d-bf98-4c86-b374-97749886bc28
 ---

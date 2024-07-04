@@ -3,8 +3,6 @@ fullname: Alexandre Friquet
 role: OpsDev
 domaine: Développement
 github: afriqs
-avatar: null
-link: null
 missions:
   - start: 2019-11-04
     end: 2020-12-31
@@ -16,6 +14,6 @@ missions:
     employer: La Zone
 startups:
   - demarches-simplifiees.fr
-previously: null
+uuid: 50928b93-f31e-455c-9c29-1eb38b0f7a2d
 ---
 De l'ops, du dev, à la sauce libre: pas le temps de s'ennuyer.

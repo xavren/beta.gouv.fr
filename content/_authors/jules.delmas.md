@@ -12,5 +12,6 @@ missions:
 startups:
   - acceslibre
 memberType: autre
+uuid: cfbb3f7f-da7f-419e-99d2-259946f7bcf2
 ---
 Entrepreneur

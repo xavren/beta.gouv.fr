@@ -2,7 +2,6 @@
 fullname: Baptiste Brun-Arasa
 role: Développeur
 domaine: Développement
-avatar: null
 github: BaptisteB-A
 missions:
   - start: 2019-01-07
@@ -13,4 +12,5 @@ missions:
       - transport
 startups:
   - transport
+uuid: 71e66092-2a54-4a0a-807b-90eff5ddc55a
 ---

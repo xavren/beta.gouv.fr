@@ -13,6 +13,6 @@ missions:
       - andi
 startups:
   - andi
-previously: null
+uuid: 233aed52-8e3b-4c7a-87a2-599a6f6a7a72
 ---
 Je suis quelqu'un qui comprend très vite.. à condition de m'expliquer lentement...

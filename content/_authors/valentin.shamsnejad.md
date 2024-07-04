@@ -3,8 +3,7 @@ fullname: Valentin Shamsnejad
 domaine: Développement
 role: Product Engineer
 github: JeSuisUnCaillou
-avatar: >-
-  https://gravatar.com/userimage/241524656/5dfcb0b6c2053391b505f43ed7e2c202.jpeg?size=256
+avatar: https://gravatar.com/userimage/241524656/5dfcb0b6c2053391b505f43ed7e2c202.jpeg?size=256
 link: https://caillou.ninja
 missions:
   - start: 2023-10-09
@@ -28,4 +27,5 @@ competences:
   - UX
   - Gestion de Produit
 memberType: beta
+uuid: 7164478b-d741-4eef-84a3-aff77cc96f36
 ---

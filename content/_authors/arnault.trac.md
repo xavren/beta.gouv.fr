@@ -13,4 +13,5 @@ missions:
 startups:
   - plusfraichemaville
 memberType: autre
+uuid: 0b17e1ca-d9b4-4b45-84da-4acc587d2cbf
 ---

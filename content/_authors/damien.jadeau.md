@@ -9,5 +9,6 @@ missions:
     status: admin
     employer: DNUM
 memberType: autre
+uuid: 8160d55c-6fbe-4f8c-9040-a9cf8fa2a6f9
 ---
 Champion d'Europe de manège en catégorie Carrousel

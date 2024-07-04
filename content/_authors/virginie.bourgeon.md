@@ -9,5 +9,6 @@ missions:
     status: independent
     employer: DINUM
 memberType: autre
+uuid: beefdef3-b9d0-4dc0-9367-550d637d94ff
 ---
 Infatigable à temps plein: UX designer, CSM support, j'aime comprendre et analyser.

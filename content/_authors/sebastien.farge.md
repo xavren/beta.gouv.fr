@@ -10,5 +10,5 @@ missions:
     startups:
       - encyclopedie-des-metiers
 memberType: beta
+uuid: d4e335a3-3dc1-428d-b3b0-62cbaf42ccf0
 ---
-

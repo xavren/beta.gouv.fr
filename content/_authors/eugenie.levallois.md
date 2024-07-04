@@ -9,4 +9,5 @@ missions:
     status: service
     employer: DTNUM/SDID
 memberType: autre
+uuid: bc650846-32d6-4f9f-b296-9124dec93fb3
 ---

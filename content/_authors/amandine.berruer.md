@@ -13,4 +13,5 @@ startups:
   - partaj
 competences:
   - Administration Publique
+uuid: d3b74c52-190d-40be-80d7-cd63540053bf
 ---

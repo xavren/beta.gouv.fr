@@ -10,5 +10,6 @@ missions:
       - monitorfish
 startups:
   - monitorfish
+uuid: e021261d-e2cb-4ae9-b627-24005978ffee
 ---
 Cheffe du pôle environnement

@@ -8,7 +8,6 @@ missions:
   - start: 2023-10-09
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - transition-ecologique-des-entreprises
 startups:
@@ -17,5 +16,6 @@ memberType: beta
 competences:
   - Développement Full-stack
   - DevOps
+uuid: e5d4cc8f-a664-41e0-b639-e378f0ac4df6
 ---
 Développeur Full-stack  DevOps

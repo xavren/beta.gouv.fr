@@ -11,5 +11,6 @@ missions:
     employer: Fairness
 badges:
   - segur
+uuid: fb419607-7838-44b3-9e05-a8249a2b3c39
 ---
 Facilitateur au sein de la Zone Développeur Full Stack JS aimant le code utile et bien conçu

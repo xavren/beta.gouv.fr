@@ -15,6 +15,7 @@ competences:
   - Développement Frontend
   - Développement Backend
 memberType: beta
+uuid: e5a151db-fe6c-4371-b9b4-8dbc54b43645
 ---
 Ingénieur Fullstack axé sur le produit en JavaScript/TypeScript
 

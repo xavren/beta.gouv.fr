@@ -24,4 +24,5 @@ competences:
   - Administration Publique
 teams:
   - /teams/animation-dinum
+uuid: a89bb3f0-9dd8-40eb-a16b-180cdd57084a
 ---

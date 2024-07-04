@@ -11,4 +11,5 @@ missions:
       - monstage
 startups:
   - monstage
+uuid: 52f35406-2120-4b3a-841d-0ab27afbb8a5
 ---

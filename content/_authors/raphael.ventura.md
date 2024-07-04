@@ -14,4 +14,5 @@ startups:
   - signaux-faibles
 badges:
   - segur
+uuid: 86bc277e-1da4-4dd7-b346-6f1d4826f56f
 ---

@@ -11,5 +11,6 @@ missions:
       - les-emplois
 startups:
   - les-emplois
+uuid: e92026e8-f84f-4a0e-bcc7-85708e44ef1b
 ---
 Agent comptable

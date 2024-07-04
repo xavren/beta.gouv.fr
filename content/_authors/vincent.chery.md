@@ -12,5 +12,6 @@ missions:
       - monitorfish
 startups:
   - monitorfish
+uuid: a31485f9-9aae-4391-8469-ddd3cd446eea
 ---
 Data scientist/engineer, option poissons ><>

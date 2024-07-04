@@ -13,5 +13,6 @@ badges:
   - segur
 competences:
   - Coaching
+uuid: f8fe7049-4089-41bc-b4a5-b7089ddc77dc
 ---
 Coach en conception de produits, d'expériences et de services |  Entrepreneur & Intrapreneur  | Formatrice | Service designer & UX strategist

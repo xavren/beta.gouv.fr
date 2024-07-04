@@ -12,5 +12,6 @@ missions:
 startups:
   - deveco
 memberType: beta
+uuid: 940a7286-7bbd-44b2-9fd8-a45b815ada17
 ---
 Numérique et développement éco

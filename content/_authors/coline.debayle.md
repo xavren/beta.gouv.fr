@@ -16,5 +16,6 @@ missions:
     startups:
       - economes.de.flux.a.disposition
 memberType: dinum
+uuid: 010eccb7-23c5-433e-a32d-2dfcafe49cb4
 ---
 Entrepreneur à impact depuis toujours !

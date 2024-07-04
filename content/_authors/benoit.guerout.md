@@ -23,5 +23,6 @@ startups:
   - catalogue-apprentissage
   - uai_siret
   - voeux-apprentissage
+uuid: 573254fb-945a-41d2-ba3c-532a02fbbf44
 ---
 J'évolue sur des projets informatiques à dominante web en prônant une approche simple et pragmatique des développements. Je suis également investi dans la communauté open source au travers des projets Jongo et Oleoduc.

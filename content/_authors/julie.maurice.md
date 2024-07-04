@@ -12,4 +12,5 @@ missions:
 startups:
   - 1000.premiers.jours.blues
 memberType: beta
+uuid: 57e471ea-94c1-4d83-91c4-9d966cd49a2d
 ---

@@ -17,5 +17,6 @@ badges:
 startups:
   - les.bases
   - suite.d.outils.des.mediateurs.numeriques
+uuid: 6267f42c-1159-43bd-a9e0-471550ab4e3d
 ---
 🤖🥋🎹

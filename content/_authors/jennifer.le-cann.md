@@ -8,10 +8,11 @@ missions:
     status: admin
     employer: Ministère des armées
     startups:
-      - oscars
       - cassiopee
+      - oscars
 startups:
   - oscars
   - cassiopee
+uuid: 6e1b1c35-9dac-450d-bc11-2c576fb9856d
 ---
 UX/UI

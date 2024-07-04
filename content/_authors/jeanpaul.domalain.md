@@ -11,4 +11,5 @@ missions:
       - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
+uuid: 0d479b85-101b-4378-89ce-53eddb298cf2
 ---

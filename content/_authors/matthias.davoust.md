@@ -11,5 +11,6 @@ missions:
       - clara
 startups:
   - clara
+uuid: dc879219-635c-445d-b416-d4511d1c6305
 ---
 Biz dev du produit Clara !

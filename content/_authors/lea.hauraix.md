@@ -12,5 +12,6 @@ missions:
 startups:
   - rdv-service-public
 memberType: beta
+uuid: 69d07af4-fa3d-4bd1-a3c9-5293a946068b
 ---
 Chargée de déploiement RDV Service Public

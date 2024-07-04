@@ -14,5 +14,6 @@ missions:
 startups:
   - potentiel
 memberType: beta
+uuid: dca3af54-3648-49db-a893-9f29cce04704
 ---
 TypeScript enthusiast, in ❤️ with Behavior Driven Development & Gitmoji fanboy 😎

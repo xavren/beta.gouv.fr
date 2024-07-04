@@ -7,7 +7,6 @@ missions:
   - start: 2023-05-02
     end: 2024-12-31
     status: admin
-    employer: ''
     startups:
       - aquaculteurs.marins
 competences:
@@ -16,5 +15,6 @@ memberType: beta
 role: Co-intrapreneur
 startups:
   - aquaculteurs.marins
+uuid: e2feb872-36f3-47c0-bd01-fb70829f0f78
 ---
 Numérique - Data - Agile

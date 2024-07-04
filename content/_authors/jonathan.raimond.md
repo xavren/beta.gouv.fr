@@ -18,5 +18,6 @@ badges:
 competences:
   - UX
   - UI
+uuid: aeb24a9e-15a0-45f8-95a3-8603634638ef
 ---
 Passionné par la conception de solutions intuitives et fonctionnelles au service de l'humain.

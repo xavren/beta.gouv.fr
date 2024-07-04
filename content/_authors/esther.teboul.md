@@ -13,4 +13,5 @@ missions:
 memberType: beta
 startups:
   - asso.cie
+uuid: 73585b0d-65d5-4394-a43d-06dfe293a533
 ---

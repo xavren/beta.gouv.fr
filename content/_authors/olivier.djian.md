@@ -8,4 +8,5 @@ missions:
     end: 2026-12-31
     status: admin
     employer: minint
+uuid: 4ffc1b28-fb6c-4c8e-ba58-6bf9a0062fa2
 ---

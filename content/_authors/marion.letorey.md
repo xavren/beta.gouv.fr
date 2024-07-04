@@ -8,7 +8,6 @@ missions:
     end: 2023-10-01
     status: independent
     employer: Malt
-    startups: []
   - start: 2023-10-01
     end: 2024-09-30
     status: independent
@@ -18,5 +17,6 @@ missions:
 memberType: beta
 startups:
   - experts
+uuid: 10b74658-787a-44bf-8868-d7581fb2563d
 ---
 Chargée de portefeuille à l'incubateur des territoires

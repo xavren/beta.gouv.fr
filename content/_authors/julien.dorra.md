@@ -12,4 +12,5 @@ missions:
     startups:
       - donnees-spectacle
 memberType: beta
+uuid: a7233366-0bdc-42bf-a4e9-29ea50daad78
 ---

@@ -19,5 +19,6 @@ competences:
   - JavaScript/TypeScript
   - Développement Backend
   - ElasticSearch
+uuid: c4742360-131d-4a44-aab3-2ab5cb0182e8
 ---
 Développeur et grimpeur du dimanche

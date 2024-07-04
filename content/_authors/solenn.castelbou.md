@@ -13,5 +13,6 @@ missions:
 startups:
   - egalite.professionnelle
 memberType: autre
+uuid: 413cd9a1-ecb6-4209-a0dc-e4bade170865
 ---
 Consultante Product Owner

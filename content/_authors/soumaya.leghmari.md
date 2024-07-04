@@ -12,4 +12,5 @@ missions:
 startups:
   - data-subvention
 memberType: beta
+uuid: 93c1456d-17d0-4dec-9942-58b5c2f01f75
 ---

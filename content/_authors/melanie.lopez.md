@@ -10,4 +10,5 @@ missions:
     startups:
       - suite-numerique
 memberType: beta
+uuid: 2225f625-53d6-4c2c-9a62-056b19424f97
 ---

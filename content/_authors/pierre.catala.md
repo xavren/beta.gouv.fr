@@ -12,4 +12,5 @@ missions:
 startups:
   - monitorfish
 memberType: autre
+uuid: 38936cad-e416-47c2-834b-f85cd9b257d0
 ---

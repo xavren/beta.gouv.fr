@@ -13,5 +13,6 @@ startups:
   - inca
 badges:
   - segur
+uuid: 81c25c4e-2fc6-475f-aabd-b67c79e0e197
 ---
 UX / Service Designer depuis 10 ans déjà !

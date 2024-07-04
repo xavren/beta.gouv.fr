@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: Ministère des Armées
 memberType: beta
+uuid: f95688c6-dce5-4e79-9860-dfdcd2077bed
 ---

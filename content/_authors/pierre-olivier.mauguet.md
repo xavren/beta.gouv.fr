@@ -42,4 +42,5 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: cbade0c9-3b36-44f6-86d5-06ec5654c4c0
 ---

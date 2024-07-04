@@ -17,6 +17,7 @@ memberType: autre
 competences:
   - Accessibilité
   - Développement Frontend
+uuid: f8ae7fe1-8dd5-4fb4-bcd8-20ce67d0b481
 ---
 Développeuse front et Experte accessibilité à mi-temps.
 Maman à plein temps.

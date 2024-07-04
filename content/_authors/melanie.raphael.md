@@ -16,5 +16,6 @@ startups:
   - tdb-apprentissage
 badges:
   - segur
+uuid: 2248b835-ac99-46f0-adab-ead8d58ffc92
 ---
 Chargée de déploiement Spécialiste de la communication publique - PO/PM Addict aux serious game, escape game et expériences immersives

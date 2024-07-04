@@ -12,4 +12,5 @@ missions:
       - histologe
 startups:
   - histologe
+uuid: 92bcd01e-afb4-4bd7-83fb-31ecdc44d366
 ---

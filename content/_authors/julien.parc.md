@@ -10,5 +10,6 @@ missions:
 memberType: autre
 competences:
   - Gestion de Produit
+uuid: dd9de32f-8a42-4838-9738-e44ce0b241ff
 ---
 Expert rénovation pas du tout développeur

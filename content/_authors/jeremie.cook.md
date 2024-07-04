@@ -33,4 +33,5 @@ competences:
   - UX
   - UI
   - Accessibilité
+uuid: ec17e6f0-237a-4ece-af1b-b60ecdd6a939
 ---

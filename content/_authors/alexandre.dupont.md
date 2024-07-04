@@ -12,5 +12,6 @@ missions:
       - a-dock
 startups:
   - a-dock
+uuid: 17e6fbd7-2f87-4d55-9aa7-68cec9a4db78
 ---
 La transformation numérique, écologique et économique de notre société s'appuiera sur une transformation de notre action publique.

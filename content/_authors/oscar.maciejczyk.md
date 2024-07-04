@@ -11,5 +11,6 @@ missions:
       - sndv_maritime
 startups:
   - sndv_maritime
+uuid: e41b24ce-76b9-4e42-9922-c2008bc3f0e1
 ---
 Déploiement MOANA

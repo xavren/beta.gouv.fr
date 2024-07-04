@@ -11,6 +11,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+uuid: 5a122f86-aa95-4dc4-9c1b-93ecbff0a6ed
 ---
-
 14 ans d'expérience en tant que Data Analyst et entrepreneur enthousiaste.

@@ -13,4 +13,5 @@ github: benjlevesque
 competences:
   - Développement Full-stack
 memberType: beta
+uuid: e59703e6-0f50-4465-9b1a-29b74ef315fe
 ---

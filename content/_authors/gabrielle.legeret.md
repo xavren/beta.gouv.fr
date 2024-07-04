@@ -8,10 +8,11 @@ missions:
     status: independent
     employer: octo
     startups:
-      - open-academie
       - dossiersco
+      - open-academie
 startups:
   - open-academie
   - dossiersco
+uuid: 19199969-a92e-4319-bd9b-03b32d889e23
 ---
 Travaille chez Chemins d’avenirs, en faveur de l’égalité des chances. Business dev pour dossierSCO.

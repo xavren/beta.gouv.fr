@@ -11,4 +11,5 @@ missions:
 startups:
   - homologation
 memberType: beta
+uuid: 796baf97-56cf-4356-8c74-28413df9cfef
 ---

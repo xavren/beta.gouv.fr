@@ -8,8 +8,8 @@ missions:
     status: independent
     employer: DINUM
 startups: []
-badges: null
 competences:
   - UI
+uuid: ab7e2c06-5abd-4038-8d96-87eb1dbf5626
 ---
 UI/UX Designer

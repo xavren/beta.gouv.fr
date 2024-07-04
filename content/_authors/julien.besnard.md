@@ -9,5 +9,6 @@ missions:
     employer: Omnicité
 badges:
   - segur
+uuid: 415908db-9179-4081-9135-0714d3001063
 ---
 Codirecteur Omnicité

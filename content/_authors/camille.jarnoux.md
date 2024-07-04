@@ -8,5 +8,6 @@ missions:
     status: independent
     employer: LBC
 memberType: beta
+uuid: 1c07ff8f-44db-4650-b1c2-94d824ae23e3
 ---
 Chargée de déploiement

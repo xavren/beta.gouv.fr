@@ -13,5 +13,6 @@ missions:
 startups:
   - sante-psy-etudiant
 memberType: autre
+uuid: 32c9a777-37c3-4845-8667-7519f1ede1d7
 ---
 Développeuse full-stack

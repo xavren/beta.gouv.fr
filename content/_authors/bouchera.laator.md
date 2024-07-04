@@ -13,5 +13,6 @@ startups:
   - la-bonne-boite
 competences:
   - Gestion de Produit
+uuid: c7c50f93-d153-44a0-b503-2aa4341d2e4f
 ---
 Rien n'est impossible

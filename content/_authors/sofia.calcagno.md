@@ -13,4 +13,5 @@ missions:
 avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-Eao0Nc76QU3sg9RD-ozeOIjU_TwkZHz18j3kty1Td49MdX4
 startups:
   - pass-culture
+uuid: 08709233-d6a5-4049-a7a2-3d95980d3a09
 ---

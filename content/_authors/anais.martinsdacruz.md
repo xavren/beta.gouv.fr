@@ -12,4 +12,5 @@ missions:
       - domifa
 startups:
   - domifa
+uuid: c1f9a8f3-9547-4046-8fc4-f1ee1907be27
 ---

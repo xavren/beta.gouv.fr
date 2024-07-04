@@ -12,5 +12,6 @@ previously:
   - expresso
 teams:
   - /teams/atelier_meae
+uuid: 68e8bfbc-4cc7-4c53-a4ab-1080c9136e69
 ---
 Responsable de l'Atelier numérique du MEAE

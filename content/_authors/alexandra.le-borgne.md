@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: NUMA
     startups:
-      - mesads
       - le-taxi
+      - mesads
       - scienceinfuse
 startups:
   - mesads
@@ -18,4 +18,5 @@ startups:
   - scienceinfuse
 previously:
   - culturecheznous
+uuid: aa064cca-7894-405f-b8f2-e8e48b4e9f69
 ---

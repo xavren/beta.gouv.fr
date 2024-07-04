@@ -3,8 +3,6 @@ fullname: Maxime Perdu
 role: Growth Hacking / Product strategist / Couteau suisse bourguignon
 domaine: Produit
 github: maximeduper
-avatar: null
-link: null
 missions:
   - start: 2020-08-20
     end: 2022-08-31
@@ -13,5 +11,6 @@ missions:
       - jeveuxaider
 startups:
   - jeveuxaider
+uuid: c5c9ae6d-5c87-4982-b9c1-aaf801d52197
 ---
 Ingénieur matériaux-développement durable qui a viré vers l'écosystème startup. En perpétuel recherche de sens et d'impact. Hédoniste qui veut tirer la meilleur version de lui-même.

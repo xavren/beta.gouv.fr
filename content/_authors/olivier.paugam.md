@@ -12,5 +12,6 @@ missions:
 startups:
   - themis
 memberType: autre
+uuid: 31554f0e-02ee-44f2-b12a-52b8425c2eee
 ---
 En toute intelligence collective

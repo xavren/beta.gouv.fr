@@ -12,4 +12,5 @@ missions:
 startups:
   - signaux-faibles
 memberType: beta
+uuid: 9558bca1-7cd4-4227-b995-6d9d756a8d2f
 ---

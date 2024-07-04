@@ -15,5 +15,6 @@ startups:
   - ecobalyse
 badges:
   - segur
+uuid: e775aadf-e5ad-4089-ad2d-daf44057f5a0
 ---
 Spécialiste de l'évaluation environnementale de produits (Textile / Cosmétiques) souhaitant contribuer à rendre notre modèle économique compatible avec les Limites Planétaires.

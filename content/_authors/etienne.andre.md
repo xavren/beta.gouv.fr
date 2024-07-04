@@ -12,7 +12,7 @@ missions:
       - sndv_maritime
 startups:
   - sndv_maritime
-previously: null
 competences:
   - Administration Système
+uuid: a33899ba-712a-422d-88dd-bbd8c0c4ba7e
 ---

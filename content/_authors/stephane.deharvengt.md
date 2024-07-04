@@ -13,5 +13,6 @@ missions:
 startups:
   - nis2
 memberType: autre
+uuid: 240616bb-abe2-4716-a6f6-814f6b3e5d68
 ---
 Un aviateur dans le cyberespace

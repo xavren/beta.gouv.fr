@@ -32,5 +32,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: a8e363dc-624c-4c54-b529-73e6403b7799
 ---
 Développeur Python / Django

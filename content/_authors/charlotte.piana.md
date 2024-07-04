@@ -13,5 +13,6 @@ startups:
   - resorption-bidonvilles
 badges:
   - segur
+uuid: c4b27889-0a39-4193-9474-e8c25cbfc34a
 ---
 Diplômée de sciences po (licence) et de sciences et gestion de l'environnement (Master) de l'Université Libre de Bruxelles (ULB). Également chanteuse et parolière.

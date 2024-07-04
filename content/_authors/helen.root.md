@@ -19,4 +19,5 @@ previously:
 competences:
   - Développement Full-stack
   - Accessibilité
+uuid: da0e8441-95d2-40f6-8518-b4add55ed282
 ---

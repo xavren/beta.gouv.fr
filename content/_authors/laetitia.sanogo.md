@@ -11,5 +11,5 @@ missions:
 startups:
   - moncomptepro
 memberType: autre
+uuid: 4dbf4954-49a5-497b-98d1-026f8409c08f
 ---
-

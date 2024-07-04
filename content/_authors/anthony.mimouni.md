@@ -11,4 +11,5 @@ competences:
   - Administration Publique
   - Product strategy
 memberType: beta
+uuid: 809e426c-1e15-4717-993f-3a9a0266fe76
 ---

@@ -8,12 +8,13 @@ missions:
     status: admin
     employer: Ministère de l'Intérieur
     startups:
-      - histovec
       - candilib
+      - histovec
       - polex
 startups:
   - histovec
   - candilib
   - polex
 avatar: https://lab-mi.github.io/img/equipe/petit/philippe_bron.jpg
+uuid: 6eb8eb0b-0648-4835-9e72-8cce6442b303
 ---

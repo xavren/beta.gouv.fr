@@ -13,5 +13,6 @@ missions:
 startups:
   - datapass
 memberType: beta
+uuid: f3ba76e8-9ed6-4ce1-8694-198e102048ac
 ---
 Product Designer

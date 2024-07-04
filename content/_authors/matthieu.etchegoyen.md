@@ -20,4 +20,5 @@ missions:
 startups:
   - apilos
 memberType: beta
+uuid: bfb0ca59-9deb-44ee-aae6-045c5d80f9e0
 ---

@@ -10,5 +10,6 @@ missions:
 competences:
   - UX
   - Coaching
+uuid: 848f8f08-a5e3-4570-b5e4-50c18dbdf49c
 ---
 À l'ombre des palmiers pour travailler !

@@ -9,10 +9,11 @@ missions:
     end: 2019-09-30
     status: independent
     startups:
-      - zen
       - perspectives
+      - zen
 startups:
   - zen
   - perspectives
+uuid: 2deb67f3-83d9-4ae7-856f-90e165cf5ae8
 ---
 J'accompagne des intrapreneurs et des product managers.

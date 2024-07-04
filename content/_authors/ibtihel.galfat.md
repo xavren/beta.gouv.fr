@@ -12,5 +12,6 @@ missions:
 startups:
   - apilos
 memberType: beta
+uuid: 697bfa66-954d-4dcf-8c8b-ec45895b97ed
 ---
 Chargée de support

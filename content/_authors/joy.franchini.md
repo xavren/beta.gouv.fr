@@ -11,4 +11,5 @@ missions:
       - covoit'scelles
 startups:
   - covoit'scelles
+uuid: 859fc535-c030-4595-b34f-5bc4b59eff6a
 ---

@@ -13,5 +13,6 @@ missions:
 startups:
   - codedutravail
 memberType: beta
+uuid: 64924ce5-eb2d-40c6-92ce-9448be1cea93
 ---
 Expert Tech-for-good, coach en développement pro-perso !

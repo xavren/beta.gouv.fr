@@ -13,5 +13,5 @@ missions:
 startups:
   - snu
 memberType: autre
+uuid: 2559a330-27ff-49ab-a887-b79506c96d3f
 ---
-

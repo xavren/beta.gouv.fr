@@ -12,6 +12,6 @@ missions:
       - mon-diagnostic-artificialisation
 startups:
   - mon-diagnostic-artificialisation
+uuid: 87ff5f07-56dd-4d20-a620-8033b097f767
 ---
-
 Développeur Django sénior

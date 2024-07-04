@@ -16,6 +16,7 @@ competences:
   - Product strategy
   - Coaching
 memberType: beta
+uuid: 940ce812-d69a-402d-9ea7-273e483d568a
 ---
 Sarah Farnault — Design de Service & UX • Coaching • Formation 
 

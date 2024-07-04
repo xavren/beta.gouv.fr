@@ -14,4 +14,5 @@ startups:
   - aides.jeunes
 badges:
   - segur
+uuid: 3cf5a5f9-f2d2-487f-92b6-0539875585d9
 ---

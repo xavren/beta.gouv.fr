@@ -12,5 +12,6 @@ missions:
 startups:
   - monstage
 memberType: beta
+uuid: ba3b72f7-66b0-4c98-9b90-9f98d5997f4b
 ---
 Biz dev

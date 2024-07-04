@@ -12,5 +12,6 @@ missions:
       - camino
 startups:
   - camino
+uuid: bd9d8621-92c5-424c-80fd-fa10ca299bbe
 ---
 Nouvelle-venue en tant qu'intrapreneure2 sur CAMINO (Cadastre Minier Ouvert) au sein de la Fabrique numérique au MTE

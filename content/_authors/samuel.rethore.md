@@ -11,5 +11,6 @@ missions:
       - stargate
 startups:
   - stargate
+uuid: 62f39b30-0b30-4f21-b00e-a79544077ca0
 ---
 Bon vivant et amateur d'expériences culinaires

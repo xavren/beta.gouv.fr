@@ -12,5 +12,6 @@ missions:
       - l-application-du-cej
 startups:
   - l-application-du-cej
+uuid: 5ae8242b-f84a-4d79-9929-75dd58bd7d6a
 ---
 Designeuse fan de méthodo, de recherche utilisateur et de travail en équipe 🧚🏼‍♀️

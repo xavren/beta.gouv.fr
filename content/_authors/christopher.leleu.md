@@ -1,5 +1,5 @@
 ---
-fullname: Christopher Leleu 
+fullname: Christopher Leleu
 role: Data
 domaine: Data
 github: ChristopherLELEU
@@ -9,5 +9,6 @@ missions:
     status: admin
     employer: ANSM
 memberType: autre
+uuid: 45989ac6-e3ba-49a3-a187-a45ca0ba5cd3
 ---
 Data

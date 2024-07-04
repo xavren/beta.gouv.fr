@@ -13,4 +13,5 @@ missions:
 startups:
   - pass-culture
 memberType: beta
+uuid: 086bba5b-57b9-4a0a-8a7d-3e06aec82106
 ---

@@ -7,8 +7,8 @@ missions:
     end: 2023-10-01
     status: independent
     employer: Dinum
-startups: null
 previously:
   - pilotage.de.linclusion
 memberType: beta
+uuid: 02d7a849-dac1-4836-879c-dfabeaf5602f
 ---

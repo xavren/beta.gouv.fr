@@ -13,5 +13,6 @@ missions:
 startups:
   - reva
 memberType: beta
+uuid: 53f8ba91-6d40-4eda-9bbe-d550386fde04
 ---
 Designer UXUI

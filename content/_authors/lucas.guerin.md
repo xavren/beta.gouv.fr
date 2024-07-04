@@ -14,5 +14,6 @@ missions:
 startups:
   - pass.engagement.jeune
 memberType: beta
+uuid: 98adc5dd-eb22-4003-bc07-915436350c8f
 ---
 Développeur créatif et UXUI touche-a-tout

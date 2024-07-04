@@ -8,5 +8,6 @@ missions:
     end: 2020-12-31
     status: service
     employer: octo
+uuid: 27239c66-5bea-4283-b8eb-c21d54c8e354
 ---
 All you need is Data

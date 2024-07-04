@@ -10,10 +10,10 @@ missions:
     status: admin
     employer: Ministère de l'Intérieur
     startups:
-      - urgencevie
+      - dialogue.operationnel
       - fedel
       - psij
-      - dialogue.operationnel
+      - urgencevie
 startups:
   - urgencevie
   - fedel
@@ -34,4 +34,5 @@ competences:
   - Coaching
 teams:
   - /teams/lab-mi
+uuid: 9ca91ab6-44b3-4fae-97a3-e6043a7a30d0
 ---

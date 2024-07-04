@@ -9,14 +9,15 @@ missions:
     status: independent
     employer: scopopop
     startups:
-      - mes-aides
       - competence.validee
       - la-bonne-boite
+      - mes-aides
 startups:
   - mes-aides
   - competence.validee
   - la-bonne-boite
 previously:
   - demarches-simplifiees.fr
+uuid: 94154d54-ca65-4874-b26f-64acb6670376
 ---
 UX Designer

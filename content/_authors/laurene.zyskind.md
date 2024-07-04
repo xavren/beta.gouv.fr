@@ -8,5 +8,6 @@ missions:
     status: independent
     employer: ANCT
 memberType: beta
+uuid: 638e9d1f-9910-4aad-a095-f72883ee6133
 ---
 Designer numérique

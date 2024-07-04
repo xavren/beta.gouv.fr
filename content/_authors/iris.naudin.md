@@ -18,5 +18,6 @@ badges:
   - segur
 competences:
   - UX
+uuid: d97ae169-d093-4322-9091-fea2c330e933
 ---
 Designerd

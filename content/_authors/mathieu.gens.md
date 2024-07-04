@@ -12,5 +12,6 @@ missions:
       - conseillers-entreprises
 startups:
   - conseillers-entreprises
+uuid: 00c916f9-ba3d-4f74-bce3-f0e1496999e5
 ---
 Ceux et celles qui sont assez fous pour croire qu’ils peuvent changer le développement éco., sont en réalité ceux qui le font.

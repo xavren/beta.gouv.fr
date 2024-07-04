@@ -10,12 +10,13 @@ missions:
     startups:
       - clara
       - labonneplace
-      - polex
       - mes.aides.a.lembauche
+      - polex
 startups:
   - clara
   - labonneplace
   - polex
   - mes.aides.a.lembauche
+uuid: 79005096-9de0-4491-9256-c317f4cc48b8
 ---
 Agent à la DSI de Nantes - Incubateur Startup Pôle emploi Design graphique & Thinking. Worshops, conception Users experiences. “Fail often, fail fast,” ― Donald A. Norman

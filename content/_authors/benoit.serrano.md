@@ -16,5 +16,6 @@ startups:
   - notifications
 previously:
   - tous.a.bord
+uuid: 1453fcc1-4fcf-4b99-bdb4-fe11d5c7cf5f
 ---
 Développeur JS, passion cybersécurité

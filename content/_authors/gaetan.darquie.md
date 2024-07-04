@@ -14,5 +14,6 @@ missions:
 startups:
   - moncomptepro
 memberType: dinum
+uuid: cf703032-471e-4955-9808-e3bf79bb43f7
 ---
 Développeur Node JS

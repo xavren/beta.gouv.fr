@@ -7,7 +7,7 @@ link: https://www.linkedin.com/in/antonin-garrone-8272bb154/
 missions:
   - start: 2019-01-14
     end: 2019-07-13
-    employer: dinum
     status: admin
-startups: null
+    employer: dinum
+uuid: 675b31f5-3a72-47d9-b31b-3f9e20368e0f
 ---

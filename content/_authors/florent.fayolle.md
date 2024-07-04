@@ -15,4 +15,5 @@ fullname: Florent FAYOLLE
 role: Développeur
 startups:
   - données-et-territoires
+uuid: be101971-f348-4c78-8210-71c65797ae17
 ---

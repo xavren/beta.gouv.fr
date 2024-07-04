@@ -7,10 +7,10 @@ missions:
   - start: 2022-03-07
     end: 2024-01-31
     status: independent
-    employer: ''
 previously:
   - transport
 badges:
   - segur
+uuid: 48855af8-c606-4f62-8816-46d17d580999
 ---
 Une grande passionnée de mobilités !

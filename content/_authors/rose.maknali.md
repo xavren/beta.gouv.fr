@@ -8,4 +8,5 @@ missions:
     status: admin
 badges:
   - segur
+uuid: 1e323d0d-d363-455b-a620-c853364ef90f
 ---

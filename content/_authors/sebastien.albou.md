@@ -13,5 +13,6 @@ missions:
 startups:
   - snu
 memberType: beta
+uuid: 1f926d2d-69d8-44a7-b5ab-33876dc7b900
 ---
 Data Analyst / Coach Tableau & SQL

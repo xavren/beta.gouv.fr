@@ -12,10 +12,9 @@ missions:
   - start: 2024-03-04
     end: 2024-06-04
     status: independent
-    employer: ''
-    startups: []
 startups:
   - les-emplois
 memberType: beta
+uuid: 4e4a435f-964a-48f0-95c4-9463927d41a6
 ---
 Ensemble on va plus loin

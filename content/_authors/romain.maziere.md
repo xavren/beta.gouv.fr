@@ -18,4 +18,5 @@ competences:
   - DevOps
   - Administration Système
 memberType: beta
+uuid: 4f09d5e0-32db-45ce-bf1d-09300af9216f
 ---

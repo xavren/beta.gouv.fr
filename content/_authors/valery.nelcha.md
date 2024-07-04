@@ -11,5 +11,6 @@ missions:
       - eac
 startups:
   - eac
+uuid: 44c0f745-ff60-4905-9941-b3af684fc3ad
 ---
 Coordinatrice, intrapreneuse, membre de l'équipe produit sur la plateforme pour l'éducation artistique et culturelle.

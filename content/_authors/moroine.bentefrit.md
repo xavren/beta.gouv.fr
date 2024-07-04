@@ -9,8 +9,8 @@ missions:
     status: independent
     employer: UT7
     startups:
-      - boite.aux.lettres
       - api.apprentissage
+      - boite.aux.lettres
 memberType: beta
 startups:
   - boite.aux.lettres
@@ -22,4 +22,5 @@ competences:
   - Sécurité informatique
   - Développement Full-stack
 link: https://www.linkedin.com/in/moroine/
+uuid: 64fe0763-6686-426c-8249-b3de1beeb888
 ---

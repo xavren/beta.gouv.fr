@@ -14,5 +14,6 @@ startups:
   - snu
 badges:
   - segur
+uuid: 4f82ebdf-cbf8-4f48-8b1d-7c96861d7e25
 ---
 Consultante secteur public et fleuriste freelance

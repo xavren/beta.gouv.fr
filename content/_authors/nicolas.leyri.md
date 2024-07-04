@@ -11,4 +11,5 @@ missions:
       - classe-a-12
 startups:
   - classe-a-12
+uuid: 12cb30e0-6a25-49f9-8897-906d49e7ad5d
 ---

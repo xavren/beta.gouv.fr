@@ -14,4 +14,5 @@ missions:
 memberType: autre
 startups:
   - sante-psy-etudiant
+uuid: c466d1e2-8d83-4255-b7e7-4f1ff0e7d695
 ---

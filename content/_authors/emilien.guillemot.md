@@ -16,4 +16,5 @@ badges:
   - segur
 previously:
   - recosante
+uuid: 92bd9f47-b0de-472b-aded-9c67b2bdbaef
 ---

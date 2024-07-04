@@ -12,4 +12,5 @@ missions:
 startups:
   - allo62
 previously: []
+uuid: f1b0671d-76b6-4b81-b232-a6c93897c9fc
 ---

@@ -12,4 +12,5 @@ missions:
 competences:
   - Développement Frontend
 memberType: beta
+uuid: a87a23f1-026c-4a2f-a050-2296b5480b2d
 ---

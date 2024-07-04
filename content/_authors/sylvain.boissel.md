@@ -17,4 +17,5 @@ previously:
   - aides-territoires
 badges:
   - segur
+uuid: 1438042e-5b53-4004-b830-d9959e4a948e
 ---

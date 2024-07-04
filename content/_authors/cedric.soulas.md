@@ -19,5 +19,6 @@ missions:
     employer: Malt
 startups:
   - reva
+uuid: 73b20efe-f066-464b-8015-092bb5e14603
 ---
 Développeur d’applications web et créateur de formations illustrées

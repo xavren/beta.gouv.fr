@@ -8,8 +8,8 @@ missions:
     end: 2017-02-10
     status: service
     employer: octo
-startups: null
 previously:
   - api-entreprise
+uuid: 0b5b8ce1-d81f-4752-bc3f-73fadad5c346
 ---
 Celui qui doute teste. Celui qui ne doute pas ne teste pas.

@@ -10,4 +10,5 @@ missions:
     startups:
       - epandage-facile
 memberType: beta
+uuid: 913b9ede-76f5-440c-91fc-198552d10c8f
 ---

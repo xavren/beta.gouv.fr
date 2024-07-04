@@ -8,7 +8,6 @@ missions:
   - start: 2020-06-24
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - snu
 startups:
@@ -18,4 +17,5 @@ previously:
 competences:
   - Gestion de Produit
   - Administration Publique
+uuid: 1df25956-8f14-49a6-bf91-469e96ecff46
 ---

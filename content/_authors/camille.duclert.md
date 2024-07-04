@@ -12,4 +12,5 @@ missions:
 startups:
   - pop
 memberType: beta
+uuid: 4d47d976-3d4b-40c5-96ef-abf71380419f
 ---

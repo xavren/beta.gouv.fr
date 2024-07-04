@@ -34,5 +34,6 @@ previously:
   - dossierfacile
   - vigieau
 link: https://www.linkedin.com/in/michaelboitin/
+uuid: d4732de5-0798-4d07-8677-25284646a0cf
 ---
 Ux designer A-JUST

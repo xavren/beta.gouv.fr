@@ -13,5 +13,6 @@ startups:
   - le-taxi
 badges:
   - segur
+uuid: 0e77dd77-776d-4780-ab83-e6592dc1a423
 ---
 Vive les taxis !

@@ -13,5 +13,6 @@ missions:
 startups:
   - snu
 memberType: beta
+uuid: aad07e6b-1c9d-4aab-869d-34d336380179
 ---
 Développeur le jour, mais aussi la nuit.

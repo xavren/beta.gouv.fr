@@ -13,5 +13,6 @@ startups:
   - chauffage-urbain
 badges:
   - segur
+uuid: 81247cb7-1359-461a-b490-3db15e2367c7
 ---
 Chef du service Energie & Bâtiment à la DRIEAT

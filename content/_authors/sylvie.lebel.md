@@ -16,5 +16,6 @@ startups:
   - l-immersion-facile
 previously:
   - zen
+uuid: a7964585-d800-48a8-a48c-bb15d6df5ba8
 ---
 Je m’attache à ce que chaque demandeur d’emploi comprenne et s’approprie les services de Pôle emploi. L’enthousiasme, la curiosité et l’innovation sont de bons moteurs !

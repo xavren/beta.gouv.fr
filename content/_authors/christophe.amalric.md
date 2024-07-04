@@ -23,5 +23,6 @@ competences:
   - Gestion de Produit
   - Communication
   - Croissance
+uuid: c1c4e090-092b-48a3-9a30-7edafc6dc6a8
 ---
 Papa (x2), Product Management, Course à pieds, Voyageur (23/197) 🚀 ✈️

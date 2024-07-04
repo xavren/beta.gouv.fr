@@ -12,5 +12,6 @@ missions:
 startups:
   - reva
 memberType: beta
+uuid: 6471866c-ea05-4dfd-a292-a560cd9b02ab
 ---
 Chargé de support

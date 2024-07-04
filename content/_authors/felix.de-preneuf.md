@@ -14,5 +14,6 @@ startups:
 competences:
   - Croissance
   - Communication
+uuid: 559cbc6a-0d0f-45ef-a414-2926857f13a9
 ---
 Chargé de déploiement pour Aidants Connect

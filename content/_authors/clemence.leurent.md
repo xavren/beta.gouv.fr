@@ -14,4 +14,5 @@ startups:
   - france-numerique-ensemble
 previously:
   - demarches-simplifiees.fr
+uuid: 5bca307f-a7ec-4901-b2df-48e20fe3966e
 ---

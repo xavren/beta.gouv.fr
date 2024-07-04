@@ -14,5 +14,6 @@ missions:
 startups:
   - umap
 memberType: autre
+uuid: b6616609-f26f-4e4d-b8ab-43b2bd11c906
 ---
 Développeur intéressé par les dynamiques collectives, les libertés numériques et la facilitation.

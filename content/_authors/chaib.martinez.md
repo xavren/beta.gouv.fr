@@ -41,5 +41,6 @@ competences:
 teams:
   - /teams/communaute-dinum
   - /teams/fast-dinum
+uuid: 2e19de36-edba-44b9-931f-3b29f22ffad5
 ---
 Accélérateur de startups d'État. Acquisition, Activation, Retention, Referral, Impact 👊

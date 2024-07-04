@@ -16,5 +16,6 @@ badges:
   - segur
 previously:
   - mon-entreprise
+uuid: 13843c26-aa27-4c32-9790-36b91daf2a22
 ---
 Développeur Front-End spécialisé en React. Fan de 🚲 🎸 🏊‍♂️  🚣

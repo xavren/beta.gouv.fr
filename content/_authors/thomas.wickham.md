@@ -7,7 +7,7 @@ missions:
     end: 2016-10-14
     status: service
     employer: octo
-startups: null
 previously:
   - pix
+uuid: b23dcec6-4495-4501-8fdf-dab06f31eb53
 ---

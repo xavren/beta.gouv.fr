@@ -10,4 +10,5 @@ missions:
     startups:
       - ecobalyse
 memberType: beta
+uuid: 8d579179-44ad-43a9-a071-8a7561893d5a
 ---

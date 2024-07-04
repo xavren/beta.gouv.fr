@@ -12,4 +12,5 @@ missions:
 competences:
   - Croissance
 memberType: beta
+uuid: 87940256-4058-4f97-b245-f03878f780b9
 ---

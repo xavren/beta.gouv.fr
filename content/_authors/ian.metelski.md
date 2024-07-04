@@ -6,7 +6,6 @@ missions:
   - start: 2024-04-05
     end: 2024-10-09
     status: admin
-    employer: ''
     startups:
       - vapp
 competences:
@@ -17,4 +16,5 @@ competences:
   - Développement Full-stack
   - Administration Publique
 memberType: beta
+uuid: d517e6ac-208e-437c-ad20-7d55ac67f007
 ---

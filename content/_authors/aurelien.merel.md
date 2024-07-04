@@ -16,4 +16,5 @@ startups:
   - oots.once-only.technical.system
 previously:
   - demarches-simplifiees.fr
+uuid: 2dd80a0f-1edc-48f7-bc02-1603e336bcb7
 ---

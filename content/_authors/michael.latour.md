@@ -14,4 +14,5 @@ startups:
   - au-compost-mitoyen
 competences:
   - Administration Publique
+uuid: 8553abb0-1681-4425-9869-61e1ec00663c
 ---

@@ -13,5 +13,6 @@ competences:
   - Communication
   - Facilitation
   - Coaching
+uuid: e7009bc8-6f0e-4b69-87ca-c23854a55881
 ---
 Coach startup d’État et chargée de communication innovation

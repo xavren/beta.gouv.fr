@@ -13,5 +13,6 @@ missions:
       - preuve-de-covoiturage
 startups:
   - preuve-de-covoiturage
+uuid: 183ce7e8-fe90-44ca-88d0-f31f107d4199
 ---
 Product Manager un jour, entrepreneur toujours !

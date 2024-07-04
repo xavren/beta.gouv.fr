@@ -13,5 +13,6 @@ missions:
 startups:
   - cobot
 github: roxanesch
+uuid: d7e557ee-9a29-4bf3-a0dc-49bb667d14a1
 ---
 Fan d'utilité sociale

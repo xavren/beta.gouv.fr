@@ -8,4 +8,5 @@ missions:
     status: service
     employer: Malt
 memberType: attributaire
+uuid: c86effc5-cde3-47d9-8d73-c9b34e58e355
 ---

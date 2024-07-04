@@ -14,5 +14,6 @@ startups:
   - authentification
 badges:
   - segur
+uuid: 11343fe3-cba8-41af-abec-a0699b81ac35
 ---
 Développeuse web

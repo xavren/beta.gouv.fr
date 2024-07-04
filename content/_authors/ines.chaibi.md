@@ -10,4 +10,5 @@ missions:
     startups:
       - bat-id
 memberType: beta
+uuid: 3258d8bc-a704-4a76-b16f-c6ccf063031b
 ---

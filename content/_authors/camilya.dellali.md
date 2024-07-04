@@ -13,4 +13,5 @@ missions:
     employer: Démarches-simplifiées
 startups:
   - demarches-simplifiees.fr
+uuid: 7ce26d1e-72f6-4644-8a0d-51d2afd2e6a7
 ---

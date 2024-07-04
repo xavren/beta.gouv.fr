@@ -14,5 +14,6 @@ previously:
 startups:
   - agora
 memberType: beta
+uuid: b153ac1d-f46b-4fb5-b6a3-742a332cbb13
 ---
 Data Engineer pour le projet Agora

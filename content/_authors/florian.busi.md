@@ -12,5 +12,5 @@ competences:
   - SSI
   - cybersécurité
   - Analyse de risques
+uuid: 0e832bfd-9252-4606-ad42-98bdd0568f1d
 ---
-

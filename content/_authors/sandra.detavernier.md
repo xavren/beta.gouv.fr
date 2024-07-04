@@ -13,5 +13,6 @@ missions:
 startups:
   - lannuaire.des.collectivites
 memberType: beta
+uuid: 4363ab8e-ce0f-4df4-aff2-4026f94aaddf
 ---
 Chargée de déploiement, Annuaire des collectivités

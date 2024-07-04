@@ -18,5 +18,6 @@ competences:
   - UX
   - Product design
   - Product strategy
+uuid: 37b2d623-e3da-4a51-8223-510149a71ae2
 ---
 UX Designer & cheffe de produit J'aime les jeux de mots et le vert menthe !

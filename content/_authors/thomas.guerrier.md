@@ -12,5 +12,6 @@ teams:
   - /teams/justice
 badges:
   - segur
+uuid: d76a86b0-84b3-4310-9676-73bd757ae85e
 ---
 Responsable de la Fabrique Innovation au Ministère de la Justice

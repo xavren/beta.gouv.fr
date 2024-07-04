@@ -11,4 +11,5 @@ missions:
 startups:
   - pass-sport
 memberType: beta
+uuid: 3f7f93d6-3082-427d-ae65-dabaf553a6f8
 ---

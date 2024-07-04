@@ -13,5 +13,6 @@ previously:
   - data-inclusion
 badges:
   - segur
+uuid: fb26048d-b1cc-4b12-b015-c03ea0380f74
 ---
 Développeur data et entrepreneur social.

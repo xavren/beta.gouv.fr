@@ -12,5 +12,6 @@ missions:
 startups:
   - pilotage.de.linclusion
 memberType: beta
+uuid: c95f0910-e162-44aa-b234-3fedbe92954d
 ---
 Intra et professionnel terrain dans la champ du handicap (ESAT) - inclusion professionnelle - joueur de pelote basque !

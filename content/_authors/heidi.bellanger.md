@@ -8,10 +8,11 @@ missions:
     status: independent
     employer: Incubateur France Travail
     startups:
-      - travailler.en.france
       - mes-aides-france-travail
+      - travailler.en.france
 startups:
   - travailler.en.france
   - mes-aides-france-travail
 memberType: beta
+uuid: 6c230cc6-3bb5-4022-bd98-99b9e53a34c0
 ---

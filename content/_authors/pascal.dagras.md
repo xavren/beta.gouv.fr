@@ -17,5 +17,6 @@ badges:
   - segur
 competences:
   - Administration Publique
+uuid: 6c7dc6ed-8d0f-4aff-8f4e-ee7ee15f2dcb
 ---
 Ancien de la police de l'environnement, je veux aider à rendre tangibles les activités industrielles qu'il y a derrière les produits et services

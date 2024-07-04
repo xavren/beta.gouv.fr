@@ -21,5 +21,6 @@ competences:
   - UI
   - Coaching
   - Gestion de Produit
+uuid: 930d549a-ed19-4ca9-88af-68980f7b048e
 ---
 Product Strategy, Design Consultant, Entrepreneur (ex-Evaneos)

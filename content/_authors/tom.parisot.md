@@ -12,5 +12,6 @@ missions:
 memberType: beta
 teams:
   - /teams/animation-dinum
+uuid: c18073bd-38cb-4807-9c40-d17a4ae7a267
 ---
 Je m’attèle à stimuler la création de valeur, encapaciter les équipes et faciliter l’atteinte des objectifs

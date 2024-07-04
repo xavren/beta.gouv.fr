@@ -13,5 +13,6 @@ startups:
   - place-de-marche-inclusion
 competences:
   - Croissance
+uuid: 4ea2c4fd-5256-45ee-a79d-f2e040b589c1
 ---
 Growth Marketer

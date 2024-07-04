@@ -11,4 +11,5 @@ missions:
       - pop
 link: https://www.linkedin.com/in/fran%C3%A7ois-david-414858127/
 memberType: beta
+uuid: c3962e0e-bd68-453b-801f-1b1739654edc
 ---

@@ -13,4 +13,5 @@ startups:
   - l-immersion-facile
 badges:
   - segur
+uuid: e9d0e987-696f-4dee-93fd-d26e8b3ea45a
 ---

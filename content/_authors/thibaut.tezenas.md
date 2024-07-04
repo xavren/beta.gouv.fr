@@ -14,5 +14,5 @@ missions:
 startups:
   - transition-ecologique-des-entreprises
 memberType: beta
+uuid: ca417d5e-5aa5-47f9-be2a-067ebaff2833
 ---
-

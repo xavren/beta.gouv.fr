@@ -8,5 +8,6 @@ missions:
     end: 2028-05-25
     status: admin
 memberType: beta
+uuid: c1e27ae7-e20a-448b-a474-18da1a830af9
 ---
 Passionné de sécurité maritime

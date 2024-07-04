@@ -6,12 +6,12 @@ missions:
   - start: 2022-10-24
     end: 2025-01-31
     status: independent
-    employer: ''
     startups:
       - jeveuxaider
 startups:
   - jeveuxaider
 badges:
   - segur
+uuid: c9323536-6874-4026-9a65-65de62bdfff1
 ---
 Entrepreneur

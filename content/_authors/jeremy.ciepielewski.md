@@ -20,5 +20,6 @@ badges:
 competences:
   - Coaching
   - Communication
+uuid: 9690bc32-85ef-4f42-89a8-8ad43503243e
 ---
 Acteur de l'ESS dans le domaine du numérique 💻

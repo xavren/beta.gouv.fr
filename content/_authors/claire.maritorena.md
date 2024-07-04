@@ -12,5 +12,6 @@ missions:
 memberType: beta
 startups:
   - france.nation.verte.agir
+uuid: 6f1ad7f4-f3b4-49f1-b0fe-046a75b7e7b1
 ---
 Contenus  Partenariats

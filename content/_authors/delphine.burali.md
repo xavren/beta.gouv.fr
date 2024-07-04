@@ -8,5 +8,6 @@ missions:
     status: service
     employer: EPEC
 memberType: autre
+uuid: 85ad0e53-56cb-4828-a544-7886a3e0b4e8
 ---
 CIP au sein du programme ALLERO de l'EPEC  j'accompagne des personnes bénéficiaires de la protection internationale dans leur insertion professionnelle.

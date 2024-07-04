@@ -13,4 +13,5 @@ startups:
   - données-et-territoires
 badges:
   - segur
+uuid: 7d1f3d56-6b64-45e9-bfc6-16fd78692349
 ---

@@ -27,5 +27,6 @@ competences:
   - Développement Frontend
   - Développement Backend
   - UI
+uuid: 08f5e0a4-4602-428f-885d-5f1e70face0c
 ---
 Développeur / designer freelance

@@ -14,5 +14,6 @@ missions:
 startups:
   - vues-immersives-libres
 memberType: beta
+uuid: 25897a39-31b8-4ffe-8aa8-91c924111fd6
 ---
 Ingénieure à l'IGN (Lidar HD et Panoramax) mais pas que ! Je participe aussi à la com' interne et au réseau égalité femmes-hommes de l'institut.

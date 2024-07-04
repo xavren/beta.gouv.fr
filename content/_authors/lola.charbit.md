@@ -9,4 +9,5 @@ missions:
     status: independent
 badges:
   - segur
+uuid: c89d4a0d-bb72-4275-82dc-9513d892c066
 ---

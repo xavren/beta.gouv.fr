@@ -12,5 +12,6 @@ missions:
 startups:
   - stop-punaises
 memberType: beta
+uuid: af513497-14ce-472f-9485-a8c776d0bf70
 ---
 Chargé de déploiement, découvre les startups d'Etat

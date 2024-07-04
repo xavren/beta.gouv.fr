@@ -19,4 +19,5 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
   - Machine learning
+uuid: 7d5fd455-19de-44a4-affc-774da803654c
 ---

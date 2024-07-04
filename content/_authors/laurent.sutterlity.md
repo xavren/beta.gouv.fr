@@ -13,5 +13,6 @@ missions:
       - egalite.professionnelle
 startups:
   - egalite.professionnelle
+uuid: 2f6dea48-a077-4416-a5be-1fe82aedcd1b
 ---
 Développeur front-end & Product designer.

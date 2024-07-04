@@ -9,5 +9,6 @@ missions:
     status: service
     employer: Octo
 memberType: beta
+uuid: 521a6ace-2f1b-4fce-969e-46a4083cfbbf
 ---
 Apprentie Développeur

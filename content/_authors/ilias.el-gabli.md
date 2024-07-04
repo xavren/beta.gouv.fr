@@ -12,5 +12,6 @@ startups:
   - mon-suivi-justice
 competences:
   - Croissance
+uuid: eb5a023f-b913-4f42-8270-54eb62354116
 ---
 Business developper pour MSJ

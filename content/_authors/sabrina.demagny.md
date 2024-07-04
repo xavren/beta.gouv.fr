@@ -14,4 +14,5 @@ competences:
   - Développement
   - Développement Backend
 memberType: beta
+uuid: f7b51fff-e9f9-4fa9-b02c-600ee69af988
 ---

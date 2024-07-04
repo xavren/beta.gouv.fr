@@ -14,4 +14,5 @@ startups:
   - codedutravail
 badges:
   - segur
+uuid: d0d53072-314b-4938-a506-88d86223ac10
 ---

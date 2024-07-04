@@ -14,5 +14,6 @@ missions:
 startups:
   - cartobio
 memberType: beta
+uuid: 710d157f-b505-4614-a403-bce04c32a6db
 ---
 Développeuse fullstack

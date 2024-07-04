@@ -8,10 +8,11 @@ missions:
     end: 2021-09-30
     status: independent
     employer: Numa
-  - status: independent
-    employer: LBC
-    start: 2022-01-27
+  - start: 2022-01-27
     end: 2022-09-30
+    status: independent
+    employer: LBC
 competences:
   - Coaching
+uuid: eef20013-8111-4d0e-9b41-75fc78677320
 ---

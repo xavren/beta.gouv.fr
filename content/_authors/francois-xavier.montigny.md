@@ -8,7 +8,6 @@ missions:
   - start: 2020-04-01
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - a-just
 avatar: /img/authors/francois-xavier.montigny.jpg
@@ -17,5 +16,6 @@ startups:
 previously:
   - zen
   - mobiville
+uuid: 0d2d854e-022c-4e79-abd5-323a6b7eeeac
 ---
 Développeur passionné depuis 10 ans qui aime entreprendre / tester de nouvelles solutions.

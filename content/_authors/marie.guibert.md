@@ -14,4 +14,5 @@ github: marieguibpref
 competences:
   - Sciences des données
 memberType: beta
+uuid: e6f09c9b-b3ec-48f0-834c-340aa0e0cffc
 ---

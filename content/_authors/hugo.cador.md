@@ -8,10 +8,10 @@ missions:
   - start: 2023-11-20
     end: 2024-07-20
     status: independent
-    employer: ''
     startups:
       - envergo
 startups:
   - envergo
 memberType: beta
+uuid: ca71cff1-f646-40ff-8cf2-4f1889db65ca
 ---

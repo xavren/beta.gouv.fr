@@ -6,11 +6,11 @@ missions:
   - start: 2022-09-12
     end: 2025-09-15
     status: admin
-    employer: ''
     startups:
       - rapportnav
 startups:
   - rapportnav
 link: https://www.linkedin.com/in/camille-nguyen-tpe/
+uuid: 1e48d2f0-9df9-4169-9ed2-8eaa3cdfde91
 ---
 Intrapreneuse RapportNav

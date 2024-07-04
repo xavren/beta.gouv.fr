@@ -13,4 +13,5 @@ github: morganmerzouk
 competences:
   - Développement Full-stack
 memberType: beta
+uuid: e9490b23-31e0-462a-8f62-1b28cc89a3ba
 ---

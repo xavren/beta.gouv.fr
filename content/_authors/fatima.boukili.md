@@ -12,5 +12,6 @@ missions:
 startups:
   - envergo
 memberType: beta
+uuid: 603e9fdc-0697-49ea-a117-1af985c4fdcc
 ---
 Chargée d'études

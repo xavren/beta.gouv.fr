@@ -11,5 +11,6 @@ missions:
       - chauffage-urbain
 startups:
   - chauffage-urbain
+uuid: d822965c-203f-4ba4-a708-5d9c4e095b62
 ---
 Je suis chargée de mission à la FNCCR et co-intrapreneuse pour la solution numérique @ChauffageUrbain

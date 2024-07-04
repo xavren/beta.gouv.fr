@@ -14,5 +14,6 @@ missions:
 startups:
   - rdv-service-public
 memberType: beta
+uuid: 3a5a9ba8-701d-4919-b417-2323410a953d
 ---
 Développeur web

@@ -23,7 +23,6 @@ missions:
     end: 2024-09-01
     status: independent
     employer: Codeurs en Liberté
-startups:
 previously:
   - aides.jeunes
   - je-deviens-etudiant
@@ -35,5 +34,6 @@ previously:
   - rdv-service-public
 badges:
   - segur
+uuid: 47599eb2-d8a2-4d6e-8da7-df31deb41f5a
 ---
 Tout faire pour les humain·e·s

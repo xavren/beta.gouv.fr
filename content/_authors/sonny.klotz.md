@@ -12,5 +12,6 @@ missions:
       - l-application-du-cej
 startups:
   - l-application-du-cej
+uuid: ea831a94-ee3d-4ba6-98b5-36bde3696795
 ---
 The only way to go fast is to go well.

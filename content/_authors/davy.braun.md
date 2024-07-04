@@ -20,5 +20,6 @@ competences:
   - Développement Backend
   - UI
   - UX
+uuid: d0ddb486-aadc-4edd-8cc9-9ec6404413e8
 ---
 Développeur fullstack senior, concepteur d'UI.

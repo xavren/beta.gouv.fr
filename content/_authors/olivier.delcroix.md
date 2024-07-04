@@ -15,5 +15,6 @@ startups:
   - tchap
 badges:
   - segur
+uuid: 79db7a0d-81c6-40c3-9ae5-b1af8bca87e0
 ---
 Développeur engagé dans la transition.

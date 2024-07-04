@@ -11,4 +11,5 @@ missions:
       - ecobalyse
 link: https://www.linkedin.com/in/nicolas-planchenault-46559a58/
 memberType: beta
+uuid: daf907b3-d306-40c7-add5-01d77b02f887
 ---

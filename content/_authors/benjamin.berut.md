@@ -8,4 +8,5 @@ missions:
     end: 2020-09-30
     status: admin
     employer: Réseau canopé
+uuid: 9a8132c3-fd0f-4ea3-b48e-2daa64cf2e4c
 ---

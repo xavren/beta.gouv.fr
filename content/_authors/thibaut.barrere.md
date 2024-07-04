@@ -3,7 +3,6 @@ fullname: Thibaut Barrère
 role: Développeur / Data Engineer / Ops
 domaine: Développement
 github: thbar
-avatar: null
 link: https://thibautbarrere.com
 missions:
   - start: 2020-11-02
@@ -14,5 +13,6 @@ missions:
       - transport
 startups:
   - transport
+uuid: bc316bf5-152e-43cd-86f6-7a195da04579
 ---
 J'aime le code et le "data engineering" !

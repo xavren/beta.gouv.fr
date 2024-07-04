@@ -14,4 +14,5 @@ competences:
   - Coaching
   - Droit / Affaires juridiques
 memberType: beta
+uuid: 20ddaf2f-1ae3-4ed6-99dc-bc47affe5495
 ---

@@ -9,5 +9,6 @@ missions:
     status: admin
     employer: France Travail
 memberType: beta
+uuid: ea25ca64-bbde-489f-8aaa-ec6bd679f91e
 ---
 Lead Product Manager à l'incubateur et la PDO de France Travail.

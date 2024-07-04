@@ -13,4 +13,5 @@ missions:
 startups:
   - longuevieauxobjets
 memberType: beta
+uuid: cf89bfa2-7677-419d-9b3d-ba769e41d4b5
 ---

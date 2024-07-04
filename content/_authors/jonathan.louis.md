@@ -29,5 +29,6 @@ previously:
   - tchap
   - deveco
 link: https://www.linkedin.com/in/jonathanlouis2/
+uuid: 17e161ed-5b69-40dd-a992-4145cd1872d2
 ---
 « La principale difficulté n’est pas de produire un film, un livre ou un site web, mais d’attirer l’attention du public ». Yves Citton, philosophe

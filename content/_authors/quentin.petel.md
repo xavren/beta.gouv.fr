@@ -15,5 +15,6 @@ missions:
 startups:
   - catalogue-apprentissage
   - voeux-apprentissage
+uuid: b120aeb3-dfe3-445a-8dcf-8b566b1c3f19
 ---
 De jour : Architecte web et ingénieur projet @ IT-era ♦ De nuit : Thérapeute sonore @ Technomad Audio

@@ -12,4 +12,5 @@ missions:
 startups:
   - les-emplois
 memberType: beta
+uuid: 0a8bbb10-51a7-47bd-ba3d-fa004847a21c
 ---

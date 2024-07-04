@@ -9,8 +9,8 @@ missions:
     end: 2018-11-30
     status: independent
     employer: octo
-startups: null
 previously:
   - signalement
+uuid: 2b5ccb93-9d15-4216-b0f3-cbf7b7a92080
 ---
 Écrit des autobiographies percutantes en moins de 200 caractères depuis 1900.

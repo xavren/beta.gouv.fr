@@ -17,5 +17,6 @@ competences:
   - Product strategy
   - Facilitation
 link: https://www.linkedin.com/in/sylvain-bouchard-b67282104/
+uuid: cff4bee0-73fa-4693-a97f-cf33d86da677
 ---
 Chef de projet numérique

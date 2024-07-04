@@ -17,4 +17,5 @@ competences:
   - Développement Full-stack
   - Développement Frontend
   - Développement Backend
+uuid: ab2ab6f0-8898-414c-a498-0190678ef252
 ---

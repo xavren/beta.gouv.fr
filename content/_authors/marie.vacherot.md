@@ -19,4 +19,5 @@ startups:
   - mobilic
 badges:
   - segur
+uuid: a784efef-c1a2-43dc-b109-4fa99fba6075
 ---

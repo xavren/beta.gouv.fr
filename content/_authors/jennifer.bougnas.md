@@ -11,4 +11,5 @@ missions:
 startups:
   - estime.formation
 memberType: beta
+uuid: 221dbc52-c9ca-463f-a21b-b39f60d048c6
 ---

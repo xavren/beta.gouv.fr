@@ -17,4 +17,5 @@ memberType: beta
 role: Développeur Full-Stack
 startups:
   - espace.sur.demande
+uuid: 5bd19742-0311-4077-9789-445cc6393e3c
 ---

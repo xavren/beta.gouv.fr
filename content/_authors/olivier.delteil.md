@@ -17,5 +17,6 @@ previously:
   - acceslibre
 badges:
   - segur
+uuid: 5cf1a4b6-ae81-476b-bfd8-21fafa2c0ab0
 ---
 Mettre en valeur les contenus et data

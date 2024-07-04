@@ -14,5 +14,6 @@ missions:
     employer: gip-inclusion
 startups:
   - dora
+uuid: 76b9fe65-e265-4c1b-b4a1-f76c66e5e5dc
 ---
 UX / Product Designer

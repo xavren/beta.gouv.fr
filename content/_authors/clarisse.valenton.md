@@ -12,5 +12,6 @@ missions:
 startups:
   - portail-rse
 memberType: beta
+uuid: 9d305bf7-a27b-4ba6-8d0f-174662003b5f
 ---
 Stagiaire

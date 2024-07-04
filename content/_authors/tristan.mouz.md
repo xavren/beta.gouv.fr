@@ -14,4 +14,5 @@ startups:
   - conseillers-entreprises
 badges:
   - segur
+uuid: 92254f33-1e07-49e1-9957-f3b1e41636ea
 ---

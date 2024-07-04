@@ -8,5 +8,6 @@ missions:
     status: service
     employer: OCTO
 memberType: autre
+uuid: a91655c2-3893-4744-b187-5dec6a1d3e3f
 ---
 Coach innovation, produit et équipe

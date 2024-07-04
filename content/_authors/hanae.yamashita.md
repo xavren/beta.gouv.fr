@@ -11,4 +11,5 @@ missions:
       - potentiel
 startups:
   - potentiel
+uuid: 72f2053f-8be9-43a1-aacb-1e3b57fb4f77
 ---

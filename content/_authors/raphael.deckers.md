@@ -12,4 +12,5 @@ missions:
     startups:
       - aigle
 memberType: beta
+uuid: c1e46ce2-df26-41e7-9f6f-79640357c07b
 ---

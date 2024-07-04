@@ -18,4 +18,5 @@ competences:
   - Gestion de Produit
   - Communication
   - Croissance
+uuid: 0f19cfda-80e5-4625-8205-5f58f476345f
 ---

@@ -19,4 +19,5 @@ startups:
   - suite.d.outils.des.mediateurs.numeriques
 previously:
   - dora
+uuid: 8c599ec6-30b5-4b57-896f-2a4baf2dc99a
 ---

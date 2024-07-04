@@ -7,6 +7,6 @@ missions:
     end: 2024-07-05
     status: admin
     employer: Fabrique numérique
-    startups: []
 memberType: beta
+uuid: 87fccae1-0d43-47fc-854f-f28b644d790c
 ---

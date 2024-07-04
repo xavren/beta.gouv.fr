@@ -8,5 +8,6 @@ missions:
     status: service
     employer: Octo
 memberType: attributaire
+uuid: dcc36732-5aff-4257-bfce-e4113e89f853
 ---
 Coach transfo  - Opérateur de la DINUM

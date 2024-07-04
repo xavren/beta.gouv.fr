@@ -14,5 +14,6 @@ startups:
   - estime
 badges:
   - segur
+uuid: 12293c82-c588-4de7-9811-430b3b73a367
 ---
 la vie est un jeu... dont chacun écrit les règles

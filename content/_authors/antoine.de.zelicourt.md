@@ -15,5 +15,6 @@ startups:
   - monsuivipsy
   - nata
 memberType: beta
+uuid: 1b3aa186-d2bc-43fb-b561-a89b7864e2f5
 ---
 Pharmacien-pharmacologue-chercheur de solutions numériques en santé

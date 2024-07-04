@@ -17,4 +17,5 @@ previously:
   - recosante
 competences:
   - Gestion de Produit
+uuid: 0ef7bdd4-e152-4fa2-9e25-465f6f9d811d
 ---

@@ -6,24 +6,24 @@ github: charlottelecuit
 missions:
   - start: 2018-05-14
     end: 2019-06-30
-    employer: dinum
     status: admin
+    employer: dinum
   - start: 2020-04-01
     end: 2021-12-31
-    employer: Octo
     status: independent
+    employer: Octo
   - start: 2021-12-01
     end: 2023-01-31
-    employer: Octo
     status: independent
+    employer: Octo
   - start: 2024-03-07
     end: 2024-07-15
-    employer: Malt
     status: independent
-  - status: independent
     employer: Malt
-    start: 2024-03-11
+  - start: 2024-03-11
     end: 2024-07-31
+    status: independent
+    employer: Malt
 startups:
   - monprojetsup
 previously:
@@ -34,4 +34,5 @@ previously:
 competences:
   - Gestion de Produit
   - Croissance
+uuid: 49dfaa0e-d0c7-4130-922e-926fbac9f379
 ---

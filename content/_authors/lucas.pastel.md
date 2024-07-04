@@ -13,5 +13,6 @@ startups:
   - dora
 previously:
   - la.communaute.de.linclusion
+uuid: c6cc7e20-2f2e-4c45-bf2d-8f21f4b77f28
 ---
 Je mets la com' au service des projets à impact 👊

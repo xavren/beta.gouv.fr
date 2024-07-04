@@ -11,6 +11,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+uuid: 2a01d605-ecf1-4de9-9bfe-eb5ce12399d0
 ---
-
 Coach produit, inspecteur gadget

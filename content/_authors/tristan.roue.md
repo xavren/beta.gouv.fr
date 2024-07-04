@@ -16,4 +16,5 @@ badges:
   - segur
 competences:
   - Gestion de Produit
+uuid: de06f31e-d038-47df-a9d6-4f86da70dc8c
 ---

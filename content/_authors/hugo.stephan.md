@@ -13,5 +13,6 @@ missions:
 startups:
   - refugies.info
 memberType: beta
+uuid: d7d72409-0cd9-4b62-80c4-eeef2d9e6873
 ---
 Design manager - Copilote de Réfugiés.info - EIG 3 - FAST 13

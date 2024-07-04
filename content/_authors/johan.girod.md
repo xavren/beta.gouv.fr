@@ -8,19 +8,16 @@ missions:
   - start: 2018-04-24
     end: 2019-12-04
     status: independent
-    employer: ''
     startups:
       - mon-entreprise
   - start: 2019-12-11
     end: 2024-05-31
     status: independent
-    employer: ''
     startups:
       - mon-entreprise
   - start: 2023-09-01
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - annuaire-entreprises
 startups:
@@ -31,4 +28,5 @@ competences:
   - Gestion de Produit
   - JavaScript/TypeScript
   - Accessibilité
+uuid: c547a80f-83c8-4bd5-b98a-3864bf9895f3
 ---

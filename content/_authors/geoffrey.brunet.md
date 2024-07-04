@@ -10,4 +10,5 @@ missions:
       - metiis
 startups:
   - metiis
+uuid: a5e138f5-a08a-4b16-8872-db620efb1c9b
 ---

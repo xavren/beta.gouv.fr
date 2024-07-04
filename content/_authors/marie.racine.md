@@ -12,5 +12,6 @@ missions:
 startups:
   - plusfraichemaville
 memberType: autre
+uuid: 79f7aa79-1a45-450a-931e-8cd803bbc2b8
 ---
 Apprentie urbaniste au pôle aménagement des villes et territoires de l'Ademe

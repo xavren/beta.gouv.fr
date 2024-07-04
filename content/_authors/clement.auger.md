@@ -7,11 +7,11 @@ missions:
   - start: 2021-10-11
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - nosgestesclimat
 startups:
   - nosgestesclimat
 badges:
   - segur
+uuid: 18682e68-4408-43cb-ae99-ef471b78b82b
 ---

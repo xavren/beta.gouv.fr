@@ -3,8 +3,7 @@ fullname: Loïc Guillois
 domaine: Développement
 role: Développeur
 github: loicguillois
-avatar: >-
-  https://avatars2.githubusercontent.com/u/55890?s=460&u=6d30adf6bede7d90474e82023d1947aabedd5635&v=4
+avatar: https://avatars2.githubusercontent.com/u/55890?s=460&u=6d30adf6bede7d90474e82023d1947aabedd5635&v=4
 startups:
   - zero-logement-vacant
 missions:
@@ -15,7 +14,6 @@ missions:
   - start: 2020-02-05
     end: 2020-03-19
     status: independent
-    employer: ''
   - start: 2020-12-26
     end: 2024-12-31
     status: independent
@@ -30,5 +28,6 @@ badges:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: c348f585-4f79-4d91-a79e-2eac6576d215
 ---
 Développeur Web

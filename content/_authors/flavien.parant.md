@@ -8,5 +8,5 @@ missions:
     status: admin
     employer: Plateforme de l'inclusion
 memberType: beta
+uuid: a99b3f4f-2dc7-471e-8efb-c024be030b53
 ---
-

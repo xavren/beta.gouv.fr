@@ -18,5 +18,6 @@ competences:
 role: Développeur
 fullname: Théophile Merlière
 avatar: https://fr.gravatar.com/avatar/f8ce5d98554aa7d7e31747512b95c06e?size=512
+uuid: 63640bec-46ae-4e74-aaec-cc712f90f093
 ---
 The answer to life, the universe and everything.

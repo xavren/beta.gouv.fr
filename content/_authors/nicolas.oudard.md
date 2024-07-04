@@ -19,5 +19,6 @@ previously:
   - sppnaut
 badges:
   - segur
+uuid: db8328b8-d6de-41e8-8396-9bbad144de45
 ---
 Envie de créer pour l'interêt général

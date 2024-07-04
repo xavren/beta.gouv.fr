@@ -7,10 +7,10 @@ missions:
   - start: 2024-04-15
     end: 2024-07-26
     status: independent
-    employer: ''
     startups:
       - cartographie.nationale
       - france-numerique-ensemble
       - suite.d.outils.des.mediateurs.numeriques
 memberType: beta
+uuid: af898760-f516-4534-8967-960c7603bce8
 ---

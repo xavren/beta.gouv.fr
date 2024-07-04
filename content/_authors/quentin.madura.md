@@ -11,5 +11,6 @@ missions:
 startups:
   - aides.jeunes
 domaine: Développement
+uuid: ef408f0b-078c-43c3-8b94-5e2e6b23bffd
 ---
 Développeur fullstack le jour, cycliste le week-end

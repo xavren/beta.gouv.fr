@@ -13,5 +13,6 @@ badges:
 competences:
   - Communication
   - Gestion de Produit
+uuid: 8c4c97bd-0600-41a1-ac73-7c84f3b9a18f
 ---
 Chargée de communauté, serial-entrepreneuse à mes heures perdues.

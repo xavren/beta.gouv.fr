@@ -22,5 +22,6 @@ competences:
   - PostgreSQL
   - JavaScript/TypeScript
   - Python
+uuid: 5ef47cd7-bc1f-4aec-8f3e-7cfc9556d489
 ---
 Make it work, make it right, make it fast

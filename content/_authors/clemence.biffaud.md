@@ -26,5 +26,6 @@ previously:
   - artsducirque
 competences:
   - Coaching
+uuid: 68565bfe-2988-431d-8a4f-e8e96babb722
 ---
 Service designer enthousiaste

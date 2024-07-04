@@ -13,5 +13,6 @@ startups:
 badges:
   - segur
 domaine: Développement
+uuid: d31f2e55-ef74-421b-ade2-2e3ed7b431f6
 ---
 Developpeur, gamer, danseur.

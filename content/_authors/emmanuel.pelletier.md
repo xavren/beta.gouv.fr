@@ -10,8 +10,8 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - suite-numerique
       - moncomptepro
+      - suite-numerique
 startups:
   - suite-numerique
 memberType: dinum
@@ -20,5 +20,6 @@ competences:
   - Accessibilité
   - UI
   - UX
+uuid: 6c625cfc-763c-4a34-9a0a-f41735fa8000
 ---
 Mon animal totem : le canard en plastique sur le bureau.

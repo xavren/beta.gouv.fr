@@ -13,5 +13,6 @@ missions:
       - dialogue
 startups:
   - dialogue
+uuid: 1c29d6d5-e415-458c-b5b5-921ca642189d
 ---
 Développeur

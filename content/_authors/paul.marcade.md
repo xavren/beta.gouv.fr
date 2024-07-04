@@ -10,7 +10,6 @@ missions:
     employer: Malt
     startups:
       - a-just
-incubator: ''
 startups:
   - a-just
 previously:
@@ -19,4 +18,5 @@ previously:
   - mediature
 competences:
   - Coaching
+uuid: ef8e85de-7825-416e-8bda-6454bb236e9b
 ---

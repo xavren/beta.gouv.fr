@@ -8,5 +8,6 @@ missions:
     status: service
     employer: Malt
 memberType: attributaire
+uuid: e2fa9bcd-cde0-44ec-8904-1bcf9a6a3531
 ---
 Consultante en Recrutement chez Malt

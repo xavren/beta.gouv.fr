@@ -8,5 +8,6 @@ missions:
     status: admin
     employer: DGALN
 memberType: beta
+uuid: 81200590-884b-4c2d-abd8-2991c8398b0b
 ---
 Utilisateur Aigle

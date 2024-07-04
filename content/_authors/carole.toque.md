@@ -12,5 +12,6 @@ startups:
   - bureaux.vacants
 previously:
   - zero-logement-vacant
+uuid: 4f3ff412-adff-40a4-be76-d206026811a2
 ---
 Analyste de données avant tout !

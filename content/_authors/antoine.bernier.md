@@ -14,5 +14,6 @@ missions:
 previously:
   - aides.jeunes
 domaine: Développement
+uuid: e8e6ba02-d7f3-4dae-9cac-c63cd46e50b5
 ---
 Développeur Web full stack

@@ -8,11 +8,11 @@ missions:
   - start: 2023-06-26
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - exposition-ij
       - investigation-ij
 startups:
   - exposition-ij
 memberType: beta
+uuid: 1e25b8a7-9bbf-4dc0-b1c6-d2081c95f4ba
 ---

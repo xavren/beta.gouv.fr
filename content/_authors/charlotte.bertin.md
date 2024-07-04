@@ -8,4 +8,5 @@ missions:
     status: admin
 competences:
   - Administration Publique
+uuid: bc3e5325-a64c-45b7-8827-9f8c42e1e841
 ---

@@ -7,10 +7,10 @@ missions:
   - start: 2024-02-28
     end: 2024-09-30
     status: independent
-    employer: ''
     startups:
       - pilotage.de.linclusion
 startups:
   - pilotage.de.linclusion
 memberType: beta
+uuid: c26c00ee-24f1-410e-b2f4-72a89a465b0a
 ---

@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: Pole Emploi
 memberType: beta
+uuid: a7bc6e5e-6eda-4526-9373-5871d3a92134
 ---

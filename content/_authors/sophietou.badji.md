@@ -12,4 +12,5 @@ missions:
 startups:
   - la-bonne-boite
 memberType: beta
+uuid: b0dd39d7-106e-4fc8-b3ea-0bda0a66b0f0
 ---

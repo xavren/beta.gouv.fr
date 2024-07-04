@@ -9,5 +9,6 @@ missions:
     status: independent
     employer: Omnicité
 memberType: autre
+uuid: c63dada2-970f-4559-9fd0-34f57b77f60b
 ---
 Directrice Artistique, designer interactif et illustratrice

@@ -11,7 +11,6 @@ missions:
     end: 2023-06-30
     status: independent
     employer: MTES-MCT
-startups: null
 previously:
   - maintenant
   - mpal
@@ -20,6 +19,7 @@ previously:
   - dossiersco
   - leximpact
   - aidantsconnect
+uuid: 7152aac5-241e-4b87-b54d-4a85952f8664
 ---
 ? Le coach est généralement une [chimère](https://fr.wikipedia.org/wiki/Chim%C3%A8re).
   Dans mon cas c'est un cocktail génétique où prédominent

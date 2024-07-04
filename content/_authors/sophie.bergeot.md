@@ -11,5 +11,6 @@ missions:
     status: independent
     startups:
       - delta.v
+uuid: ca831c70-8fba-4757-89fa-0e8d594fd561
 ---
 UI / UX Designer

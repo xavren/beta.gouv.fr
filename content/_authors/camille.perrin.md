@@ -12,4 +12,5 @@ missions:
 startups:
   - entreprises-bzh
 previously: []
+uuid: 25bcfe56-cdbe-4424-86e7-4c665d08e96b
 ---

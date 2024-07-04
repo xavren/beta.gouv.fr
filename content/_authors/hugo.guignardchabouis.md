@@ -12,5 +12,6 @@ missions:
       - transport
 startups:
   - transport
+uuid: 8706fa5f-ae0d-4ecb-8194-bc79409e02c6
 ---
 Stagiaire étudiant à l'ESIEA, sportif à mi-temps et intéressé par la cyber-sécurité.

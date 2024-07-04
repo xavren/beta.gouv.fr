@@ -16,4 +16,5 @@ badges:
   - segur
 competences:
   - Coaching
+uuid: 93bf3225-9588-49f8-8b69-74997841a3cc
 ---

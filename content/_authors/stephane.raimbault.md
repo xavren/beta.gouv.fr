@@ -16,5 +16,6 @@ missions:
 previously:
   - a-dock
   - les-emplois
+uuid: 86102385-eb3e-4d66-a25a-91d1192304ec
 ---
 Aime les solutions simples et plein d'autres trucs compliqués.

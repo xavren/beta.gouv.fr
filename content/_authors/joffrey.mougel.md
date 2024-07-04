@@ -15,5 +15,6 @@ startups:
   - les-emplois
 previously:
   - pilotage.de.linclusion
+uuid: 13d45bc5-3040-4a8e-8181-0723f4d9d6dc
 ---
 Je gère l'étude et la conception de produit numérique.

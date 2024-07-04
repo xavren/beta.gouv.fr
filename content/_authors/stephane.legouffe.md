@@ -15,5 +15,6 @@ startups:
 competences:
   - Développement Backend
   - Développement Frontend
+uuid: 23f950ad-086e-494f-b685-2366de435f55
 ---
 Developpeur FullStack JS, j'adore jouer avec NodeJS, GraphQL, VueJs, Angular, React et aussi avec des bots et des objets connectés !🤖

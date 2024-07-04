@@ -18,5 +18,6 @@ missions:
 startups:
   - versementgetorix
   - maestro
+uuid: f61a81a9-5704-4576-b437-2c2153acc372
 ---
 Coach, Designer de service

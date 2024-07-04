@@ -8,8 +8,8 @@ missions:
     end: 2017-08-30
     status: service
     employer: octo
-startups: null
 previously:
   - mpal
+uuid: dedebc22-ea82-4259-b129-7dd8267bcfca
 ---
 Dév junior ultra motivée !

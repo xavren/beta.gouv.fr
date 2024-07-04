@@ -10,5 +10,6 @@ missions:
     employer: DNUM
 previously:
   - psij
+uuid: 37b0b93a-433f-42f4-8b00-fb2f77e96726
 ---
 Développeuse à la Fabrique Numérique du Ministère de l'Intérieur

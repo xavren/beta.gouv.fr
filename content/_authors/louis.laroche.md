@@ -7,8 +7,8 @@ missions:
     status: independent
     employer: NUMA
     startups:
-      - mediation.logement
       - epandage-facile
+      - mediation.logement
 incubator: mtes
 competences:
   - UX
@@ -21,4 +21,5 @@ role: Coach
 link: https://ehcor.al
 startups:
   - mediation.logement
+uuid: b45e75fa-b680-496c-9513-95bbbcb7f28b
 ---

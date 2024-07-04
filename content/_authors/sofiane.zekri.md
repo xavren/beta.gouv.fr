@@ -21,4 +21,5 @@ badges:
 competences:
   - Communication
   - Administration Système
+uuid: cf274aa5-571e-4a71-8c93-442cd9ec6818
 ---

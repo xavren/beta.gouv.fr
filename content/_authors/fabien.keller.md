@@ -21,5 +21,6 @@ competences:
   - Product design
   - UI
 memberType: beta
+uuid: 9b07aa7d-3603-4b00-b46b-25bb215485c2
 ---
 Entrepreneur dans le secteur des technologies depuis plus de 10 ans et jeune papa ! 

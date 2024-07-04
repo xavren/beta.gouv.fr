@@ -11,4 +11,5 @@ missions:
 memberType: beta
 startups:
   - decl-bombarbier-eau
+uuid: 6d81c834-0c14-4c37-85de-334ec2a2bad3
 ---

@@ -10,5 +10,6 @@ missions:
     employer: NUMA
 badges:
   - segur
+uuid: 19b4fb8c-f0b1-4447-84e4-05c26393265b
 ---
 Coach & formateur

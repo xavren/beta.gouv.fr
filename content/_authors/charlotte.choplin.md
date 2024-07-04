@@ -17,5 +17,6 @@ badges:
   - segur
 competences:
   - Croissance
+uuid: 52cbc766-08b5-4051-8ab7-5f49905c3660
 ---
 J'accompagne les projets  à se développer ( Croissance du produit + équipe )

@@ -10,6 +10,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+uuid: 4cb6703f-cef3-4ef1-bebd-a7d3a66c4cb9
 ---
-
 En mission à la Fabrique Numérique après quelques années en détachement et en disponibilité

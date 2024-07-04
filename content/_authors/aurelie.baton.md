@@ -12,5 +12,6 @@ missions:
 startups:
   - dialogue
 link: https://www.linkedin.com/in/aureliebaton/
+uuid: f6359598-5a0a-4959-9e5b-63f08d4a0811
 ---
 UX designer, spécialisée écoconception

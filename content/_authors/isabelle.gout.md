@@ -10,4 +10,5 @@ missions:
     status: admin
     employer: GIP PLATEFORME DE L INCLUISION
 memberType: beta
+uuid: c619341e-8d0b-48a5-b940-c1dd216485d4
 ---

@@ -10,6 +10,7 @@ missions:
       - data.gouv.fr
 startups:
   - data.gouv.fr
+uuid: ad64fa93-c526-4f56-b2cc-d40223fe80cc
 ---
 Citoyen numérique, technophile, code-addict… bref, un geek !
 Espère contribuer aux nouveaux outils pour la société de demain !

@@ -12,5 +12,6 @@ missions:
 startups:
   - envergo
 memberType: autre
+uuid: 097532cf-bdf9-48ba-8124-37e3bf5dc2b4
 ---
 Chargé de déploiement et d'étude EnvErgo

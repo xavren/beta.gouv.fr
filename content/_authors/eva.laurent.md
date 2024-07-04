@@ -13,5 +13,6 @@ missions:
 startups:
   - rdv.insertion
 memberType: beta
+uuid: 7f449ac0-1ac4-4533-8465-280f26246df2
 ---
 Freelance

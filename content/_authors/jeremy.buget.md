@@ -15,5 +15,6 @@ missions:
     employer: GIP de l'Inclusion
 teams:
   - /teams/gip-inclusion
+uuid: 8b3727a7-0e6d-47d3-b560-42d83606a837
 ---
 CTO du GIP de l'Inclusion. Co-founder & ex-CTO du GIP Pix. Coder. Streamer. Speaker. Writer. Papa pupuce.

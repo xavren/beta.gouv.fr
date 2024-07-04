@@ -10,5 +10,6 @@ missions:
       - non-recours-spie
 startups:
   - non-recours-spie
+uuid: d3ce0e1f-3091-486b-956c-d8e93fe883d5
 ---
 Chargé de mission à la Métropole de Lyon et intrapreneur , ma devise, rendons visibles les invisibles!

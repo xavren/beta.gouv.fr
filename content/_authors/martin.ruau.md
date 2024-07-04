@@ -3,7 +3,6 @@ fullname: Martin Ruau
 domaine: Intraprenariat
 role: Intrapreneur de la transition écologique
 github: MartinRUAU
-avatar: null
 link: https://www.linkedin.com/in/martin-ruau-a07529155/
 missions:
   - start: 2020-10-21
@@ -16,4 +15,5 @@ startups:
   - territoires-en-transitions
 competences:
   - Administration Publique
+uuid: 5c529cdd-f6aa-4604-a4ff-fc28575d4fc8
 ---

@@ -12,5 +12,6 @@ missions:
       - aidantsconnect
 startups:
   - aidantsconnect
+uuid: 5ef52533-20ec-49c6-a175-5077ab30e704
 ---
 Open Data, gouvernance et culture des données.

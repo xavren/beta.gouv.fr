@@ -13,5 +13,6 @@ missions:
       - signaux-faibles
 startups:
   - signaux-faibles
+uuid: e541d0cd-a7a3-4679-bfc3-ff42de980488
 ---
 Ingénieur et développeur fullstack

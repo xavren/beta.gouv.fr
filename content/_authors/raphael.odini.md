@@ -22,5 +22,6 @@ competences:
   - Développement Frontend
   - Développement Backend
   - Administration Système
+uuid: b5b8a163-fdd2-4062-8a2d-3c830ed61e50
 ---
 Développeur full-stack, j'aime les communs, apprendre (& faire), le vélo et les pingouins.

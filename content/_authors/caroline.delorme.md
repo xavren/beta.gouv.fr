@@ -13,4 +13,5 @@ startups:
   - attractivite.des.territoires
 competences:
   - Administration Publique
+uuid: 2be64cf1-e7e3-47a2-8de4-19198c9f2800
 ---

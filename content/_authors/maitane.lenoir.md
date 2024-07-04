@@ -17,7 +17,6 @@ missions:
   - start: 2023-12-20
     end: 2024-12-31
     status: independent
-    employer: ''
 startups:
   - pitchou
   - sppnaut
@@ -29,5 +28,6 @@ previously:
 competences:
   - UI
   - UX
+uuid: fa0d75f4-ae5e-4151-b036-c1030153d4cd
 ---
 Concevoir pour toutes et tous afin de créer un monde éthique & inclusif où chacun puisse se sentir légitime.

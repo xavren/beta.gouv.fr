@@ -10,7 +10,7 @@ missions:
 startups: []
 previously:
   - snu
-badges: null
 competences:
   - Gestion de Produit
+uuid: 9d3be2fe-887b-4130-96f0-2f8c6a0f31c8
 ---

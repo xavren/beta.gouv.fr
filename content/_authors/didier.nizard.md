@@ -14,5 +14,6 @@ startups:
   - tchap
 badges:
   - segur
+uuid: 69e4b3d0-14dd-4a19-94f5-abfda7c72732
 ---
 Développeur mobile depuis bien trop longtemps !

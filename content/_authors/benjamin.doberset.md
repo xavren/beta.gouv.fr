@@ -13,7 +13,6 @@ missions:
     end: 2030-05-19
     status: admin
     employer: DINUM
-    startups: []
 previously:
   - demarches-simplifiees.fr
   - peps
@@ -26,4 +25,5 @@ competences:
   - Croissance
 teams:
   - /teams/animation-dinum
+uuid: 5ae01ae2-8597-4ca6-8c82-0afe8bd35efa
 ---

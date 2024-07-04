@@ -13,4 +13,5 @@ previously:
   - rdv-service-public
 teams:
   - /teams/communaute-dinum
+uuid: cb38e332-76c2-4a40-a68a-ab2ce443ec58
 ---

@@ -10,4 +10,5 @@ missions:
       - carnet.de.bord
 startups:
   - carnet.de.bord
+uuid: d69a1e6e-7b68-491a-ae93-6a7071c76f95
 ---

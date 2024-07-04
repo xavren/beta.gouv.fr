@@ -27,5 +27,6 @@ competences:
   - Product design
   - UX
   - UI
+uuid: b90829ba-0ae2-4c1a-9049-32c907e2186b
 ---
 UX Designer ex Akeneo  Greenly, entre Nantes et Lorient ⚓️

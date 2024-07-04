@@ -8,5 +8,6 @@ missions:
     status: admin
     employer: MASA&#x2F;DGAl
 memberType: autre
+uuid: 62e1bef3-66e7-4788-81f9-da6881ca481f
 ---
 Cheffe de la mission des urgences sanitaires (MASADGAl)

@@ -9,4 +9,5 @@ missions:
     status: independent
     employer: DINUM
 memberType: dinum
+uuid: bb0af524-b371-4768-b1d3-471d4b63d4a0
 ---

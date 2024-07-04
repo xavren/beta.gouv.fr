@@ -28,4 +28,5 @@ competences:
 previously:
   - cnr
   - la.bonne.renov
+uuid: a7d0ab3d-4456-46d9-ac9b-cd0210160e7e
 ---

@@ -12,5 +12,6 @@ missions:
       - l-immersion-facile
 startups:
   - l-immersion-facile
+uuid: a689136a-d823-4e17-9273-229764b9b591
 ---
 Ingénieur commercial spécialisé dans la donnée

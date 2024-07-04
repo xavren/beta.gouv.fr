@@ -8,4 +8,5 @@ missions:
     status: service
     employer: OCTO Technology
 memberType: attributaire
+uuid: a72849f1-2f21-49ca-b4a7-e9154f065662
 ---

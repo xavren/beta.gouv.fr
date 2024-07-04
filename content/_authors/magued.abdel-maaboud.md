@@ -11,5 +11,6 @@ missions:
       - mon-suivi-justice
 startups:
   - mon-suivi-justice
+uuid: b00f273b-ec66-4b75-9220-20dbdced6937
 ---
 Chef de département au SNUM & Fan des SE de la Justice

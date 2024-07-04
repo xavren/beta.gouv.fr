@@ -20,4 +20,5 @@ previously:
   - visam
 competences:
   - Développement Full-stack
+uuid: aba0fb31-469c-43ab-b61e-6194e01559be
 ---

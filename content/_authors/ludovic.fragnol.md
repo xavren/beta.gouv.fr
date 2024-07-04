@@ -6,6 +6,6 @@ missions:
   - start: 2023-01-01
     end: 2024-06-30
     status: admin
-    employer: ''
 memberType: beta
+uuid: 11bcbd50-bb1e-4212-b252-1513bbbf30ba
 ---

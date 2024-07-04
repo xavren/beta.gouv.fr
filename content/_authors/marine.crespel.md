@@ -9,7 +9,7 @@ missions:
     end: 2017-06-30
     status: independent
     employer: octo
-startups: null
 previously:
   - demarches-simplifiees.fr
+uuid: 8f1495df-5fb5-4bcb-acf6-ad57d191e9d1
 ---

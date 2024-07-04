@@ -9,11 +9,11 @@ missions:
     end: 2024-09-29
     status: independent
     employer: OCTO
-    startups: []
 badges:
   - segur
 competences:
   - Coaching
   - Product strategy
+uuid: 4222099b-6ac4-4337-bdf8-09bae7bc1d48
 ---
 Entrepreneur associé

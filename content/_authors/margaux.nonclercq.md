@@ -19,5 +19,6 @@ previously:
   - poe.facilite
 competences:
   - Coaching
+uuid: e88971b8-1855-4414-b97c-16f2b034e3f4
 ---
 Coach startup, outils no-code, spécialiste du numérique durable et responsable.

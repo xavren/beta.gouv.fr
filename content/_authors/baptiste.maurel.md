@@ -13,5 +13,6 @@ missions:
 startups:
   - aides.jeunes
 memberType: beta
+uuid: 0f180d46-6644-4381-b545-67e52bcd93f4
 ---
 Software Developer

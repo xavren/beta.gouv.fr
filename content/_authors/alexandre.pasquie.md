@@ -13,5 +13,6 @@ startups:
   - cadransolaire
 competences:
   - Administration Publique
+uuid: 744d43ce-0fdd-4717-a112-5735a5cbddc3
 ---
 Chargé de mission Production électrique et énergies renouvelables terrestres, Ministère de la Transition énergétique

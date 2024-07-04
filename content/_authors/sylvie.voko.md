@@ -11,5 +11,6 @@ missions:
 memberType: beta
 startups:
   - precontentieux.justice
+uuid: f318920d-beda-4511-956e-fc2d23615130
 ---
 Intrapreneuse incubateur justice

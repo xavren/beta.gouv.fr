@@ -13,5 +13,6 @@ previously:
   - la-bonne-alternance
   - sirius
   - tdb-apprentissage
+uuid: 098593a7-49ce-4c9a-9905-22e00a89aa85
 ---
 Irrité par les irritants, pugnace pour chercher à les résoudre, avec 😃

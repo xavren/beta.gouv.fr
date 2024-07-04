@@ -13,6 +13,7 @@ competences:
   - Intrapreneur(se)
   - Développement Backend
 memberType: beta
+uuid: 7c4ddc21-29cd-45a7-8b90-347bd35d76ad
 ---
 Chercheur à l'Institut National de Recherche en Informatique et en Automatique (INRIA), je porte le projet Catala (https://code.gouv.fr/fr/explicabilite/catala/)
 

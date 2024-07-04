@@ -27,5 +27,6 @@ competences:
   - JavaScript/TypeScript
   - PostgreSQL
   - Facilitation
+uuid: 0497446d-1bb4-40e9-b70e-0920e50fd380
 ---
 Développeur web

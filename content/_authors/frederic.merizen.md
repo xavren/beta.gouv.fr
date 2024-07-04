@@ -12,5 +12,6 @@ missions:
 github: fredZen
 startups:
   - demarches-simplifiees.fr
+uuid: 731563d7-1e5c-48c5-94f5-07a4ff0a8c10
 ---
 Dev Rails sur demarches-simplifiees.fr

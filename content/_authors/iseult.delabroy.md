@@ -15,5 +15,6 @@ startups:
   - codedutravail
 badges:
   - segur
+uuid: e5789410-c092-44c9-897c-056b63623362
 ---
 Chargée de déploiement du Code du Travail Numérique Co-fondatrice @ Make It Work

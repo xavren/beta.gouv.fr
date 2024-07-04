@@ -13,5 +13,6 @@ missions:
 startups:
   - reva
 memberType: beta
+uuid: ee5c3d76-0309-4cc0-9462-8e0ed949239a
 ---
 Développeur fullstack

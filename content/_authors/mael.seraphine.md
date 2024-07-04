@@ -9,5 +9,6 @@ missions:
     status: admin
     employer: Plateforme de l'inclusion
 memberType: beta
+uuid: aa03fb0e-ec2f-4544-9f72-5a1dc1d88dca
 ---
 Le seul qui peut me battre , c'est moi-même

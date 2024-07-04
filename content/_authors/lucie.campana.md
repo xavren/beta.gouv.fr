@@ -10,5 +10,6 @@ missions:
 competences:
   - Coaching
   - Communication
+uuid: 686f3712-de25-4235-9cc6-c788177017be
 ---
 Spécialiste démocratie participative, accompagnement du changement, transformation des territoires.

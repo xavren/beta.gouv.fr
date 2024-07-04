@@ -10,4 +10,5 @@ missions:
     employer: GIP Plateforme de l'inclusion
 badges:
   - segur
+uuid: 332943d0-9134-4fec-b97c-6a859cf30182
 ---

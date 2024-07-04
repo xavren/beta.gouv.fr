@@ -11,4 +11,5 @@ missions:
 startups:
   - compte.rendu.vif
 memberType: beta
+uuid: d98b9e76-fc82-40b5-92d1-aad209e61839
 ---

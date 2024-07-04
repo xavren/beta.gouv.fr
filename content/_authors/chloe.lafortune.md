@@ -10,5 +10,6 @@ missions:
     employer: scopyleft
 badges:
   - segur
+uuid: 011191ac-e6b2-48ea-88e4-ec1173bb86e3
 ---
 Accompagnement sur l'identité visuelle des Start-ups

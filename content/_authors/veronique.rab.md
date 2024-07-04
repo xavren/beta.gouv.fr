@@ -11,5 +11,5 @@ missions:
 startups:
   - mon-entreprise
 memberType: autre
+uuid: 23a196b8-3a6e-44f8-9110-9be1c319b210
 ---
-

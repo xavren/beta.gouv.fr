@@ -13,5 +13,6 @@ missions:
       - sndv_maritime
 startups:
   - sndv_maritime
+uuid: 4ca30683-8aa6-4a49-bfe1-8e5aa9b8217f
 ---
 Développeuse web front-end

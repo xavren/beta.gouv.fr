@@ -17,5 +17,6 @@ competences:
 memberType: autre
 startups:
   - lannuaire.des.collectivites
+uuid: 8d42a61c-914b-4db5-9f84-466f2d283430
 ---
 Product Manager basé à Bordeaux

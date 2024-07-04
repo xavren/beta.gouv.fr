@@ -16,5 +16,5 @@ startups:
 memberType: beta
 competences:
   - Développement Full-stack
+uuid: dee54bf6-e25a-490a-b9a6-de751f10e6ec
 ---
-

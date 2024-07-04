@@ -15,5 +15,6 @@ competences:
   - UX
 memberType: dinum
 role: Software Engineer
+uuid: 4cb55d61-a0eb-40d6-812e-25a2af0b5205
 ---
 Software Engineer chez Sopra Steria. Travaille avec la DINUM sur le projet Mon FranceConnect en tant que référent technique Front-End.

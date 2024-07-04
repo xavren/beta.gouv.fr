@@ -22,5 +22,6 @@ startups:
 previously:
   - inclusion.connect
   - la-bonne-boite
+uuid: 70547a61-0e98-4af0-9da2-e24b7cf9314a
 ---
 Développeuse curieuse. Amatrice de blagues pas drôles, de gens trop enthousiastes et d'idées folles.

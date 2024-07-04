@@ -20,5 +20,6 @@ competences:
   - Gestion de Produit
   - Administration Publique
   - UX
+uuid: 18af355f-339d-49a1-b4f6-272bb192b2e3
 ---
 Responsable technique

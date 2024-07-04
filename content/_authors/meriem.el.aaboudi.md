@@ -6,9 +6,9 @@ missions:
   - start: 2024-03-27
     end: 2024-12-31
     status: independent
-    employer: ''
 competences:
   - Product strategy
   - Communication
 memberType: beta
+uuid: 657ce134-94a5-4098-880f-099ddf2de2af
 ---

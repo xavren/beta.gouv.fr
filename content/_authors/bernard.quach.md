@@ -9,11 +9,12 @@ missions:
     end: 2022-01-19
     status: admin
     startups:
-      - mesads
       - le-taxi
+      - mesads
 startups:
   - mesads
   - le-taxi
 badges:
   - segur
+uuid: cccf381c-142e-45c0-bfa2-0c721bff5f29
 ---

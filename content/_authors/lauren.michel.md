@@ -27,8 +27,6 @@ missions:
   - start: 2024-05-21
     end: 2024-08-21
     status: independent
-    employer: ''
-    startups: []
 previously:
   - france-numerique-ensemble
   - maintenant
@@ -40,5 +38,6 @@ competences:
   - Croissance
   - Administration Publique
   - Communication
+uuid: 0b041409-5f14-446a-84fd-956aeec3499e
 ---
 Startupeuse curieuse et persévérante !

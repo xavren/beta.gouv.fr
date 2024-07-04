@@ -9,9 +9,9 @@ missions:
     status: admin
     employer: Cour des comptes
   - start: 2020-03-01
+    end: 2022-02-24
     status: admin
     employer: beta.gouv
-    end: 2022-02-24
 startups:
   - aidess
   - inca
@@ -26,5 +26,6 @@ badges:
 competences:
   - Administration Publique
   - Gestion de Produit
+uuid: 6242e726-b36a-49c0-b914-cf01b418660c
 ---
 In Bike I Trust. Toujours en équipe!

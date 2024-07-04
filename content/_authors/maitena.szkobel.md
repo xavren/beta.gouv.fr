@@ -2,7 +2,6 @@
 fullname: Maïtena Skzobel
 role: Développement commercial
 domaine: Déploiement
-github: null
 missions:
   - start: 2018-04-05
     end: 2018-12-31
@@ -12,4 +11,5 @@ missions:
       - pass-culture
 startups:
   - pass-culture
+uuid: d6859684-1f8e-4745-a6b7-c15c8d7474ce
 ---

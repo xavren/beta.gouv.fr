@@ -13,6 +13,6 @@ missions:
 startups:
   - dossierfacile
 memberType: beta
+uuid: e8ac6126-a185-433f-ad1a-37a04972f287
 ---
-
 Chargée de déploiement déterminée et passionnée par les jeux de rôles

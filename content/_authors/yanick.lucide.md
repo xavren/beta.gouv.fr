@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: Police
 memberType: beta
+uuid: 01f6acfe-3099-4fa3-8fc5-3fb98d5993c2
 ---

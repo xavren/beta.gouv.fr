@@ -11,4 +11,5 @@ missions:
       - medle
 startups:
   - medle
+uuid: 871baba3-d5cc-4afa-9d5e-a46fd805c1c0
 ---

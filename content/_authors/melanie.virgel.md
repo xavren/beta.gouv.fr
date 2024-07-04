@@ -13,4 +13,5 @@ startups:
   - romin
 memberType: beta
 link: https://www.linkedin.com/in/melanie-virgel/
+uuid: ac5a82a6-c311-4c98-ae62-ac92f9683687
 ---

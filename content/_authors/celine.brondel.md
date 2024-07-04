@@ -14,4 +14,5 @@ startups:
   - encyclopedie-des-metiers
 previously:
   - estime
+uuid: e95b42bb-6158-4c4c-8af9-85000fce3a38
 ---

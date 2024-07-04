@@ -17,4 +17,5 @@ badges:
   - segur
 competences:
   - Croissance
+uuid: eba168b2-7031-4221-ab88-53169f2f7979
 ---

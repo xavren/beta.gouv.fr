@@ -19,4 +19,5 @@ competences:
   - Python
   - Metabase
 memberType: beta
+uuid: 75c65307-5d72-4cf0-9bdd-93e1ab7e9fd3
 ---

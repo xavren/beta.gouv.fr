@@ -23,4 +23,5 @@ badges:
 previously:
   - la-bonne-formation
   - snu
+uuid: 1f9b3912-eab9-4658-9383-56b04705235b
 ---

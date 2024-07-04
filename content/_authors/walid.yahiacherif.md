@@ -11,5 +11,6 @@ missions:
       - l-application-du-cej
 startups:
   - l-application-du-cej
+uuid: f4496870-f28b-4a5b-bcd0-b7dc94c21bd5
 ---
 une main lave l'autre

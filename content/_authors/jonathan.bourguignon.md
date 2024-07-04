@@ -8,9 +8,9 @@ missions:
     end: 2022-12-30
     status: independent
     employer: Numa
-  - status: independent
-    start: 2023-05-02
+  - start: 2023-05-02
     end: 2024-12-31
+    status: independent
 incubator: ademe
 startups:
   - plusfraichemaville
@@ -20,4 +20,5 @@ previously:
 competences:
   - Coaching
   - Gestion de Produit
+uuid: a4de6ff8-9ccc-4c47-b77e-1dd3cec26143
 ---

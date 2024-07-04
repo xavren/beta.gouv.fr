@@ -12,9 +12,9 @@ missions:
     employer: /ut7
     startups:
       - données-et-territoires
+      - grist.numerique.gouv.fr
       - l-application-du-cej
       - l-immersion-facile
-      - grist.numerique.gouv.fr
 startups:
   - l-immersion-facile
   - données-et-territoires
@@ -26,5 +26,6 @@ previously:
   - culture_amateurs
   - dumas
   - sppnaut
+uuid: 05f76a8f-ac95-471c-a891-b6a37dc3fef2
 ---
 Coach des startups, des papillons et des abeilles aux pieds libres.

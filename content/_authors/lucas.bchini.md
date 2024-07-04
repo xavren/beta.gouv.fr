@@ -12,4 +12,5 @@ missions:
       - cartobio
 startups:
   - cartobio
+uuid: 58b56d97-8d7f-47ad-861b-ec692f8036a8
 ---

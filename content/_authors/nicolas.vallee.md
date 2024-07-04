@@ -3,7 +3,6 @@ fullname: Nicolas Vallée
 domaine: Intraprenariat
 role: Intrapreneur de la transition écologique
 github: Nickvalley
-avatar: null
 link: https://www.linkedin.com/in/nicolasvalleeademe/
 missions:
   - start: 2020-10-21
@@ -16,4 +15,5 @@ startups:
   - territoires-en-transitions
 competences:
   - Administration Publique
+uuid: f56dd35f-5043-4ec8-9067-695e9386772d
 ---

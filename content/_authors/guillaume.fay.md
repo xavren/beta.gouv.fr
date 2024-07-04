@@ -16,4 +16,5 @@ startups:
   - ban
   - bases.adresses.locales
 memberType: beta
+uuid: b2441831-a1e7-4a2f-8546-b7b2455e0f23
 ---

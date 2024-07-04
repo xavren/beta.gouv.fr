@@ -13,5 +13,6 @@ startups:
   - aidess
 competences:
   - Administration Publique
+uuid: 12dfb39a-dd8e-4122-9000-664af3e9f0d8
 ---
 Socio-démographe de formation, je trifouille toutes sortes de données pour accompagner le déploiement des politiques publiques.

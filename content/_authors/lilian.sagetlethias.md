@@ -21,14 +21,14 @@ missions:
     end: 2023-12-31
     status: independent
     employer: Opteamis (Egapro)
-  - start: 2023-10-01
-    end: 2023-12-31
-    status: independent
-    employer: Opteamis (Archifiltre)
   - start: 2023-09-01
     end: 2023-12-31
     status: independent
     employer: Malt (MinArm)
+  - start: 2023-10-01
+    end: 2023-12-31
+    status: independent
+    employer: Opteamis (Archifiltre)
   - start: 2023-11-06
     end: 2024-11-06
     status: independent
@@ -44,5 +44,6 @@ competences:
   - Coaching
   - Développement Frontend
   - Développement Backend
+uuid: 1f60e262-9df6-47d5-87b1-d15c93542839
 ---
 CTO Incubateur de l'ADEME | <br/> ex-Coach Tech Incubateur @SocialGouv | <br/> ex-CTO @Simbel | <br/> [Paris Deno](https://deno.paris) organizer

@@ -8,11 +8,12 @@ missions:
     status: admin
     employer: education-nationale
     startups:
-      - open-academie
       - dossiersco
+      - open-academie
 startups:
   - open-academie
   - dossiersco
+uuid: ab7894c7-28d8-40a8-b1de-4ade96c272a2
 ---
 Sujet: Comment faire en sorte que la simplification administrative cesse d'être une
   incantation ? Vous avez 5 heures.

@@ -9,8 +9,8 @@ missions:
     end: 2017-11-30
     status: service
     employer: octo
-startups: null
 previously:
   - mpal
+uuid: 57fc5d10-8517-4c6a-b756-96abd13d054c
 ---
 Développeur Ruby on Rails since 2007. &lt;3

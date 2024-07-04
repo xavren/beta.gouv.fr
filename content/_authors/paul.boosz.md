@@ -14,5 +14,6 @@ startups:
   - ecobalyse
 badges:
   - segur
+uuid: 5309a522-72bf-40fc-bd4a-8b8f87a4cff2
 ---
 Data, écologie et beach volley

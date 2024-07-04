@@ -19,5 +19,6 @@ missions:
 startups:
   - france-numerique-ensemble
   - pass-culture
+uuid: 5dea237b-5ee1-4e8a-8bc3-243a0192ea67
 ---
 Développeur fullstack

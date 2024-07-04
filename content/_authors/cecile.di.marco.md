@@ -12,4 +12,5 @@ missions:
 startups:
   - l-immersion-facile
 memberType: beta
+uuid: e44ddf55-0318-4680-a9bd-dc6e62041739
 ---

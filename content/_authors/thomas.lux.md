@@ -7,4 +7,5 @@ missions:
     end: 2024-06-28
     status: admin
 memberType: beta
+uuid: 9973eb23-5857-4ac7-900c-db5bced7c0ff
 ---

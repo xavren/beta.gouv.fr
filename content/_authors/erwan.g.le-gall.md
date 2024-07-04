@@ -15,5 +15,6 @@ competences:
   - Administration Publique
 memberType: beta
 link: https://design.numerique.gouv.fr/qui-sommes-nous/
+uuid: 9830830e-64f1-4ffb-94ca-091b01d31707
 ---
 prof -> dév -> expert

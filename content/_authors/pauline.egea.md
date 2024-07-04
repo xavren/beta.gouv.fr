@@ -15,6 +15,6 @@ badges:
   - segur
 startups:
   - dossierfacile
+uuid: cd0df73f-8785-440c-a85d-8c5a6b4eb7d4
 ---
-
 BizDev !

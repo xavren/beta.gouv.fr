@@ -13,5 +13,6 @@ missions:
 startups:
   - ecobalyse
 memberType: autre
+uuid: 4eded270-ab68-48ad-bfd8-590a991fb1f2
 ---
 Designer

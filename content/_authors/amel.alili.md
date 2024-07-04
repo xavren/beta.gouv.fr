@@ -15,4 +15,5 @@ teams:
   - /teams/communaute-dinum
 badges:
   - segur
+uuid: f37a232f-4686-448b-86aa-cd5ec232a8e0
 ---

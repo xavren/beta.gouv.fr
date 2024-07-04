@@ -11,5 +11,6 @@ missions:
     startups:
       - agora
 memberType: autre
+uuid: dd58a66e-7e36-42ee-b4f7-c4d24d4f53b3
 ---
 Développeur & tech lead mobile

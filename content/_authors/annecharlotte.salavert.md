@@ -14,5 +14,6 @@ startups:
   - monpsy
 competences:
   - Administration Publique
+uuid: 1c6d9530-7f5c-4269-a63b-6b1ecead46a6
 ---
 chargée de mission à la direction de la sécurité sociale sur le projet PsyEnfantAdo

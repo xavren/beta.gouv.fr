@@ -12,5 +12,6 @@ missions:
       - aides-territoires
 startups:
   - aides-territoires
+uuid: d4aa7aeb-2d8c-421d-8c8f-7f2b30cad77f
 ---
 Faciliter le développement des territoires grâce au numérique et avec les usagers

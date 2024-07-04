@@ -12,4 +12,5 @@ missions:
       - euphrosyne
 startups:
   - euphrosyne
+uuid: 8bcd9a43-a9ce-47d2-90f1-81ffb4e96c27
 ---

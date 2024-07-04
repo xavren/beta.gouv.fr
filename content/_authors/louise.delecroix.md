@@ -12,5 +12,6 @@ missions:
 startups:
   - snu
 memberType: autre
+uuid: ba2d7d8b-3a08-4588-b1f4-a37fa4575d3e
 ---
 Product Owner

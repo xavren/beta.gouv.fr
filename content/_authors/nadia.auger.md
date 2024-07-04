@@ -15,4 +15,5 @@ startups:
   - ellesfontlaculture
 badges:
   - segur
+uuid: 2600386c-cc07-4bf2-bdae-0e708f93c24a
 ---

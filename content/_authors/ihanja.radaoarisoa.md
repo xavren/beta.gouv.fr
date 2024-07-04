@@ -12,4 +12,5 @@ missions:
 competences:
   - Product strategy
 memberType: beta
+uuid: 0b9fbce1-e3aa-40af-b34c-654c34901c01
 ---

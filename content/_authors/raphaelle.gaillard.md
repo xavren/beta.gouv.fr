@@ -8,12 +8,10 @@ missions:
     end: 2019-12-31
     status: admin
     employer: Pôle emploi
-
   - start: 2021-01-01
     end: 2023-06-30
     status: independent
     employer: SAS MG Performance
-startups:
 previously:
   - maintenant
   - france-numerique-ensemble
@@ -21,6 +19,6 @@ previously:
   - tdb-apprentissage
 competences:
   - Gestion de Produit
+uuid: 19a381e6-0762-45c6-9109-7028c29c8dd5
 ---
-
 Mon moteur : l’utilité sociale. Mon engagement : Agir pour plus d’équité.

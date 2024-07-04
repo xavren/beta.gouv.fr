@@ -14,5 +14,6 @@ startups:
   - mon-suivi-social
 previously:
   - dossierfacile
+uuid: 1b8c7d1e-b52f-48d6-8391-1b84aaed2a3e
 ---
 Entrepreneure, photographe, engagée dans les enjeux de l'ESS et les questions d'innovation sociale, je n'ai qu'une tête mais de multiples casquettes !

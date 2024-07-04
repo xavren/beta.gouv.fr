@@ -10,16 +10,17 @@ missions:
     status: admin
     employer: Ministère des Armées
     startups:
-      - oscars
-      - osirispn
+      - cassiopee
       - civils-de-la-defense
       - octopus
-      - cassiopee
+      - oscars
+      - osirispn
 startups:
   - oscars
   - osirispn
   - civils-de-la-defense
   - octopus
   - cassiopee
+uuid: e518bff3-c38b-409c-9614-5a14c5e39049
 ---
 JavaScript frontend/backend developer. React lover.

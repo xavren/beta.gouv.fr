@@ -15,6 +15,6 @@ startups:
   - france-numerique-ensemble
 badges:
   - segur
+uuid: 64840827-c021-4e7a-b40d-f2704027ae32
 ---
-
 Développeur Front End

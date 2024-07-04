@@ -14,5 +14,6 @@ startups:
   - datapass
 badges:
   - segur
+uuid: 06c14509-e5dd-426a-b07d-c153f34a1cca
 ---
 Développeuse full-stack le jour, tricoteuse la nuit. J'aime l'open-source et la montagne.

@@ -7,7 +7,7 @@ missions:
     end: 2024-12-31
     status: admin
     employer: ANSSI
-startups: null
 teams:
   - /teams/anssi
+uuid: a57a61ca-9f95-42a6-934d-2b97e8c8098a
 ---

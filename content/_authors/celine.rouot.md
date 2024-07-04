@@ -9,8 +9,8 @@ missions:
     employer: eig
     startups:
       - signaux-faibles
-avatar: null
 startups:
   - signaux-faibles
+uuid: fcde7eb5-78a9-4920-8bb6-70b9d8f2e641
 ---
 Fabricante de data

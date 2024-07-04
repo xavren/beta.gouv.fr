@@ -16,5 +16,6 @@ badges:
   - segur
 previously:
   - tumeplay
+uuid: b48585bb-5e77-4d2e-81d1-46ddad708dbd
 ---
 Business developer et podcasteuse

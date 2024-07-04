@@ -14,5 +14,6 @@ startups:
   - metiers-numeriques
 badges:
   - segur
+uuid: 0fbb1821-fb05-4994-80fb-27c7609968c9
 ---
 Développeur le jour, musicien la nuit

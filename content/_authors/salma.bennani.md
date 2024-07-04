@@ -13,5 +13,6 @@ startups:
   - rdv.insertion
 badges:
   - segur
+uuid: 2a4c8a4e-a5b2-4dae-a97c-7050ee6d4889
 ---
 L'heure est au changement de modèle économique et sociétal, j’aspire à être actrice de ce changement!

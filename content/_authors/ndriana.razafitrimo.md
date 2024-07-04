@@ -11,4 +11,5 @@ missions:
       - demarches-simplifiees.fr
 startups:
   - demarches-simplifiees.fr
+uuid: e0fa227d-12b3-43b2-b682-5b19111ffb1e
 ---

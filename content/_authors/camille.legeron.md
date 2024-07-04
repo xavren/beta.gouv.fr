@@ -11,5 +11,6 @@ missions:
       - données-et-territoires
 startups:
   - données-et-territoires
+uuid: 9bf402e0-428a-49f5-89a4-594c5d309564
 ---
 Développeuse TelesCoop - La Zone

@@ -14,4 +14,5 @@ startups:
 previously:
   - la.bonne.renov
 memberType: beta
+uuid: edba9b6e-7d09-4dcf-876a-cb1b2572a799
 ---

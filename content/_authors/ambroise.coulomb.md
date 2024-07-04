@@ -10,5 +10,6 @@ missions:
     employer: MTECT
 badges:
   - segur
+uuid: 1e9baf22-19b3-4886-bd71-1f8ccb9056d5
 ---
 Data Scientist-Analyst DGALN - MTE

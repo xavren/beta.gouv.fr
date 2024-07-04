@@ -10,8 +10,8 @@ missions:
     status: independent
     employer: Scopyleft
     startups:
-      - espace.sur.demande
       - agents.en.intervention
+      - espace.sur.demande
 memberType: beta
 startups:
   - espace.sur.demande
@@ -23,5 +23,6 @@ competences:
   - PHP
   - PostgreSQL
   - JavaScript/TypeScript
+uuid: 5fcb4fc7-3bf0-4c5a-82c4-2773e3d99a05
 ---
 Développeur mobile et web fullstack

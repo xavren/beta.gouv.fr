@@ -17,4 +17,5 @@ competences:
   - Développement Full-stack
   - Python
   - JavaScript/TypeScript
+uuid: ef2b2701-cd1d-4987-bdcd-35b2676b7ef0
 ---

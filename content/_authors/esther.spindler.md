@@ -13,4 +13,5 @@ memberType: autre
 competences:
   - Communication
   - Croissance
+uuid: fca86406-831b-434c-9f5d-b849884e57b3
 ---

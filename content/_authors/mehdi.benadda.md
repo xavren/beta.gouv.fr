@@ -13,5 +13,6 @@ missions:
       - partaj
 startups:
   - partaj
+uuid: 9012a346-dc62-4e03-b98e-c0613174e87d
 ---
 JavaScript, Django, open source. Aime la grimpe et le surf, le cinéma et la littérature.

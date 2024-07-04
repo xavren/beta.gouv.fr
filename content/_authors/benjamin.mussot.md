@@ -15,4 +15,5 @@ competences:
   - Intrapreneur(se)
   - Product design
 memberType: autre
+uuid: 8cca4ff5-e369-416a-8492-677f32ed6456
 ---

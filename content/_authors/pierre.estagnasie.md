@@ -12,4 +12,5 @@ missions:
 startups:
   - sirius
 memberType: beta
+uuid: 103154d9-21de-4516-8609-c519645586be
 ---

@@ -13,5 +13,6 @@ missions:
       - tchap
 startups:
   - tchap
+uuid: 71afb102-8a73-479e-ad60-ab357beda6ba
 ---
 Designer numérique et associé chez NoDesign.

@@ -16,4 +16,5 @@ startups:
   - deveco
 competences:
   - Communication
+uuid: cb55a43c-884c-4883-9fad-276bb600776b
 ---

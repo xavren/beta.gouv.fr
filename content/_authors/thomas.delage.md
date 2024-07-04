@@ -12,4 +12,5 @@ missions:
 startups:
   - snu
 memberType: beta
+uuid: a5f18676-44fa-4a73-9094-da6cd2b77e6f
 ---

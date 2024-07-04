@@ -8,12 +8,11 @@ missions:
   - start: 2023-09-24
     end: 2024-02-29
     status: service
-    employer: ""
     startups:
       - mon-diagnostic-artificialisation
 startups:
   - mon-diagnostic-artificialisation
 memberType: beta
+uuid: 2884f1d0-89c8-4268-ad17-551658345959
 ---
-
 Accélérateur d'ouverture des données

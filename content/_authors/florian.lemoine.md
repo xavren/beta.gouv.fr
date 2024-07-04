@@ -9,4 +9,5 @@ missions:
     employer: SGDSN - ANSSI
 badges:
   - segur
+uuid: 9c622875-1a93-498d-9afc-ed02c4529d2c
 ---

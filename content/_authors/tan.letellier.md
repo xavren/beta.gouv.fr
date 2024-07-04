@@ -14,4 +14,5 @@ incubator: francetravail
 competences:
   - Administration Publique
   - Communication
+uuid: d0f27eef-770d-4937-a74a-817633ea2529
 ---

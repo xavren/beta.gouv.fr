@@ -16,4 +16,5 @@ badges:
   - segur
 competences:
   - Administration Publique
+uuid: fe99edcb-f163-4a3c-8e7c-2cc9de3ae661
 ---

@@ -12,5 +12,6 @@ missions:
 startups:
   - diagoriente
 memberType: beta
+uuid: d4f256c7-f703-4686-88fa-9dbef4f1559f
 ---
 Chargé de déploiement le jour

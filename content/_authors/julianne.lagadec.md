@@ -8,12 +8,11 @@ missions:
   - start: 2021-04-01
     end: 2024-12-31
     status: admin
-    employer: ''
     startups:
-      - sirius
       - exposition-ij
       - investigation-ij
       - pilotagevoiepro
+      - sirius
 startups:
   - sirius
   - exposition-ij
@@ -26,4 +25,5 @@ previously:
   - la-bonne-alternance
 teams:
   - /teams/mission-inserjeunes
+uuid: e9ae1360-7c49-4d79-806f-570457919276
 ---

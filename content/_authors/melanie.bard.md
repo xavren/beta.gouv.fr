@@ -13,5 +13,6 @@ startups:
   - reva
 badges:
   - segur
+uuid: 70f4676e-1063-496e-94d4-1863abf584e2
 ---
 Engagée pour donner à la VAE la place qu'elle mérite ! Apicultrice citadine à ses heures gagnées...

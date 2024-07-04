@@ -12,4 +12,5 @@ missions:
 github: farnoux
 memberType: beta
 link: https://www.linkedin.com/in/farnoux/
+uuid: 1a6d4610-64e9-450a-8940-32add6cf15e1
 ---

@@ -14,4 +14,5 @@ github: /
 competences:
   - Intrapreneur(se)
 memberType: beta
+uuid: 96f82a8f-100e-48c4-bd36-5bee38004a93
 ---

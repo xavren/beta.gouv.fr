@@ -13,4 +13,5 @@ github: inemesis
 competences:
   - Développement
 memberType: beta
+uuid: bee21fd6-9a25-4854-a27a-ae1d7fec4f94
 ---

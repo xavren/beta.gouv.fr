@@ -13,4 +13,5 @@ missions:
 startups:
   - ban
 memberType: beta
+uuid: f4285ea2-58f9-493d-be51-c6f402f8dab8
 ---

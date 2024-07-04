@@ -20,5 +20,5 @@ startups:
 previously:
   - territoires-en-transitions
 memberType: beta
+uuid: fffb6b13-de3a-419b-83c8-9819bb7709cc
 ---
-

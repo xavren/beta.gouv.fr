@@ -15,5 +15,6 @@ startups:
   - tchap
 badges:
   - segur
+uuid: bf0dbf97-91cc-4bf9-a6e6-9b30c03fceff
 ---
 Chargé de déploiement, expert en communication, analyste-rédacteur en géopolitique, je cherche à donner du sens à chaque projet que j'entreprends !

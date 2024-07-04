@@ -13,5 +13,6 @@ startups:
   - peps
 badges:
   - segur
+uuid: 56a9c6e0-9606-4f0a-8166-b9bbf3c13fcd
 ---
 Etudiante dans le double diplôme SciencesPo-HEC, j'essaye de m'enrichir grâce à la diversité de mes expériences. Je souhaite mettre mes compétences de gestion de projet et d'analyse au service de l'innovation dans les services publics.

@@ -11,13 +11,14 @@ missions:
     employer: AD-HOC Lab
     startups:
       - diagoriente
-      - la-bonne-alternance
       - exposition-ij
+      - la-bonne-alternance
 startups:
   - diagoriente
   - la-bonne-alternance
   - exposition-ij
 previously:
   - eva
+uuid: 0fa82ea2-be0c-4494-b660-c1f6c985cb05
 ---
 Ethique/Méthode/Réfutabilité

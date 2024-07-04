@@ -13,4 +13,5 @@ missions:
 startups:
   - anais
 memberType: autre
+uuid: 0778140f-b7ea-4858-9c7e-af7fbc05d68a
 ---

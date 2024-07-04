@@ -18,4 +18,5 @@ competences:
   - Accessibilité
   - UI
 memberType: beta
+uuid: 9b7bcb38-2d4b-49a7-9245-20fa05aa40e9
 ---

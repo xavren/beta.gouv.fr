@@ -1,7 +1,7 @@
 ---
 fullname: Margaux Porché
 domaine: Animation
-role: "Chargée d'assistance utilisateurs et de l'animation "
+role: 'Chargée d''assistance utilisateurs et de l''animation '
 missions:
   - start: 2022-12-06
     end: 2024-12-31
@@ -14,4 +14,5 @@ startups:
 memberType: beta
 competences:
   - Communication
+uuid: 32d8168e-2b0f-4b45-9287-a945881e57aa
 ---

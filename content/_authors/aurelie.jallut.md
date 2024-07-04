@@ -25,5 +25,6 @@ competences:
   - UI
   - Product design
   - Product strategy
+uuid: fafbb6f3-4007-4854-83d0-99ffdcfe20ef
 ---
 Recherche utilisateurs, prototype & design d'interfaces

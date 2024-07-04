@@ -12,4 +12,5 @@ missions:
 startups:
   - les-emplois
   - place-de-marche-inclusion
+uuid: f9392766-09dc-429f-9983-f1acce6033ac
 ---

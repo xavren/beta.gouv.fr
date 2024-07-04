@@ -7,11 +7,11 @@ missions:
   - start: 2022-11-02
     end: 2024-07-31
     status: independent
-    employer: ''
     startups:
       - cartobio
 startups:
   - cartobio
 badges:
   - segur
+uuid: 89d31728-6970-4c18-956f-22fba5724a8b
 ---

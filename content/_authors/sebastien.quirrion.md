@@ -15,6 +15,6 @@ startups:
   - france-numerique-ensemble
 badges:
   - segur
+uuid: 40200f49-747a-41f4-952e-4a095c885c8a
 ---
-
 Développeur Web

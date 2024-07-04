@@ -12,4 +12,5 @@ missions:
       - aides-territoires
 startups:
   - aides-territoires
+uuid: c3e6bea2-b135-44f8-a3b0-99727e29c774
 ---

@@ -14,5 +14,6 @@ missions:
 startups:
   - données-et-territoires
 memberType: beta
+uuid: 36497d87-e49d-4d6a-a246-81a2fc3d85a1
 ---
 UI Designer

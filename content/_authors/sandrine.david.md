@@ -14,4 +14,5 @@ startups:
   - mes-evenements-emploi
 competences:
   - Gestion de Produit
+uuid: 72b7a333-6513-46ea-b26b-7271a29f3f98
 ---

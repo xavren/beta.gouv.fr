@@ -8,11 +8,10 @@ missions:
   - start: 2022-09-05
     end: 2024-02-27
     status: service
-    employer: ""
     startups:
       - dossierfacile
 startups:
   - dossierfacile
+uuid: e1aa7b34-7da8-48a2-8dad-8535e99e2ce5
 ---
-
 Développeuse Full Stack

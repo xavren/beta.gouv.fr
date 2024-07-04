@@ -14,7 +14,6 @@ missions:
   - start: 2024-03-14
     end: 2024-12-14
     status: independent
-    employer: ''
     startups:
       - monprojetsup
   - start: 2024-06-24
@@ -34,5 +33,6 @@ competences:
   - Figma
   - UI
   - Product design
+uuid: 2c6441ff-f93c-41b0-a9f3-6efd28e524e0
 ---
 UX/UI Designer

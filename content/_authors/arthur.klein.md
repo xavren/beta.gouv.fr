@@ -19,5 +19,6 @@ startups:
   - icare-complements-alimentaires
   - ma-cantine-egalim
 memberType: beta
+uuid: 84a906bd-0dd0-4736-a260-458f58475c25
 ---
 Designer et coach

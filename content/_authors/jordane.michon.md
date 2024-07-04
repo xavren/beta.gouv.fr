@@ -13,4 +13,5 @@ link: https://www.linkedin.com/in/jordane-michon69/
 competences:
   - Développement Full-stack
 memberType: beta
+uuid: 1da3762d-84ee-40ce-9245-beb2da5769d4
 ---

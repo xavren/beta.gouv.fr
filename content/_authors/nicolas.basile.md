@@ -11,5 +11,6 @@ missions:
 avatar: /img/authors/nicolas.basile.jpg
 startups:
   - mobiville
+uuid: 78f85398-7cbe-4076-b653-49aa51f5960c
 ---
 Designer passionné par les nouvelles technologies et le numérique, je m’applique à réaliser une conception UX de qualité en prenant en compte les besoins des différents acteurs du projet, tout en mettant en valeur le bénéfice utilisateur.

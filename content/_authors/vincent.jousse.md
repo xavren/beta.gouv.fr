@@ -23,4 +23,5 @@ startups:
   - carnet.de.bord
   - inclusion.connect
   - les-emplois
+uuid: 7b73b359-953b-4689-a465-9b68d16e2588
 ---

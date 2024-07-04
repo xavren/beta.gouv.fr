@@ -9,9 +9,10 @@ missions:
     status: admin
     employer: Fabrique des ministères sociaux
     startups:
-      - e-mjpm
       - egalite.professionnelle
+      - e-mjpm
 startups:
   - e-mjpm
   - egalite.professionnelle
+uuid: a3749aae-18e5-4617-ada1-11e64589011d
 ---

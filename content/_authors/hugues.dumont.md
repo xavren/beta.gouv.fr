@@ -13,4 +13,5 @@ missions:
 memberType: dinum
 startups:
   - suite-numerique
+uuid: d8034701-251f-44a6-bc78-4a5aa1b8e989
 ---

@@ -21,4 +21,5 @@ memberType: dinum
 startups:
   - suite-numerique
   - l-application-du-cej
+uuid: c42c1d06-f756-4e54-bef5-c23db02dc057
 ---

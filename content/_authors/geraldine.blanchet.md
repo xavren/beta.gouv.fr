@@ -12,5 +12,6 @@ missions:
 startups:
   - compte.ressources
 memberType: beta
+uuid: 9c447e9e-a03e-48ad-b3fb-bb4e26cc432c
 ---
 intrapreneuse compte ressources

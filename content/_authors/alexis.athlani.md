@@ -22,4 +22,5 @@ competences:
   - PostgreSQL
   - Python
   - Product strategy
+uuid: 33d0c55d-cce4-4ab1-9ed8-0944120180b2
 ---

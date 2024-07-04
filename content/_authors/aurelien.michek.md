@@ -7,5 +7,6 @@ missions:
     end: 2024-02-01
     status: admin
 memberType: autre
+uuid: 787fd927-f554-4856-9840-e54286146729
 ---
 membre de la Fabrique Numérique DNUM MIOM et référent accessibilité numérique du MIOM

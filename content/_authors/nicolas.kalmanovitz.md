@@ -9,5 +9,6 @@ missions:
     employer: OCTO
 badges:
   - segur
+uuid: 2ffe9636-d9db-40a3-93ab-27a9ba9cfb9a
 ---
 Consultant en organisation, coach et responsable de compte pour OCTO Technology

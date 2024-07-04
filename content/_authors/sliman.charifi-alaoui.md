@@ -12,5 +12,6 @@ missions:
 startups:
   - l-immersion-facile
 memberType: beta
+uuid: 19981dea-d495-41d6-8d43-4e302fb15b7b
 ---
 Chargé de développement / immersion facilitée

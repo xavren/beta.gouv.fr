@@ -12,5 +12,6 @@ missions:
       - mrs
 startups:
   - mrs
+uuid: f320a823-d80d-45a8-8016-674f2e079fc5
 ---
 Digital Native chasseur d'irritants

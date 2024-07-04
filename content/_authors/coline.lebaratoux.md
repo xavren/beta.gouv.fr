@@ -18,5 +18,6 @@ competences:
   - Product design
   - UX
   - UI
+uuid: 1d66d372-4f50-4835-89f5-a6a30d1fae96
 ---
 Designer d'expériences engagées

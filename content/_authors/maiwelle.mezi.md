@@ -12,5 +12,6 @@ previously:
   - api-engagement
 badges:
   - segur
+uuid: 4788fd74-03eb-4652-914b-4c03fcc4d929
 ---
 Chargée de déploiement

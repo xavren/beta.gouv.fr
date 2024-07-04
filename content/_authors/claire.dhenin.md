@@ -8,10 +8,10 @@ missions:
   - start: 2023-07-04
     end: 2024-07-31
     status: independent
-    employer: ''
     startups:
       - benefriches
 startups:
   - benefriches
 memberType: beta
+uuid: eb4826d7-f23e-4347-87c3-ba56ff50eecd
 ---

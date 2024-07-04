@@ -7,12 +7,12 @@ link: https://meidosem.com
 teams:
   - /teams/gip-inclusion
 missions:
-  - start: 2021-04-20
-    end: 2021-10-31
-    status: independent
-    employer: Numa
   - start: 2021-03-28
     end: 2023-02-28
+    status: independent
+    employer: Numa
+  - start: 2021-04-20
+    end: 2021-10-31
     status: independent
     employer: Numa
   - start: 2023-03-01
@@ -24,5 +24,6 @@ competences:
   - Coaching
   - Développement Frontend
   - Développement Backend
+uuid: e6176086-ba79-4fed-ab20-e031ea890795
 ---
 Bidouilleur, enseignant, designer, développeur.

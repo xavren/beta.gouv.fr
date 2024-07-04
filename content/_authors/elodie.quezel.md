@@ -15,5 +15,6 @@ missions:
     employer: DGE
 startups:
   - signaux-faibles
+uuid: 8c002a44-7b8e-444b-b67d-a8af832cd2b2
 ---
 Pilote opérationnelle

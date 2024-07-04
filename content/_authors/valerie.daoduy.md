@@ -16,5 +16,6 @@ badges:
 competences:
   - Administration Publique
 github: valerie-daoduy
+uuid: ee11b41c-2ac6-494e-8c4b-47af292821d5
 ---
 Motivée par les projets d'intérêt général concrets

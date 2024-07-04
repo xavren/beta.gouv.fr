@@ -14,4 +14,5 @@ missions:
     employer: scopopop
 startups:
   - demarches-simplifiees.fr
+uuid: b57ccebd-acc9-4b77-8a21-b23896b9a4e2
 ---

@@ -12,5 +12,6 @@ missions:
       - les-emplois
 startups:
   - les-emplois
+uuid: f0d5152e-e66c-4c4e-82c3-8535f33f85b1
 ---
 Freelance Social Media basée à Toulouse !

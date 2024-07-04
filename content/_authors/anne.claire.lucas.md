@@ -11,4 +11,5 @@ missions:
 startups:
   - mes.aides.a.lembauche
 memberType: beta
+uuid: d062c5cc-dfa3-405b-bbcf-230d07df48ef
 ---

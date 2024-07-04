@@ -9,6 +9,7 @@ missions:
     status: independent
     employer: Ground
 memberType: autre
+uuid: c9fed9cb-94db-4e82-b543-06050e48997b
 ---
 CPO Freelance & Coach Product, spécialiste du lancement de nouveaux produits digitaux. Mon mantra: utiliser
   la tech pour créer des services qui ont un impact positif.

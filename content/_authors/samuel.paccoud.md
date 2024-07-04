@@ -13,5 +13,6 @@ missions:
 startups:
   - suite-numerique
 memberType: beta
+uuid: 9d97ac7d-e549-4b9c-b6a8-3bd69579e647
 ---
 Intrapreneur de la suite numérique.

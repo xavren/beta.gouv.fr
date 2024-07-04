@@ -16,5 +16,6 @@ badges:
   - segur
 previously:
   - snu
+uuid: 287d285d-464f-4d85-8f30-7de1cb71d57a
 ---
 Product owner

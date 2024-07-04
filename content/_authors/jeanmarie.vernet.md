@@ -9,4 +9,5 @@ missions:
     employer: Ministère de la Justice
 badges:
   - segur
+uuid: 5842ad48-4854-417d-a6d1-48f1b716c8ee
 ---

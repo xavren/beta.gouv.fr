@@ -13,5 +13,6 @@ startups:
   - mobiville
 badges:
   - segur
+uuid: 039e79e7-5976-445a-93e0-aab9f698e185
 ---
 Product Manager pour la startup Mobiville.

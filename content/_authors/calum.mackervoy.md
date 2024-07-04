@@ -8,8 +8,8 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - les-emplois
       - la.communaute.de.linclusion
+      - les-emplois
 link: https://calum.mackervoy.com/fr/
 github: calummackervoy
 competences:
@@ -19,5 +19,6 @@ competences:
   - PostgreSQL
   - JavaScript/TypeScript
 memberType: beta
+uuid: a755fc27-abc0-4481-8ee2-14a0d62840d3
 ---
 Développeur Full-Stack - Django/Python avec JavaScript. Passionné par les logiciels libres et les coopératives, le web sémantique, la création des jeux vidéo en Godot et les jeux de société.

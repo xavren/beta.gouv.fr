@@ -8,11 +8,12 @@ missions:
     end: 2024-03-05
     status: independent
     startups:
-      - urbanvitaliz
       - recommandations-collaboratives
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
 memberType: beta
+uuid: 974b964d-33b5-476c-a51c-dfcfe775422f
 ---
 Dev front

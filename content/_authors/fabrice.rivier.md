@@ -12,4 +12,5 @@ missions:
       - anti-gaspi-cantine
 startups:
   - anti-gaspi-cantine
+uuid: 96b98f7f-8546-46d9-b79b-4664e1e52950
 ---

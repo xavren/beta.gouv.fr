@@ -14,4 +14,5 @@ github: lsaudon
 competences:
   - Développement Frontend
 memberType: beta
+uuid: 018a80f6-554a-4112-8f46-4312dec47528
 ---

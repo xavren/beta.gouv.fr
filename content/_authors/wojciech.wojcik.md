@@ -12,5 +12,6 @@ missions:
 startups:
   - france.nation.verte.agir
 memberType: beta
+uuid: cca24fb6-8357-4b6e-8d87-e8c9b8b9c0d1
 ---
 Développeur biodégradable

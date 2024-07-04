@@ -12,5 +12,6 @@ teams:
   - /teams/justice
 badges:
   - segur
+uuid: 111f4304-6e70-406c-ac80-a61376feaa95
 ---
 Développeur, Responsable technique

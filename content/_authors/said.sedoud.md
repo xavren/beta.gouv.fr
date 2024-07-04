@@ -14,5 +14,6 @@ startups:
   - signalement
 badges:
   - segur
+uuid: 713514d6-0b1a-447c-9528-47f680db598d
 ---
 Développeur

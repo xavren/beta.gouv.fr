@@ -12,4 +12,5 @@ missions:
       - mission-transition-ecologique
 startups:
   - mission-transition-ecologique
+uuid: f7d32e7b-0df9-4f0e-808c-544a7439d27f
 ---

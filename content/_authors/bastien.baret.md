@@ -17,4 +17,5 @@ competences:
   - PostgreSQL
   - JavaScript/TypeScript
   - Metabase
+uuid: cf3f109d-e73a-47fd-9967-e393ee2f7ede
 ---

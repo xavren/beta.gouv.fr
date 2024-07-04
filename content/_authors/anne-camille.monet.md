@@ -7,7 +7,6 @@ missions:
   - start: 2017-04-01
     end: 2024-12-31
     status: admin
-    employer: ''
     startups:
       - besoins.opco
 incubator: mission-apprentissage
@@ -21,5 +20,6 @@ previously:
 competences:
   - Gestion de Produit
   - Administration Publique
+uuid: e0f05f48-288c-4332-95ea-88bd02c2a5cb
 ---
 Depuis 2020 au sein de la Mission interministérielle pour l'apprentissage, j'ai pu travailler sur La bonne alternance, le cerfa dématérialisé pour les employeurs publics, le tableau de bord, Boîte aux lettres, API apprentissage et le générateur de cerfa pour les employeurs privés.

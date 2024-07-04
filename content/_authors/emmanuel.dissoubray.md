@@ -13,4 +13,5 @@ missions:
 startups:
   - pacoupa
 memberType: beta
+uuid: ba4e32db-ed76-4374-9275-9d838d813659
 ---

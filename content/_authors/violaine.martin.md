@@ -8,4 +8,5 @@ missions:
     status: service
     employer: Centre National des Arts du Cirque
 memberType: beta
+uuid: 7f94ed1e-535f-4d20-a85f-86889110d653
 ---

@@ -14,5 +14,6 @@ missions:
     employer: Fabrique Numérique des Ministères Sociaux
 startups:
   - e-mjpm
+uuid: 535b95ad-f2fa-4b55-a614-8018d081c258
 ---
 Open-Source Fanatic 🦊

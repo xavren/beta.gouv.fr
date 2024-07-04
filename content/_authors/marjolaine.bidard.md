@@ -22,5 +22,6 @@ competences:
   - Research
   - Facilitation
   - Product strategy
+uuid: 100e0b25-df74-44d9-8846-a46c1e1af465
 ---
 Product UX strategy, UX research, Experience designer Freelance

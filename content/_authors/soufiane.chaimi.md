@@ -13,5 +13,6 @@ startups:
   - urbanvitaliz
 badges:
   - segur
+uuid: 0eaa9178-0224-4a1f-8c97-710feab212f4
 ---
 Urbaniste

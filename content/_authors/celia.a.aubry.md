@@ -12,4 +12,5 @@ memberType: beta
 previously:
   - encyclopedie-des-metiers
   - competence.validee
+uuid: 7c3a388f-6287-4cd5-919b-fc44dba1c2b2
 ---

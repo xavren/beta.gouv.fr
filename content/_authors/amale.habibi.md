@@ -17,4 +17,5 @@ startups:
 memberType: autre
 competences:
   - Administration Publique
+uuid: d523edcb-0f9c-4878-ae9b-99fc2ffabd95
 ---

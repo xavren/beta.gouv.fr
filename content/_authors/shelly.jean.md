@@ -9,5 +9,6 @@ missions:
     employer: DINUM
 badges:
   - segur
+uuid: 21442414-acdf-4578-8a2d-3659f329d32f
 ---
 UX Designer apprentie, grande joueuse de volley

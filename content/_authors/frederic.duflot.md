@@ -8,5 +8,6 @@ missions:
     end: 2020-08-31
     status: independent
     employer: numa
+uuid: 8960972d-651c-474a-b1f4-d5b377aa8c87
 ---
 Co-fondateur Examin & coach cyber

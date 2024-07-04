@@ -17,5 +17,6 @@ startups:
 previously:
   - la-bonne-alternance
   - la-bonne-boite
+uuid: 64b38bd2-8b43-4225-b9c1-5d35cac21f56
 ---
 En année sabbatique, réfléchit au futur.

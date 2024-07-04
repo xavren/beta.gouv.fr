@@ -4,11 +4,10 @@ domaine: Coaching
 role: Coach
 github: marievanhaecke
 missions:
-  - employer: Dinum
-    start: 2021-01-21
+  - start: 2021-01-21
     end: 2030-12-31
     status: service
-startups: null
+    employer: Dinum
 previously:
   - metiers-numeriques
   - bourses.scolaires
@@ -19,5 +18,6 @@ badges:
   - segur
 competences:
   - Coaching
+uuid: c384df9c-29ee-440a-869f-04c129134f0c
 ---
 Mon état d’esprit test & learn me permet d’être centrée sur le besoin de l’utilisateur et j’adore passer d’une idée à un projet concret.

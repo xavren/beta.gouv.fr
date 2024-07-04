@@ -18,4 +18,5 @@ competences:
   - Développement Backend
   - Python
   - PostgreSQL
+uuid: 63850262-45ad-4e80-84d5-307a83c5e433
 ---

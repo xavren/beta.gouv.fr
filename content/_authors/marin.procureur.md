@@ -14,4 +14,5 @@ missions:
 startups:
   - pilotagevoiepro
 memberType: beta
+uuid: 82896b60-9578-4272-b92a-f10c263aeba6
 ---

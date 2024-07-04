@@ -17,5 +17,6 @@ startups:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: aebcf24e-da15-4be3-adc6-89810125e631
 ---
 Développeur mobile nantais (mais normand pure souche :D )

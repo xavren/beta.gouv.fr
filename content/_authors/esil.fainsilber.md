@@ -12,4 +12,5 @@ missions:
 startups:
   - recommandations-collaboratives
 memberType: dinum
+uuid: c3e41d97-257a-45ea-9383-b469fd8f260c
 ---

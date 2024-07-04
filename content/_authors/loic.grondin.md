@@ -13,4 +13,5 @@ missions:
 startups:
   - vues-immersives-libres
 memberType: beta
+uuid: 14c0a797-cd23-41cb-b7e3-9754cc0ae889
 ---

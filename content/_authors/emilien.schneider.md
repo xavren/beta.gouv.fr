@@ -21,5 +21,6 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
   - PHP
+uuid: 630be79d-9c78-4ed6-9c17-130ef9457179
 ---
 Développeur web

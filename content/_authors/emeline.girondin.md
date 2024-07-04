@@ -12,4 +12,5 @@ missions:
 startups:
   - dossierfacile
 memberType: beta
+uuid: 84c71a5f-2b8f-473c-96d3-e525f01486de
 ---

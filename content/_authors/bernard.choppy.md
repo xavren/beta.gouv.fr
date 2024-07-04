@@ -11,4 +11,5 @@ missions:
       - fedel
 startups:
   - fedel
+uuid: 88e4bdd0-30c1-4b97-8dd7-0fc8047f112c
 ---

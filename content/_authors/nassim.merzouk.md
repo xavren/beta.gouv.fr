@@ -16,11 +16,12 @@ missions:
     status: independent
     employer: NUMA
     startups:
-      - mobilic
       - dossierfacile
+      - mobilic
 startups:
   - api-engagement
 previously:
   - jeveuxaider
 link: https://www.linkedin.com/in/merzouknassim/
+uuid: d40afca7-9cbf-4884-ad34-5e851a206f5e
 ---

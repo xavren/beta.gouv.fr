@@ -14,5 +14,6 @@ startups:
   - preuve-de-covoiturage
 badges:
   - segur
+uuid: db6ab81b-269a-428a-b431-b82ade9b020c
 ---
 Chargé de déploiement & communication.

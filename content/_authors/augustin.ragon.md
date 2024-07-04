@@ -21,5 +21,6 @@ competences:
   - Développement Backend
   - UI
   - UX
+uuid: 8ed5b9b6-b22e-4065-8651-955d5f2ddc76
 ---
 Développeur full-stack passionné de programmation fonctionnelle. J'aime la musique, la nature, et le fromage.

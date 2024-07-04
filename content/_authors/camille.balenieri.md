@@ -13,5 +13,6 @@ missions:
       - jeveuxaider
 startups:
   - jeveuxaider
+uuid: f5b9150b-18c8-407a-a5c8-359bc6c4b687
 ---
 Plume de la Reserve Civique !

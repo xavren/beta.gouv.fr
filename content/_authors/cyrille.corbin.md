@@ -10,5 +10,6 @@ missions:
     employer: SNUM
 teams:
   - /teams/justice
+uuid: 6a40c9ab-fb9f-47e7-970a-a4550bf457c5
 ---
 Développeur FullStack expérimenté très curieux des nouvelles technologies de développement.

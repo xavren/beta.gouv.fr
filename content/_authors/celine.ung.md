@@ -13,5 +13,6 @@ missions:
 startups:
   - l-immersion-facile
 memberType: autre
+uuid: 56b5385c-ef85-433a-89ef-d6209c4312d2
 ---
 Développeuse fullstack

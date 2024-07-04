@@ -13,6 +13,7 @@ missions:
       - acceslibre
 startups:
   - acceslibre
+uuid: 260c0315-6935-4fb5-87e4-4ad7a81b8e66
 ---
 Développeur sénior Python / Django.
 Aime le libre et l'open source :)

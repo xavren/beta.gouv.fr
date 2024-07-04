@@ -13,5 +13,6 @@ missions:
 startups:
   - tchap
 memberType: beta
+uuid: a0309f9d-a2e5-48ff-a0e1-cf837ed023ad
 ---
 Développeur backend  SRE  expert Matrix

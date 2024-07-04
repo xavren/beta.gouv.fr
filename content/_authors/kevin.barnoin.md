@@ -13,4 +13,5 @@ missions:
 startups:
   - catalogue-apprentissage
   - la-bonne-alternance
+uuid: 406b00ec-79a2-48f8-acd7-643a11f40e65
 ---

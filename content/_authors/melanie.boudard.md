@@ -12,5 +12,6 @@ missions:
       - pix
 startups:
   - pix
+uuid: 2ceb645c-90df-4e50-bd20-9b4c2813fea3
 ---
 Développeuse travaillant chez Octo Technology, en mission chez Pix.

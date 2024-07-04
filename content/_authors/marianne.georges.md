@@ -13,4 +13,5 @@ competences:
   - UX
   - Product strategy
 memberType: beta
+uuid: 4eb615c8-77f0-4610-96a5-b8b41a452bca
 ---

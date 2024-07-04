@@ -28,5 +28,6 @@ badges:
 competences:
   - Gestion de Produit
   - Coaching
+uuid: d502a2b4-bc2f-4549-ac09-86bbb431aacf
 ---
 Coach produit & Product Manager

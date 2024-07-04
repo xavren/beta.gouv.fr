@@ -14,5 +14,6 @@ startups:
   - l-application-du-cej
 previously:
   - aides.jeunes
+uuid: 861f2923-0dcc-4a2d-b358-4bf84cab2ffc
 ---
 UI/UX Designer freelance depuis 3 ans.

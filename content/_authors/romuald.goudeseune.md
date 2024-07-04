@@ -14,5 +14,6 @@ startups:
   - collectif_objets
 competences:
   - Administration Publique
+uuid: 178aefd6-e166-4c93-bc43-8ea3e6d2e201
 ---
 Conservateur des monuments historiques en recherche d'efficacité.

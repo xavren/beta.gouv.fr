@@ -14,5 +14,6 @@ startups:
   - aides.jeunes
 badges:
   - segur
+uuid: e1e8d14c-028d-419d-8bbd-c71f8abd7f19
 ---
 Dev RoR Magic player

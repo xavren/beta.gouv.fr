@@ -10,4 +10,5 @@ missions:
     startups:
       - urbanvitaliz
 memberType: beta
+uuid: a0d595f5-6718-486e-9b14-3fb1c36008c1
 ---

@@ -12,5 +12,6 @@ missions:
 startups:
   - reva
 memberType: beta
+uuid: c9d9b7c2-347c-4674-beb2-9b9c7fab1562
 ---
 Product designer

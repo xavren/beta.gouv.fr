@@ -11,4 +11,5 @@ missions:
       - zero-logement-vacant
 startups:
   - zero-logement-vacant
+uuid: e1536b98-bb64-4ede-ae5e-b223e28a4449
 ---

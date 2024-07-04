@@ -12,4 +12,5 @@ missions:
       - data.gouv.fr
 startups:
   - data.gouv.fr
+uuid: 3957ecb8-717e-4342-a6bb-d076bbe62783
 ---

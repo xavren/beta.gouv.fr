@@ -2,7 +2,6 @@
 fullname: Raphaël Dubigny
 role: Responsable Produit / Développeur
 domaine: Développement
-link: null
 github: rdubigny
 missions:
   - start: 2018-05-30
@@ -23,5 +22,6 @@ previously:
   - datapass
   - api.gouv.fr
   - api-particulier
+uuid: 74c15731-b153-4053-bca0-e1f6917371c5
 ---
 🤯

@@ -9,4 +9,5 @@ missions:
     employer: CNFPT
 badges:
   - segur
+uuid: dbaba0e6-ebbb-49a3-b51d-dfa4218ab488
 ---

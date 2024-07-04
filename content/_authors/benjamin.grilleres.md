@@ -9,4 +9,5 @@ missions:
     employer: Malt
     startups:
       - carbure
+uuid: 8c216c4b-58dd-4345-aeb8-f2dcf9c55e41
 ---

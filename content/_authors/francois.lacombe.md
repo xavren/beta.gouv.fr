@@ -15,5 +15,6 @@ startups:
   - pcrs
 badges:
   - segur
+uuid: 95ed80a9-7eeb-4113-a8ea-7e8cf41f3c15
 ---
 Données ouvertes, infrastructures et OpenStreetMap

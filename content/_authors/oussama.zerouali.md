@@ -13,4 +13,5 @@ missions:
 startups:
   - versementgetorix
 memberType: beta
+uuid: 2d342eac-284d-4d87-85f4-91934f140c64
 ---

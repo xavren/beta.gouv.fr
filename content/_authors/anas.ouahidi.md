@@ -11,5 +11,6 @@ startups:
   - infrastructures.numeriques
 badges:
   - segur
+uuid: 51f708c0-00ef-4480-88d9-4ece60423428
 ---
 Développeur full stack

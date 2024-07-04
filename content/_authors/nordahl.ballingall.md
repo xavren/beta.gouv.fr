@@ -17,5 +17,6 @@ competences:
   - Croissance
   - SEM
   - SEO
+uuid: 182a5262-4ec6-408b-8424-ee62eafcd5ca
 ---
 Responsable Marketing

@@ -14,5 +14,6 @@ missions:
 startups:
   - nis2
 memberType: beta
+uuid: ce138b62-dce6-488c-bfc7-c35de121b341
 ---
 Je développe les applications, les produits et les personnes depuis Bordeaux

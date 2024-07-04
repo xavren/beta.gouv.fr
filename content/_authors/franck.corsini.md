@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: MIOM
 memberType: beta
+uuid: f17a01ac-b4cd-45b8-bb5c-e128dbcdfc56
 ---

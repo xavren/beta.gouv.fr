@@ -14,5 +14,6 @@ startups:
   - datapass
 badges:
   - segur
+uuid: 3ff50fc3-0d19-4d89-821e-fd182cf3b2a8
 ---
 Développeur le jour, musicien la nuit.

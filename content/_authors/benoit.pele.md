@@ -11,4 +11,5 @@ missions:
       - signaux-faibles
 startups:
   - signaux-faibles
+uuid: 48d6c5ff-3105-4b42-8c40-784850ebd85a
 ---

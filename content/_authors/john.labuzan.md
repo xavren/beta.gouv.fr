@@ -11,15 +11,15 @@ missions:
     status: independent
     employer: Numa
     startups:
+      - aides-territoires
+      - boursoloco
       - chauffage-urbain
       - conseillers-entreprises
       - lannuaire.des.collectivites
       - mediature
-      - signalement
-      - aides-territoires
-      - boursoloco
       - mon.espace.collectivite
       - nosgestesclimat
+      - signalement
 startups:
   - chauffage-urbain
   - conseillers-entreprises
@@ -40,5 +40,6 @@ competences:
   - Communication
 teams:
   - /teams/fast-dinum
+uuid: 265e6c04-4f99-4856-b9ff-2e9d6898312d
 ---
 Product design, Marketing digital, SEO, SEA, TikTok 🤘

@@ -12,4 +12,5 @@ previously:
   - aides.jeunes
 badges:
   - segur
+uuid: 9a50176c-f471-43d2-aa08-7789e176b978
 ---

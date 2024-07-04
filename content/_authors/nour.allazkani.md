@@ -9,5 +9,6 @@ missions:
     status: independent
     employer: Lamednum
 memberType: beta
+uuid: 75922ed0-adbb-45e3-9f61-dcc0042e9c1a
 ---
 Chef de projet numérique, et j'adore le no-code !

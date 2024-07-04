@@ -18,4 +18,5 @@ competences:
   - PostgreSQL
   - PHP
 memberType: beta
+uuid: 07c38de6-cdac-460c-8ef0-838a3fc36c54
 ---

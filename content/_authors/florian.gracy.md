@@ -7,7 +7,6 @@ missions:
   - start: 2022-01-26
     end: 2024-03-31
     status: independent
-    employer: ""
     startups:
       - cartographie.nationale
 startups:
@@ -19,6 +18,6 @@ badges:
 competences:
   - UX
   - UI
+uuid: 539eb523-3418-42f4-9c5d-13b01b8cae78
 ---
-
 Designer d'interface, UX, principalement pour des supports web

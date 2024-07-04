@@ -17,5 +17,6 @@ startups:
   - pilotage.de.linclusion
 badges:
   - segur
+uuid: f5540ec2-3ec8-47ae-a657-82f714b2e08f
 ---
 Happy Data Analyste et NLPyste :D

@@ -10,9 +10,8 @@ missions:
     status: service
   - start: 2017-06-01
     end: 2027-02-15
-    employer: dinum
     status: admin
-startups: null
+    employer: dinum
 previously:
   - datapass
   - bourse
@@ -26,5 +25,6 @@ badges:
   - segur
 teams:
   - /teams/dinum_produits_interministeriels
+uuid: 713aaae7-feaf-4b37-adcc-fefa74486862
 ---
 - Cliquez ici pour améliorer cette bio

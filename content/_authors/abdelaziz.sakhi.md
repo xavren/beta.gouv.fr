@@ -14,4 +14,5 @@ startups:
   - infrastructures.numeriques
 badges:
   - segur
+uuid: 5c0a166b-39d3-42c1-924b-f4fda441c131
 ---

@@ -7,11 +7,11 @@ missions:
   - start: 2022-12-12
     end: 2024-12-16
     status: independent
-    employer: ''
     startups:
       - mon-suivi-justice
 startups:
   - mon-suivi-justice
 memberType: autre
+uuid: c11730c9-e6e9-45d0-bf2a-83711400abbe
 ---
 Amateur de montagne, nature et parfois de data

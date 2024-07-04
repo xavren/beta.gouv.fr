@@ -12,4 +12,5 @@ missions:
 startups:
   - dossierfacile
 memberType: autre
+uuid: 4d8a29c5-afd6-4dd4-80c3-3b55bce909b4
 ---

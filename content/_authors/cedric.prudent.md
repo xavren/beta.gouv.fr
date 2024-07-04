@@ -10,4 +10,5 @@ missions:
       - competence.validee
 startups:
   - competence.validee
+uuid: cd15b1ea-4d9d-43b7-bec4-ee40021a3447
 ---

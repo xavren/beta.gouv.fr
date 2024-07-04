@@ -12,5 +12,6 @@ missions:
       - assec
 startups:
   - assec
+uuid: 4f1f90ab-979a-460d-878a-08bf6f77109f
 ---
 Coder pour des shampoings c'est bien mais coder pour Demain c'est mieux! Graffeur, Joueur de jeu vidéo et né dans les vignes Montpelliéraine élevé au 80/86.

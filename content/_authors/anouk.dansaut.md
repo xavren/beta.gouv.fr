@@ -9,5 +9,6 @@ missions:
     status: independent
     employer: DINUM
 memberType: beta
+uuid: 8ba890c3-51f7-4469-8af5-ae182a3f6114
 ---
 Chargée de communication et chineuse de déco

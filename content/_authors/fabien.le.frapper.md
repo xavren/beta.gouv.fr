@@ -15,5 +15,6 @@ startups:
   - sppnaut
   - apilos
 memberType: beta
+uuid: 7ff6fe67-b56e-4f3c-8b0d-e0c2761ad783
 ---
 Développeur full-stack

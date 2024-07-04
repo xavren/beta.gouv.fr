@@ -12,5 +12,6 @@ missions:
 startups:
   - ban
 memberType: beta
+uuid: 7b77360e-cbae-4320-8b66-1e4c036a80c0
 ---
 Nantaisbreton, marin, cartographe et accessoirement IGN !

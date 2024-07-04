@@ -28,5 +28,6 @@ previously:
   - mon-suivi-social
   - lannuaire.des.collectivites
   - dotations-locales
+uuid: 0e043757-673e-4ade-be19-ae0ced5905c1
 ---
 J'essaie de faire quelque chose pour l'humanité en luttant contre la pauvreté

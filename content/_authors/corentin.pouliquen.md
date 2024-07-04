@@ -10,4 +10,5 @@ missions:
       - urbanvitaliz
 startups:
   - urbanvitaliz
+uuid: ad2e1972-68b6-4c74-9cc4-b044fa3a6239
 ---

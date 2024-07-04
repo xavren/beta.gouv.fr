@@ -19,5 +19,6 @@ previously:
   - jeveuxaider
 memberType: beta
 link: https://www.linkedin.com/in/angela-lebreton/
+uuid: ae2b684e-5b0e-4876-8476-e41e0a99e6dd
 ---
 Chargée de déploiement

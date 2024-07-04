@@ -12,5 +12,6 @@ missions:
 startups:
   - reva
 memberType: beta
+uuid: 90d73bef-a97b-492c-8a99-4454a0ec3589
 ---
 UX Writer

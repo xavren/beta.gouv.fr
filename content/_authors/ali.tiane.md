@@ -3,17 +3,15 @@ fullname: Ali Tiane
 domaine: Développement
 role: Développeur
 github: alitoch
-avatar: null
-link: null
 missions:
   - start: 2020-06-15
     end: 2022-06-15
     status: independent
     employer: Cour des comptes
-  - status: independent
-    employer: Fabrique numérique des ministères sociaux
-    start: 2022-05-09
+  - start: 2022-05-09
     end: 2023-01-31
+    status: independent
+    employer: Fabrique numérique des ministères sociaux
 incubator: sgmas
 startups:
   - egalite.professionnelle
@@ -24,4 +22,5 @@ badges:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: fa6a7ea4-89db-4a94-8040-47f472f6e59b
 ---

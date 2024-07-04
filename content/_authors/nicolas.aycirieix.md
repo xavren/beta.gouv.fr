@@ -13,4 +13,5 @@ missions:
 startups:
   - experts
 memberType: beta
+uuid: 50b6db6c-8a5a-4d7c-9fdd-450b754ae223
 ---

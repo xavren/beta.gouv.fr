@@ -12,5 +12,6 @@ missions:
     end: 2025-12-31
     status: admin
     employer: DNUM des ministères sociaux
+uuid: 38b374bc-13fc-46af-8a06-c64895299a82
 ---
 Devops pour l'intérêt général

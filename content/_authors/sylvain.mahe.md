@@ -21,5 +21,6 @@ startups:
 competences:
   - Développement Backend
   - Développement Frontend
+uuid: 4bdff6b9-0ac8-49f9-82ef-2d6893062823
 ---
 Développeur la semaine, Alpiniste le week-end.

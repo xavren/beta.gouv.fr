@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: MEAE
 memberType: autre
+uuid: 622166f8-4734-4217-a220-4630e82eafc8
 ---

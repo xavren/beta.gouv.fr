@@ -14,4 +14,5 @@ badges:
   - segur
 competences:
   - UX
+uuid: 27c356e6-60c1-4f8d-a87a-f6eab5f1f1b3
 ---

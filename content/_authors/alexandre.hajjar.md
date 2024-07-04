@@ -9,9 +9,10 @@ missions:
     end: 2022-02-27
     status: independent
     startups:
-      - mon-entreprise
       - euphrosyne
+      - mon-entreprise
 startups:
   - mon-entreprise
   - euphrosyne
+uuid: 9526594c-ce05-4cf2-a18b-d66ed9416e51
 ---

@@ -13,4 +13,5 @@ missions:
 startups:
   - a-just
 memberType: beta
+uuid: d0d11e74-a0e2-49d5-a2a3-01cab45370eb
 ---

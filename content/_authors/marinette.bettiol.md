@@ -11,6 +11,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+uuid: adba10d0-2995-4452-856a-cbf990717bff
 ---
-
 Etudiante à HEC Paris, j'ai rejoint l'équipe DossierFacile en juin 2020.

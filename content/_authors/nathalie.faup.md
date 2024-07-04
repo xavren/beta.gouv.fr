@@ -12,4 +12,5 @@ missions:
 startups:
   - plateforme-direct-autonomie
 previously: []
+uuid: 9e07a0b0-c25b-4783-99da-a78f858f7b31
 ---

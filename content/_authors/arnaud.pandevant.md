@@ -11,6 +11,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+uuid: 1c832fc3-95ef-45f0-b162-bb0dc664f0d9
 ---
-
 Etudiant à l'Ecole polytechnique en stage pour 3 mois chez DossierFacile

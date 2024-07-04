@@ -9,11 +9,11 @@ missions:
     status: independent
     employer: INOPS
     startups:
-      - travailler.en.france
       - mes-aides-france-travail
+      - travailler.en.france
 previously:
   - travailler.en.france
   - mes-aides-france-travail
+uuid: ad153066-7ffd-48be-8816-8ca0827ef9ac
 ---
-
 Artisan du web et entrepreneur depuis 1998.

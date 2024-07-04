@@ -13,5 +13,6 @@ missions:
 startups:
   - mon-aide-cyber
 memberType: autre
+uuid: b0cf41a8-142b-4f0b-9d79-9d25e0dcb25e
 ---
 Délégué de l'ANSSI en région, participe au projet "Mon Aide Cyber"

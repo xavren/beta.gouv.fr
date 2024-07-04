@@ -9,5 +9,6 @@ missions:
     employer: Tribunal de Nanterre
 badges:
   - segur
+uuid: 1a09931b-b83e-4abd-aac1-3ad1c9602b33
 ---
 Stagiaire Mon Suivi Justice

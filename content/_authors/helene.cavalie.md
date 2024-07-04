@@ -11,4 +11,5 @@ missions:
       - mobinat
 startups:
   - mobinat
+uuid: 5076e489-6c2e-4628-a68b-9ad8ccea7f8e
 ---

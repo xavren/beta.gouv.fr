@@ -13,4 +13,5 @@ missions:
 startups:
   - datapass
 memberType: dinum
+uuid: 16b3e0ba-10d6-4112-9e87-fe751b89e33f
 ---

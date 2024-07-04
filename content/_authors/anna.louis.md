@@ -13,5 +13,6 @@ startups:
   - carbure
 previously:
   - camino
+uuid: 82c55a76-d16b-423f-aabb-1ca13ddc7725
 ---
 Product Manager le jour, professeure de Yoga la nuit Senior PM Freelance, ex @Deezer, @Mindsay @JoinMaestro

@@ -14,4 +14,5 @@ competences:
   - Product design
   - UX
 memberType: beta
+uuid: a9ed7d0a-8dd6-4042-8aff-54b56923c95e
 ---

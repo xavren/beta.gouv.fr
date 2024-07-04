@@ -12,4 +12,5 @@ missions:
       - snu
 startups:
   - snu
+uuid: 8bafd46f-c32c-46d9-b079-5ca918a11d0a
 ---

@@ -27,4 +27,5 @@ competences:
   - Gestion de Produit
   - Communication
   - Product strategy
+uuid: e17990b0-b381-434f-addd-7996a3967c24
 ---

@@ -6,10 +6,9 @@ missions:
   - start: 2021-09-01
     end: 2024-11-01
     status: independent
-    employer: ''
     startups:
-      - euphrosyne
       - collectif_objets
+      - euphrosyne
 startups:
   - euphrosyne
   - collectif_objets
@@ -18,5 +17,6 @@ competences:
   - UI
 previously:
   - locadocs
+uuid: a617ea67-59db-4c21-887d-2376e88ecc78
 ---
 Designer UX/UI

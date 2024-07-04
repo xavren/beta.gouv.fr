@@ -7,5 +7,5 @@ missions:
     end: 2024-06-18
     status: service
 memberType: autre
+uuid: d63f8a57-7907-47cd-ab82-180362e3fdc1
 ---
-
