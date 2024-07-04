@@ -11,4 +11,5 @@ missions:
       - dedale
 startups:
   - dedale
+uuid: 877e70d1-bac7-4c4f-8c8b-f28d00fcecd2
 ---

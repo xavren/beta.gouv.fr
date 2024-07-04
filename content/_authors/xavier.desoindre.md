@@ -21,5 +21,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: 10d31bc3-10e4-4474-bc10-047e93d74f05
 ---
 Pianiste sur clavier AZERTY

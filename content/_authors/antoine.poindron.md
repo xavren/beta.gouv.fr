@@ -21,5 +21,6 @@ startups:
   - chauffage-urbain
 badges:
   - segur
+uuid: c619ee2f-8284-4624-a307-bc74b2971c5f
 ---
 UI designer au service premier de l'utilisateur !

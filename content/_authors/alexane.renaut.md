@@ -14,5 +14,6 @@ previously:
   - transport
 badges:
   - segur
+uuid: 8ae6a088-5435-4541-9462-4dab57e6ac23
 ---
 Créatrice d'expériences !

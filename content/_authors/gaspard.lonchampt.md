@@ -12,5 +12,6 @@ missions:
 startups:
   - mobilic
 memberType: beta
+uuid: 71d449e3-4240-47f4-8934-209eff510177
 ---
 Développeur, passionné d'histoire et coureur hebdomadaire !

@@ -13,5 +13,6 @@ missions:
       - portail-rse
 startups:
   - portail-rse
+uuid: 2f4a09a5-eaa7-4bdc-8b2c-ef3ce23320ac
 ---
 Développeuse et associée de Yaal Coop

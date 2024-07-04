@@ -2,10 +2,10 @@
 title: La bonne alternance
 mission: Faciliter la mise en relation entre jeunes, entreprises et CFA
 sponsors:
-  - /organisations/menjs
-  - /organisations/mtei
-  - /organisations/mesr
   - /organisations/mtfp
+  - /organisations/mtei
+  - /organisations/menjs
+  - /organisations/mesr
 incubator: mission-apprentissage
 phases:
   - name: investigation
@@ -28,8 +28,7 @@ usertypes:
   - particulier
   - entreprise
   - etablissement-scolaire
-dashlord_url: >-
-  https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
+dashlord_url: https://dashlord.incubateur.net/url/labonnealternance-apprentissage-beta-gouv-fr/
 accessibility_status: non conforme
 thematiques:
   - Travail / Emploi

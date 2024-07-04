@@ -14,4 +14,5 @@ startups:
   - mission-transition-ecologique
 competences:
   - Croissance
+uuid: 67ec026e-7697-4e58-9d70-b2a1f4fe809f
 ---

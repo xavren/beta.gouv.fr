@@ -13,4 +13,5 @@ teams:
   - /teams/animation-dinum
 badges:
   - segur
+uuid: f6b1259f-dc7e-4ea4-8d86-aa34e2a36a4e
 ---

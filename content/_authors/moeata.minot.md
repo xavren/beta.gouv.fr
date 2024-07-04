@@ -10,4 +10,5 @@ missions:
 competences:
   - Intrapreneur(se)
 memberType: beta
+uuid: b9368b51-d69b-4903-bb4d-5e0f715a7fa9
 ---

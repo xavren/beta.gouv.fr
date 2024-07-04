@@ -13,5 +13,5 @@ missions:
 startups:
   - suite.territoriale
 memberType: beta
+uuid: 448fde57-297a-4e3d-824a-d64f3bdfe232
 ---
-

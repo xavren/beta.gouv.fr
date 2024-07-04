@@ -13,5 +13,6 @@ missions:
 startups:
   - données-et-territoires
 memberType: beta
+uuid: c5272aba-04a0-43a5-a105-f8cd5e13cdfc
 ---
 Formateur - No-code - BizDev - Customer Success

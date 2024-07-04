@@ -16,5 +16,6 @@ startups:
   - civils-de-la-defense
   - e-chauffeur
   - sepia
+uuid: 7fcc6d52-d4f0-45cb-8a81-e5a259fbc268
 ---
 I love reading good & bad books, checking my RSS feeds, really fast WiFi and making people better. Peace.

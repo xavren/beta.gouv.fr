@@ -9,10 +9,10 @@ missions:
     status: service
     employer: OCTO Technology
     startups:
-      - suite.territoriale
       - suite-numerique
+      - suite.territoriale
 startups:
   - suite.territoriale
 memberType: beta
+uuid: d9fd775f-ddb4-41eb-9502-586893a26856
 ---
-

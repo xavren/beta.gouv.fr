@@ -3,7 +3,6 @@ fullname: Pieterjan Montens
 role: Full-stack / DevOps / Data Something
 domaine: Développement
 github: PieterjanMontens
-avatar: null
 link: http://pieterjan.montens.net
 badges:
   - segur
@@ -21,5 +20,6 @@ startups:
   - place-de-marche-inclusion
 previously:
   - andi
+uuid: 99cfd25a-fb6d-4ffe-8202-cf055f31ffd0
 ---
 42

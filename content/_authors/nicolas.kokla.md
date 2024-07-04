@@ -25,5 +25,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: e859f6c4-9c68-4427-883b-1ca56a89a8e3
 ---
 {\  Mindset: 'Coding better, harder, faster',\  hobby: 'Gamer better, harder, faster'\}

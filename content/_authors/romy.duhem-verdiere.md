@@ -18,5 +18,6 @@ previously:
   - monstage
   - pass-culture
   - mpal
+uuid: 95d7f108-8705-48bf-a445-c43956965c6d
 ---
 Y'a pas de problème, que des solutions.

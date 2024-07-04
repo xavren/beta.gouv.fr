@@ -8,4 +8,5 @@ missions:
     end: 2024-12-30
     status: service
     employer: NUMA
+uuid: a054aeef-75c8-468f-8392-c3541c1d4ebf
 ---

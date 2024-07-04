@@ -17,5 +17,5 @@ competences:
   - Product design
   - UX
   - Accessibilité
+uuid: a598dc15-9e1c-49d7-926d-b7f11cab9f90
 ---
-

@@ -12,5 +12,6 @@ missions:
       - api.gouv.fr
 startups:
   - api.gouv.fr
+uuid: 8c2f1712-d6ca-45b2-b43e-3b696edc33d3
 ---
 🪐

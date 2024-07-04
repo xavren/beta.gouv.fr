@@ -12,4 +12,5 @@ missions:
 startups:
   - poe.facilite
 memberType: autre
+uuid: 5e5a43ca-7f5f-4b33-8072-e22c7d8e209a
 ---

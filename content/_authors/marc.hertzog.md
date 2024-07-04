@@ -27,5 +27,6 @@ previously:
   - la-bonne-boite
   - workinfrance
   - codedutravail
+uuid: a115751d-486a-4194-903b-a540493b4f48
 ---
 Développeur web. Aime autant le front-end que le back-end :)

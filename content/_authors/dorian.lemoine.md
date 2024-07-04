@@ -16,4 +16,5 @@ competences:
   - JavaScript/TypeScript
   - PHP
 memberType: beta
+uuid: e6408391-54b0-49a4-b3e0-145be6f0491a
 ---

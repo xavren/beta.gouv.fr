@@ -8,4 +8,5 @@ missions:
     status: service
     employer: Ippon
 memberType: beta
+uuid: eaf7f7d2-d517-4207-a528-8a3b142e52e0
 ---

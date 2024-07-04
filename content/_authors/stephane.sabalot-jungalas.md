@@ -14,4 +14,5 @@ startups:
   - delta.v
 badges:
   - segur
+uuid: 0723a615-0b0b-4d2d-88cf-0af63d2446a6
 ---

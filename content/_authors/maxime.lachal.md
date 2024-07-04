@@ -11,4 +11,5 @@ missions:
 startups:
   - poe.facilite
 memberType: beta
+uuid: ab7dfaf3-7ff8-4343-9fc5-0559b1682418
 ---

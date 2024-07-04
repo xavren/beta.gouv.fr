@@ -13,5 +13,6 @@ startups:
   - themis
 badges:
   - segur
+uuid: 8efda52f-4053-4a8b-99c3-9c86c7d67887
 ---
 En développement personnel

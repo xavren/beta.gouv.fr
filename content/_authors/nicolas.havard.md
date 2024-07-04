@@ -8,4 +8,5 @@ missions:
     status: independent
     employer: Malt
 memberType: beta
+uuid: 66946274-41f9-460d-b6c8-d854d40f258f
 ---

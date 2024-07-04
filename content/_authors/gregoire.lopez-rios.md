@@ -13,4 +13,5 @@ missions:
 competences:
   - Relation usagers
 memberType: beta
+uuid: 1e7d32cb-6441-4986-8e94-a7a95cf1ee2d
 ---

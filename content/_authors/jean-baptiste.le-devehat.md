@@ -16,5 +16,6 @@ startups:
   - transition-ecologique-des-entreprises
 previously:
   - les-emplois
+uuid: f13ec2c6-36ae-4068-84cb-b4a3d37cbdea
 ---
 Couteau-suisse en transformation de services

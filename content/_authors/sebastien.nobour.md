@@ -18,5 +18,5 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
   - PostgreSQL
+uuid: c9fed9f7-fdb0-4c1d-a151-cd24f56915ca
 ---
-

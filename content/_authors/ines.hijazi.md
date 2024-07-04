@@ -17,7 +17,6 @@ missions:
     end: 2024-12-15
     status: independent
     employer: malt
-    startups: []
 startups:
   - les-emplois
 previously:
@@ -34,4 +33,5 @@ badges:
   - segur
 teams:
   - /teams/gip-inclusion
+uuid: 6d331884-4550-4aff-a49c-d521f600924a
 ---

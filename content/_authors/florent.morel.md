@@ -8,4 +8,5 @@ missions:
     end: 2021-12-10
     status: service
     employer: Klee Group
+uuid: 49e6bba3-199a-46d7-b1eb-f5be16489194
 ---

@@ -10,4 +10,5 @@ missions:
     startups:
       - reva
 memberType: beta
+uuid: ec04902a-f774-4c51-80c6-5d24d2497cbf
 ---

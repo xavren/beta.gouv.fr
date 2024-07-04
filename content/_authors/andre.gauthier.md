@@ -21,4 +21,5 @@ competences:
   - Communication
   - Croissance
 link: https://www.linkedin.com/in/andré-gauthier-446022213/
+uuid: f5267b25-03ef-4056-b6e7-cad60b56e08d
 ---

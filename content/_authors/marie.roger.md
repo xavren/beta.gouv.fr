@@ -8,5 +8,6 @@ missions:
     status: admin
     employer: DGFIP
 memberType: beta
+uuid: 765fa9c2-2b3d-47b2-b175-1cc156e6ebec
 ---
 Fabrique Numérique de la DGFIP

@@ -16,5 +16,6 @@ startups:
 memberType: beta
 previously:
   - tdb-apprentissage
+uuid: f22dd6f1-1d32-4faa-b217-28d85492c88f
 ---
 Analyser des données, lire des romans et manger des croziflettes. SQL, MongoDB, Metabase...

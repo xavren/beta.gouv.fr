@@ -9,5 +9,6 @@ missions:
     employer: CGI
 badges:
   - segur
+uuid: 5f06e869-107c-4281-9d31-e43d57975220
 ---
 UX - UI Designer Mécanicien sur véhicules anciens à mes heures perdues !

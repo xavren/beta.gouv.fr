@@ -7,7 +7,6 @@ missions:
   - start: 2022-08-08
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - histologe
       - stop-punaises
@@ -16,5 +15,6 @@ startups:
   - stop-punaises
 badges:
   - segur
+uuid: b021852e-b809-4346-9ff5-8012118f2a09
 ---
 Développeur PHP/Symfony

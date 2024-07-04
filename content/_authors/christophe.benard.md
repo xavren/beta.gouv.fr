@@ -16,5 +16,6 @@ startups:
 competences:
   - Administration Système
   - Développement Backend
+uuid: 0c71b498-23c8-430e-83f7-6d4d1349bc59
 ---
 Intégrateur au SNUM, développeur pour Résorption-Bidonvilles

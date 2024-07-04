@@ -30,5 +30,6 @@ link: https://fr.linkedin.com/in/mwik
 competences:
   - Sécurité informatique
   - Administration Système
+uuid: eed4b188-3c64-452f-908b-4f435a15fb32
 ---
 Consultant cybersécurité depuis 1998, fan de concerts indie et de voyages

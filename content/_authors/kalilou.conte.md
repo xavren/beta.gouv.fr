@@ -12,4 +12,5 @@ missions:
 startups:
   - mesads
 memberType: beta
+uuid: 88ccb9ef-e12e-482c-bba2-a9c005bea74b
 ---

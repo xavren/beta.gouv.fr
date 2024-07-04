@@ -14,5 +14,6 @@ startups:
   - dotations-locales
 badges:
   - segur
+uuid: 718569f9-f369-459f-b6fd-42936d93bae0
 ---
 Développeur Python

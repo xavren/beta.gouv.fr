@@ -22,5 +22,6 @@ badges:
   - segur
 competences:
   - Communication
+uuid: 302d3f3a-a776-44af-9cf8-b0a2b5d5b55e
 ---
 La curiosité comme moteur, j'ai l'enthousiasme comme essence.

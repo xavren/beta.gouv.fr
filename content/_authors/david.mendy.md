@@ -13,5 +13,6 @@ missions:
 startups:
   - basegun
 memberType: beta
+uuid: 580ce5a3-7828-4129-bca5-4062db0494b1
 ---
 ekipafond

@@ -12,4 +12,5 @@ missions:
 competences:
   - Data Science
   - Machine learning
+uuid: 4bf676d6-d97c-4df3-80ba-ccae806bc076
 ---

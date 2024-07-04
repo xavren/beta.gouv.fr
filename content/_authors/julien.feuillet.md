@@ -11,5 +11,6 @@ missions:
       - ecobalyse
 startups:
   - ecobalyse
+uuid: a20cdefe-5535-4b64-a30d-3da7c57cec2c
 ---
 Toujours apprendre, être curieux :)

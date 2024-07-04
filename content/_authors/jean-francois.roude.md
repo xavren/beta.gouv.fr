@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: Ministère de l'Intérieur
 memberType: beta
+uuid: 3cc85022-ae0a-4690-9133-628021219412
 ---

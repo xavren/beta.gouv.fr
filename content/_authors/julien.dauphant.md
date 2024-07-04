@@ -32,5 +32,6 @@ competences:
   - Sécurité informatique
 teams:
   - /teams/animation-dinum
+uuid: 43b65454-a8e5-4cf1-a13f-f864ded71337
 ---
 Chercheur en simplicité

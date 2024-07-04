@@ -8,4 +8,5 @@ missions:
     status: service
     employer: Octo Technology
 memberType: beta
+uuid: db5d66ab-7850-4a7a-a407-02ea99198d0c
 ---

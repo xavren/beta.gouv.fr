@@ -11,7 +11,7 @@ missions:
       - psij
 startups:
   - psij
-badges: null
 competences:
   - Administration Publique
+uuid: 60f426c1-0371-4a79-8802-87393bab85c3
 ---

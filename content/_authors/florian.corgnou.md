@@ -16,5 +16,6 @@ badges:
   - segur
 competences:
   - Croissance
+uuid: 963b6a9b-4a27-40d9-baf8-e89a8554ccbf
 ---
 J'ai précommandé une hacienda sur Mars

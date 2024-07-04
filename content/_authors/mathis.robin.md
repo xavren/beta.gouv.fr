@@ -15,5 +15,6 @@ startups:
 memberType: beta
 previously:
   - apilos
+uuid: 99599eeb-b98e-45dd-92cb-c05b28b1eda8
 ---
 Je suis un support-héros 🦸‍♂️

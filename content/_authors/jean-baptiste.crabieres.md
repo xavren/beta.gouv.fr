@@ -10,4 +10,5 @@ missions:
 startups:
   - fondation
 memberType: beta
+uuid: d9121f00-08cd-47bc-b3c4-044bed0bf7d4
 ---

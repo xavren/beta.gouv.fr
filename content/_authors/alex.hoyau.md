@@ -8,10 +8,11 @@ missions:
     status: independent
     employer: pole-emploi
     startups:
-      - la-bonne-boite
       - la-bonne-alternance
+      - la-bonne-boite
 startups:
   - la-bonne-boite
   - la-bonne-alternance
+uuid: a3a76851-b993-4c52-8cdc-7c5d9012a326
 ---
 Mon objectif est d'aider un maximum de personnes à s'orienter, s'intégrer, trouver un emploi/formation/alternance. Idéalement trouver sa voie, ou à défaut trouver une voie :)

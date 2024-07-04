@@ -12,5 +12,6 @@ missions:
       - enfants-du-spectacle
 startups:
   - enfants-du-spectacle
+uuid: 128cec9c-644b-4b6e-8403-6a787eeeb6b7
 ---
 Product Owner

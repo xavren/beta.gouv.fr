@@ -3,16 +3,15 @@ fullname: Marine Choquin
 domaine: Animation
 role: CPO Incubateur des Territoires, Product manager d'Espace sur Demande
 github: MarineChoquin
-avatar: null
 missions:
   - start: 2020-10-01
     end: 2024-07-01
     status: admin
     employer: ANCT
     startups:
-      - lannuaire.des.collectivites
-      - espace.sur.demande
       - agents.en.intervention
+      - espace.sur.demande
+      - lannuaire.des.collectivites
 startups:
   - lannuaire.des.collectivites
   - espace.sur.demande
@@ -21,4 +20,5 @@ competences:
   - Administration Publique
 teams:
   - /teams/anct
+uuid: d416751e-a301-419f-a8a7-60c25eaac6f1
 ---

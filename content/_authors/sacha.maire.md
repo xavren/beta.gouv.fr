@@ -13,4 +13,5 @@ missions:
 startups:
   - portail-rse
 memberType: beta
+uuid: e4878aae-4134-430f-ae7e-a9e8dc404782
 ---

@@ -13,5 +13,6 @@ startups:
   - pass-culture
 previously:
   - pix
+uuid: 5f80bad5-9d1e-4a66-ad4b-60d1ae99e5dc
 ---
 Inventeur de blagues nulles, Eleveur de loutres Anciennement Tech-Lead sur Pix

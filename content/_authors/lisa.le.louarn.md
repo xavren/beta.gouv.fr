@@ -8,5 +8,6 @@ missions:
     status: service
     employer: Numa
 memberType: attributaire
+uuid: a7ef07c1-0c68-4024-98c0-cd91c892ba21
 ---
 Formation Numa

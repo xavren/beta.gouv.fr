@@ -15,5 +15,6 @@ missions:
     employer: TelesCoop
 startups:
   - e-inspé
+uuid: c97ae794-9296-4586-afcb-cbf81221c773
 ---
 Développeur, data scientist, responsable admin chez TelesCoop

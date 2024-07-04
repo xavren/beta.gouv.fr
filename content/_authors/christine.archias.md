@@ -11,4 +11,5 @@ missions:
 startups:
   - zones.irriguees.et.irrigables
 memberType: autre
+uuid: aeaf53fc-9fe1-450c-a8ff-f159d8cf01f5
 ---

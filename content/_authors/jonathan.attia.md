@@ -9,8 +9,8 @@ missions:
     end: 2023-12-31
     status: admin
     employer: DINUM
-startups: null
 badges:
   - segur
+uuid: cbc9315c-0778-4c2d-b9d3-1a6e0d99cbd9
 ---
 En éveil le jour, en veille la nuit, pianiste entre deux.

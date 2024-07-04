@@ -14,6 +14,7 @@ startups:
   - mon.espace.collectivite
 memberType: beta
 github: sdsgh
+uuid: c6a204ef-7817-403b-8722-a7774cd5a9db
 ---
 ? 9 ans d'expérience en direction de projet numérique et mise en application opérationnelle
   (De 2 à 50 personnes, sponsors inclus)

@@ -26,5 +26,6 @@ competences:
   - Administration Système
 previously:
   - france-numerique-ensemble
+uuid: 8a74409f-75aa-4d45-bb2f-5a6ca5ebbdc4
 ---
 En tant qu'artisan du logiciel, j'apporte le maximum de valeur aux utilisateurs en créant des outils bien conçus.

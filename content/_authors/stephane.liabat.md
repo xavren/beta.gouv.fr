@@ -12,5 +12,6 @@ missions:
 startups:
   - pass-culture
 memberType: beta
+uuid: 07243cfe-0db2-4fbf-b2fa-8f98a538d3cf
 ---
 Lead Ops Pass Culture

@@ -7,7 +7,6 @@ missions:
     end: 2018-12-19
     status: independent
     employer: octo
-startups: null
 previously:
   - la-bonne-boite
   - la-bonne-formation
@@ -15,4 +14,5 @@ previously:
   - open-academie
   - dossiersco
   - plante-et-moi
+uuid: 9abdd426-19b6-4924-9d6a-060278a041b5
 ---

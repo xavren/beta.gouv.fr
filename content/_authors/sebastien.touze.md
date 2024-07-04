@@ -12,5 +12,6 @@ missions:
       - rapportnav
 startups:
   - rapportnav
+uuid: 21de309b-d5ba-44b8-8e45-6f1597391978
 ---
 Ex-EIG développeur.

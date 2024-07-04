@@ -17,5 +17,6 @@ startups:
 competences:
   - Développement Backend
   - Administration Système
+uuid: 85579d6f-e95d-4216-b46a-11fe5b5c750e
 ---
 🌸

@@ -14,5 +14,6 @@ missions:
 startups:
   - bat-id
 memberType: beta
+uuid: 135d26b9-f76e-4bf6-964a-6a46541b17e6
 ---
 Passionnée d'innovation & Legal Design

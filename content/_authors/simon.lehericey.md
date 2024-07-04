@@ -15,5 +15,6 @@ missions:
     employer: octo
 startups:
   - demarches-simplifiees.fr
+uuid: 9cf6563a-3553-44f5-b76b-ba92d00e1438
 ---
 Tech sur demarches-simplifiees.fr.

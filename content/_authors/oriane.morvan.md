@@ -13,5 +13,6 @@ startups:
   - enfants-du-spectacle
 badges:
   - segur
+uuid: 33ab3771-4e59-42b1-8081-1816ff5a0265
 ---
 Graphiste | Slide designer

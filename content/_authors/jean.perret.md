@@ -15,5 +15,6 @@ role: Coach
 link: https://fr.linkedin.com/in/jean-perret-8751857
 startups:
   - impact.co2
+uuid: 3292e8e6-254a-48ea-89b9-432ae33e4c44
 ---
 Couteau suisse, développeur usurpateur

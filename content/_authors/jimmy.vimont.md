@@ -12,5 +12,6 @@ startups:
   - sndv_maritime
 badges:
   - segur
+uuid: 76a92bba-0d13-4d4d-9aec-cd314af7fa8d
 ---
 Manager conseil - Sécurité et Intérieur

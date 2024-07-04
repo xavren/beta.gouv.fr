@@ -8,8 +8,8 @@ missions:
     status: independent
   - start: 2020-01-05
     end: 2023-01-04
-    employer: dinum
     status: admin
+    employer: dinum
 startups:
   - metiers-numeriques
 previously:
@@ -20,4 +20,5 @@ badges:
 github: jihanehrz
 teams:
   - /teams/animation-dinum
+uuid: c2f4f06a-f9e9-4bb7-983c-098537998632
 ---

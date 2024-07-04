@@ -12,5 +12,6 @@ missions:
 teams:
   - /teams/fab-geocommuns
 memberType: beta
+uuid: 08a26abc-7e03-40ad-9a0d-64b128f5a8d2
 ---
 Fabricant de géocommuns

@@ -12,6 +12,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+uuid: f1f1b069-eafd-483b-9c4d-b061e471b3ef
 ---
-
 Développeur agile mais solide

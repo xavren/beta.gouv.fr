@@ -13,5 +13,6 @@ startups:
   - la-bonne-alternance
 previously:
   - maintenant
+uuid: da1637be-9ffc-4b1c-828d-02bd9ab0166e
 ---
 Développeur full-stack et touche-à-tout

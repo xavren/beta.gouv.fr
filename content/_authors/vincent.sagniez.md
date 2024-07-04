@@ -12,5 +12,6 @@ missions:
       - ban
 startups:
   - ban
+uuid: 7dddfa25-43b8-4908-ba58-c972ea06e28b
 ---
 Développeur

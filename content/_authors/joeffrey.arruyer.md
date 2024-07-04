@@ -19,6 +19,6 @@ competences:
   - Coaching
   - Communication
   - Croissance
+uuid: 4024eae8-bf80-4676-87b3-66f75d71a1df
 ---
-
 In your PC, stealing your Internetz

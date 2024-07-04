@@ -12,5 +12,6 @@ missions:
       - pass-culture
 startups:
   - pass-culture
+uuid: 0d2cc318-c455-4b04-bb87-1893d9feabc5
 ---
 Précédemment techlead sur FranceConnect Techlead sur Pass Culture

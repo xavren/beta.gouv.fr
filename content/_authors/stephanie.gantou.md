@@ -13,4 +13,5 @@ startups:
   - encyclopedie-des-metiers
 previously:
   - labonneplace
+uuid: cfe95ed2-dbb0-47ad-805d-a68189efa574
 ---

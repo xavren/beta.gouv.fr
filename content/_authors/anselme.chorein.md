@@ -14,4 +14,5 @@ github: achorein
 competences:
   - Développement Full-stack
 memberType: beta
+uuid: 54604cf4-df77-4a95-b9c3-d860f6f25b7e
 ---

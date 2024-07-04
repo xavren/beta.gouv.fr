@@ -12,4 +12,5 @@ missions:
 memberType: beta
 startups:
   - benefriches
+uuid: fb2b19ae-e0a6-42dc-9ee3-c6fc88557a3c
 ---

@@ -14,6 +14,6 @@ startups:
   - dossierfacile
 badges:
   - segur
+uuid: 3b4e6616-188b-4465-b81d-8805578a7671
 ---
-
 Etudiante en DD Sciences Po-HEC, je suis curieuse de tout, enthousiaste, et à côté des cours passionnée d'histoire de l'art.

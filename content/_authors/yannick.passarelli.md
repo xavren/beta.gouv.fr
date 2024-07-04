@@ -14,4 +14,5 @@ missions:
     employer: gip-inclusion
 startups:
   - pilotage.de.linclusion
+uuid: 2f49442d-37bd-4b36-8c4b-cd9f1ce48a30
 ---

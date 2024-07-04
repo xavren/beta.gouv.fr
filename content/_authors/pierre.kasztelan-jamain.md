@@ -13,5 +13,6 @@ missions:
 startups:
   - reformes-locales
 memberType: beta
+uuid: b1a9bbf1-3110-42a5-b665-0b201649ab24
 ---
 Agent de la DGFIP détaché en collectivité locale.

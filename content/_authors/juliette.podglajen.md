@@ -13,4 +13,5 @@ startups:
   - dedale
 badges:
   - segur
+uuid: 4689681f-0453-46bf-999f-27a08f8b9d10
 ---

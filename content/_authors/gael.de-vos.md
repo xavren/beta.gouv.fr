@@ -9,5 +9,6 @@ missions:
     employer: Ministère de la Jeunesse et des Sports
 badges:
   - segur
+uuid: 7a8b70f1-d776-463e-a121-27cf8be425f1
 ---
 Projets digitaux, e-commerce, marketing

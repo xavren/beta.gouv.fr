@@ -11,4 +11,5 @@ missions:
 memberType: autre
 startups:
   - expresso
+uuid: 95e45b61-4cc5-45af-a181-c86fd293fdf4
 ---

@@ -12,4 +12,5 @@ missions:
 startups:
   - sndv_maritime
 memberType: beta
+uuid: 7cb4af49-1c39-41d7-aad9-7443ab27194b
 ---

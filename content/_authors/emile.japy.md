@@ -9,9 +9,9 @@ missions:
     end: 2023-01-15
     status: independent
     employer: Benext
-  - status: independent
-    start: 2022-11-15
+  - start: 2022-11-15
     end: 2023-04-30
+    status: independent
     employer: MALT
 startups:
   - l-application-du-cej
@@ -21,5 +21,6 @@ badges:
 competences:
   - UX
   - UI
+uuid: 329660e7-e842-46be-b47a-93368d6365d6
 ---
 UX designer

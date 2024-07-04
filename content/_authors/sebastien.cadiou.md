@@ -11,5 +11,6 @@ missions:
       - memo
 startups:
   - memo
+uuid: f6e6d300-9354-4142-a5bc-361a98a69931
 ---
 Il faut parfois casser les codes pour avoir un véritable impact.

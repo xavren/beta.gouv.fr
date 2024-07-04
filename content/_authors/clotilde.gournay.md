@@ -11,4 +11,5 @@ missions:
       - gps-usagers
 startups:
   - gps-usagers
+uuid: 4f66c814-f6d8-4802-aa60-27b4b9ce4fe3
 ---

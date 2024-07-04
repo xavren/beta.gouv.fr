@@ -11,5 +11,6 @@ missions:
       - perspectives
 startups:
   - perspectives
+uuid: 90a5fde8-4f11-4b65-ad90-d6554c1d99d9
 ---
 En recherche constante de nouvelles solutions et d'innovations. Persuadé que la personne est plus importante que le CV.

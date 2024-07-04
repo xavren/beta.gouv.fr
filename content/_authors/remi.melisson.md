@@ -12,6 +12,7 @@ missions:
       - codedutravail
 startups:
   - codedutravail
+uuid: c69a5c58-dda7-4a1b-932a-83fc35136d7e
 ---
 Functional programming Natural Language Processing Machine Learning
 Wait and see !

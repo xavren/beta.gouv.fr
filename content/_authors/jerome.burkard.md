@@ -12,5 +12,6 @@ missions:
       - l-immersion-facile
 startups:
   - l-immersion-facile
+uuid: 889880f2-7193-4b6f-8046-23c768a94e46
 ---
 Lead dev typescript

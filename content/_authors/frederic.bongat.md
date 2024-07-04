@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: Police Nationale
 memberType: autre
+uuid: 53651c9a-b999-46e6-a9a4-1760765fe2f1
 ---

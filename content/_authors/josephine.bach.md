@@ -6,6 +6,6 @@ missions:
   - start: 2023-05-23
     end: 2023-09-25
     status: independent
-    employer: ''
 memberType: beta
+uuid: c2ce24ae-21f8-45bd-ab0f-5f12edc69d62
 ---

@@ -9,10 +9,11 @@ missions:
     end: 2024-12-31
     status: independent
     startups:
-      - transport
       - notifications
+      - transport
 startups:
   - transport
   - notifications
+uuid: b5023af3-35ba-4d19-b528-2a860f7a59c5
 ---
 Politiques publiques, humains, code

@@ -14,4 +14,5 @@ competences:
   - 'data analysis '
   - python
 memberType: beta
+uuid: a99ac7e8-3510-4b43-aa28-786964f0a921
 ---

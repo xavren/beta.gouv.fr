@@ -11,5 +11,6 @@ missions:
       - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
+uuid: 264c6ab4-92ee-4613-a255-88ccaceeb06c
 ---
 Directeur de cabinet DIHAL, mission Résorption bivonvilles

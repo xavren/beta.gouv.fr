@@ -12,5 +12,6 @@ missions:
       - l-application-du-cej
 startups:
   - l-application-du-cej
+uuid: 7a091ba1-3b16-40a3-ae25-90d42a204877
 ---
 J'aime coder.

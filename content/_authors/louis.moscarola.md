@@ -13,5 +13,6 @@ missions:
       - aplus
 startups:
   - aplus
+uuid: 8983ca42-df85-4e52-9932-1578b0bb8dd3
 ---
 Chambérien d'origine, étudiant à l'IEP de Grenoble, en stage auprès de l'Incubateur des Services Numérique

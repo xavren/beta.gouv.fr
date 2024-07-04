@@ -8,7 +8,6 @@ missions:
   - start: 2024-03-11
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - qualicharge
 startups:
@@ -17,5 +16,5 @@ memberType: beta
 competences:
   - DevOps
   - Développement Full-stack
+uuid: 43a0b768-5cce-4842-a17a-34f5757bea23
 ---
-

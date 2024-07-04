@@ -10,5 +10,6 @@ missions:
       - ecobalyse
 startups:
   - ecobalyse
+uuid: 44b04a9a-d2a0-4d00-9b93-ac0add0d817c
 ---
 Ingénieure agronome Adjointe cheffe du bureau de l'agriculture et de alimentation durables

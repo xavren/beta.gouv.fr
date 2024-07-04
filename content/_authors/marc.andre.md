@@ -24,4 +24,5 @@ competences:
   - Croissance
   - Facilitation
   - Product design
+uuid: 41ad9c5b-64f1-4c7a-ad70-652bf377afd4
 ---

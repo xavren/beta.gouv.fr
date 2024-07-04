@@ -12,5 +12,6 @@ startups:
 badges:
   - segur
 domaine: Design
+uuid: 894348a6-784f-4a3b-b183-937029ebf7f2
 ---
 Designer de service, passionné par les problématiques à fort impact sociales, artiste musicien

@@ -9,12 +9,13 @@ missions:
     status: independent
     employer: NUMA
     startups:
-      - zero-logement-vacant
       - sante-psy-etudiant
+      - zero-logement-vacant
 startups:
   - zero-logement-vacant
   - sante-psy-etudiant
 badges:
   - segur
+uuid: 114322e1-b324-4a27-8868-fd3bf3b14154
 ---
 Coach @ BetaGouv, ex DG de NUMA

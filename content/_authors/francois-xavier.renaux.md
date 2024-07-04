@@ -13,4 +13,5 @@ missions:
 startups:
   - tacct
 memberType: autre
+uuid: e7eeb2e9-f15f-434a-8a22-bbfeabf361e9
 ---

@@ -11,5 +11,6 @@ missions:
       - domifa
 startups:
   - domifa
+uuid: d7de67b1-900c-4acc-84ca-672a6c795bda
 ---
 Développeuse le jour, stand-up et geek le reste du temps

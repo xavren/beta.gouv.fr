@@ -9,9 +9,10 @@ missions:
     status: independent
     employer: Malt
     startups:
-      - moncomptepro
       - bases.adresses.locales
+      - moncomptepro
 startups:
   - moncomptepro
   - bases.adresses.locales
+uuid: 1c53a48d-96f0-4a58-a4a4-bf91552f5e44
 ---

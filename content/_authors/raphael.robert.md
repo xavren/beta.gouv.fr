@@ -12,5 +12,6 @@ missions:
 startups:
   - tchap
 memberType: beta
+uuid: 6929b218-6827-49f2-8aa6-c49af472f412
 ---
 Chargé de déploiement

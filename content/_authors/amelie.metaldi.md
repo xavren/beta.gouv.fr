@@ -10,4 +10,5 @@ missions:
       - diagoriente
 startups:
   - diagoriente
+uuid: f7fb3fde-d6f7-4730-936d-f37eab1c060b
 ---

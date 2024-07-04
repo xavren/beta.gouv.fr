@@ -14,5 +14,6 @@ startups:
   - rdv.insertion
 badges:
   - segur
+uuid: d2f47167-fb5b-42e6-a733-f097047136aa
 ---
 Numeric addict! Si j'étais un PNJ mon voyant serait toujours au vert pour ouvrir une nouvelle discussion :)

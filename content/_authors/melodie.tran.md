@@ -9,4 +9,5 @@ missions:
     employer: Octo
 badges:
   - segur
+uuid: 719d33d7-0036-43d0-8c7c-fddca1bf8018
 ---

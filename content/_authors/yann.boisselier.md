@@ -13,5 +13,6 @@ missions:
       - aides-territoires
 startups:
   - aides-territoires
+uuid: dadbc9ef-58cf-4a7f-8151-4f47ab031823
 ---
 Développeur spécialisé applications web: Vue.js, React, Node, API, GraphQL, REST.

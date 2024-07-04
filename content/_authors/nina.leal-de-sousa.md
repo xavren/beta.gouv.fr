@@ -17,5 +17,6 @@ badges:
 competences:
   - UX
   - UI
+uuid: 58503c75-1303-43da-92e2-8a1dded11bb5
 ---
 Je vis sur Figma

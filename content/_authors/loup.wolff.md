@@ -11,5 +11,6 @@ missions:
       - eac
 startups:
   - eac
+uuid: 1d9f2d51-1e57-4405-9264-5ceee47a7bb3
 ---
 Chef de produit sur la plateforme pour l'éducation artistique et culturelle.

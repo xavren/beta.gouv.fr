@@ -13,5 +13,6 @@ missions:
 startups:
   - mon-entreprise
 memberType: beta
+uuid: d3b0d056-553c-484e-add1-98b0d22b271c
 ---
 Product owner à l'URSSAF

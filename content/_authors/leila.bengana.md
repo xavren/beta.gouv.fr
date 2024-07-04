@@ -13,4 +13,5 @@ startups:
   - jeveuxaider
 badges:
   - segur
+uuid: 04ee2fa8-2699-4a27-9c4e-2804f02ac43a
 ---

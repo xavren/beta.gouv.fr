@@ -8,11 +8,11 @@ missions:
   - start: 2023-08-25
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - sante-psy-etudiant
 startups:
   - sante-psy-etudiant
 memberType: autre
+uuid: 1622d574-86eb-46d1-b591-b0e23d0b80f5
 ---
 Ergonomie - UX Design. Depuis 2012, j'aide à clarifier le besoin utilisateur pour concevoir de meilleures interfaces.

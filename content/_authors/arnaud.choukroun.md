@@ -13,5 +13,6 @@ startups:
   - stop-punaises
 badges:
   - segur
+uuid: 7deba231-a040-433b-9df4-95acc8621cce
 ---
 "Doer qui Think"  il parait 

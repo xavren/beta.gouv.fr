@@ -28,4 +28,5 @@ competences:
 startups:
   - exposition-ij
 link: https://www.linkedin.com/in/jufaure/
+uuid: e1172077-f9a0-4ff2-af02-960c3fe02585
 ---

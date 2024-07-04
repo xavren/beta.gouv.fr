@@ -10,4 +10,5 @@ missions:
     startups:
       - archifiltre
 memberType: beta
+uuid: 9c8aa49a-96f0-4ab3-81b8-6bf73b09b8df
 ---

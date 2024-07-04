@@ -13,5 +13,6 @@ missions:
       - sppnaut
 startups:
   - sppnaut
+uuid: a0462bf9-0c14-4e14-9576-dddb37d74d94
 ---
 Développeur full-stack

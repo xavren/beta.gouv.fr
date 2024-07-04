@@ -6,10 +6,10 @@ missions:
   - start: 2023-07-10
     end: 2023-08-21
     status: admin
-    employer: ''
     startups:
       - carbure
 startups:
   - carbure
 memberType: beta
+uuid: c398b746-64de-47c2-adb7-2f398f69cab2
 ---

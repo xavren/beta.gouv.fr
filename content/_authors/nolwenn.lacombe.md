@@ -12,4 +12,5 @@ missions:
 startups:
   - nis2
 memberType: autre
+uuid: 7ff364bc-fcc6-4c8d-ac17-72c7d657431c
 ---

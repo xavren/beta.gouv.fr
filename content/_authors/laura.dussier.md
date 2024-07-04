@@ -24,5 +24,6 @@ competences:
 teams:
   - /teams/ademe
 link: https://www.linkedin.com/in/lauradussier-design/
+uuid: 37f92c1b-ad9f-41bd-b1ac-6f68790695ca
 ---
 Designeuse & dessinatrice, j’accompagne des entreprises, associations et startups du service public vers une des expériences usagers ou collaborateurices accessibles et pleines de panache. 

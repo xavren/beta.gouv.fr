@@ -9,8 +9,8 @@ missions:
     status: admin
     employer: Ministère des armées
     startups:
-      - usine-chatbots
       - octopus
+      - usine-chatbots
 startups:
   - usine-chatbots
   - octopus
@@ -19,4 +19,5 @@ previously:
   - eoliennes
 competences:
   - UX
+uuid: c02080ed-3e69-4962-a253-e4824b701d7e
 ---

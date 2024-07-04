@@ -4,7 +4,6 @@ role: Product Designer
 domaine: Design
 link: https://www.davidmassiani.com
 github: dmassiani
-startups: null
 previously:
   - avril
   - reva
@@ -13,5 +12,6 @@ missions:
     end: 2023-07-31
     status: independent
     employer: freelance
+uuid: ee3fdd24-7133-4283-afd6-c3fb17aaba77
 ---
 Product Designer connecté depuis l'époque du 56k. Je pratique le Baseball IRL et je rêve d'un no hitter. J'ai pour objectif dans la vie de prendre le temps de mettre à jour mon portfolio.

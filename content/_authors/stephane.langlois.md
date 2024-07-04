@@ -17,5 +17,6 @@ previously:
   - comobi
   - territoires-en-transitions
   - ma-cantine-egalim
+uuid: b7b9d744-28be-437f-94f9-9354a21d25b2
 ---
 faire des trucs utiles avec des personnes enthousiastes🐾

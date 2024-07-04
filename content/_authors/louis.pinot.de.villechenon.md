@@ -14,4 +14,5 @@ competences:
   - Product strategy
   - Coaching
 memberType: beta
+uuid: b0d93d1f-7a2a-4388-ad24-8166065e3bd5
 ---

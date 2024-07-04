@@ -12,5 +12,6 @@ missions:
 startups:
   - france-numerique-ensemble
 memberType: beta
+uuid: ffdc19c0-b29a-49cb-9a39-9c9c601bb616
 ---
 PO

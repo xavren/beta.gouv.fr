@@ -17,5 +17,6 @@ startups:
 previously:
   - dossiersco
   - mpal
+uuid: 011ace9d-9bbf-4e3c-949b-5551b3a6ab01
 ---
 Facilitateur, développeur, musicien et bipodocrate junior

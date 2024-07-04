@@ -13,4 +13,5 @@ competences:
   - Communication
   - Coaching
 memberType: beta
+uuid: 656dfc72-d14d-4ba0-a7b6-c05bc8e9a43c
 ---

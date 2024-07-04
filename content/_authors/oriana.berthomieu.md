@@ -17,5 +17,6 @@ competences:
   - Product design
   - Facilitation
   - UX
+uuid: 0c0b5118-3758-49fa-9c17-522810ad7431
 ---
 Slow-food, slow-travel, BD et littérature, podcasts en aléatoire, tiramisù, illustration jeunesse, jardinage du dimanche, faux cyclisme

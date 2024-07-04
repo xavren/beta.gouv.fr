@@ -16,4 +16,5 @@ previously:
   - aidantsconnect
 badges:
   - segur
+uuid: 00d25447-bb53-46ff-85d6-74ce06c2a16b
 ---

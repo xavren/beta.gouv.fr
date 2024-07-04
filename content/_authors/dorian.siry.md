@@ -13,5 +13,6 @@ startups:
   - aplus
 badges:
   - segur
+uuid: 9665d323-6fcb-420c-bec0-6a3faa729a66
 ---
 Je suis étudiant en master grande école à Excelia

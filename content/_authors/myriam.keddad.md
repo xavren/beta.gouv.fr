@@ -14,4 +14,5 @@ startups:
   - rdv-service-public
 badges:
   - segur
+uuid: cd353efe-2ef8-4d85-83e4-a84c9c73461f
 ---

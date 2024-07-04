@@ -7,11 +7,11 @@ missions:
   - start: 2023-09-01
     end: 2024-09-30
     status: independent
-    employer: ''
     startups:
       - docurba
 startups:
   - docurba
 memberType: autre
+uuid: daaaa704-26a9-4220-bc5e-bdae9d2be79a
 ---
 géographe-urbaniste

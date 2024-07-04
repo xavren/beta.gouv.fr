@@ -21,4 +21,5 @@ badges:
 competences:
   - Développement Backend
   - Développement Frontend
+uuid: 3585c7c3-0c38-4258-97eb-4d1ca7531754
 ---

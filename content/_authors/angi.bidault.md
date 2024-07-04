@@ -23,5 +23,6 @@ competences:
   - Product design
   - UX
   - Communication
+uuid: 98438f98-8cf7-4935-b7b4-f55d56912606
 ---
 Designer basée à Nantes, spécialisée dans les missions à impact.

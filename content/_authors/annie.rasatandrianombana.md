@@ -21,4 +21,5 @@ startups:
   - pilotage.de.linclusion
 previously:
   - resorption-bidonvilles
+uuid: e75439f9-ff97-46c3-9ed7-2686f82103d8
 ---

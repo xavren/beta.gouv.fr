@@ -15,5 +15,6 @@ startups:
   - trackdechets
 competences:
   - Développement Backend
+uuid: cc07e651-49bf-4e46-b0f0-8d53c6e99e11
 ---
 Ingénieur développeur full-stack

@@ -15,4 +15,5 @@ startups:
 badges:
   - segur
 link: https://www.linkedin.com/in/floriangesta/
+uuid: 3875f9f9-be22-4374-bf39-bdf64e46cebf
 ---

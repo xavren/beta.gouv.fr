@@ -12,5 +12,6 @@ missions:
 startups:
   - reva
 memberType: beta
+uuid: 62863c6d-e4b6-4857-acd1-8f0486551563
 ---
 Chargée de support France VAE

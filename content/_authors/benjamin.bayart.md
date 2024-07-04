@@ -14,5 +14,6 @@ missions:
 memberType: dinum
 startups:
   - suite-numerique
+uuid: d0bb54d8-a88b-4b8b-afab-ffc969664203
 ---
 Réseau, système, logiciels libres et problèmes inextricables.

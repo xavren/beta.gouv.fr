@@ -15,4 +15,5 @@ startups:
   - demarches-simplifiees.fr
 previously:
   - mon-entreprise
+uuid: 70942484-df94-4978-b596-11e264385bd2
 ---

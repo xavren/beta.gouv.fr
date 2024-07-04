@@ -13,4 +13,5 @@ github: fbezagu
 competences:
   - Développement Full-stack
 memberType: beta
+uuid: 8ac000da-304f-4d12-939d-1913e86074d3
 ---

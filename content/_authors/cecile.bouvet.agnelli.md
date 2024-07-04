@@ -12,4 +12,5 @@ missions:
 startups:
   - recommandations-collaboratives
 memberType: autre
+uuid: ba1f20b4-ad40-4b18-9bbb-c2204d0ba902
 ---

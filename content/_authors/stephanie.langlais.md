@@ -12,4 +12,5 @@ missions:
 startups:
   - mon-suivi-justice
 memberType: beta
+uuid: d4b382f1-7586-4284-9013-60f7b3ec3052
 ---

@@ -21,4 +21,5 @@ previously:
   - plusfraichemaville
 competences:
   - Coaching
+uuid: 9e88c51e-e26b-4923-86e4-ac798b807fd2
 ---

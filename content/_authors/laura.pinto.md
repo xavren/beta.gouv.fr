@@ -7,5 +7,6 @@ missions:
     end: 2022-06-30
     status: service
     employer: OCTO
+uuid: 94b052bc-ab35-4528-aee1-631662993b1b
 ---
 Chargée de formation

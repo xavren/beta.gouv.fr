@@ -10,4 +10,5 @@ missions:
 competences:
   - Facilitation
 memberType: beta
+uuid: aefba8c8-e382-46ed-9b67-a5ce50522c6f
 ---

@@ -15,5 +15,6 @@ badges:
   - segur
 competences:
   - Croissance
+uuid: 46f0a0a7-7718-4302-966b-f5bc500b0eab
 ---
 Chargée de déploiement chez JeVeuxAider.gouv.fr et fan de pâtés-croûtes

@@ -14,5 +14,6 @@ startups:
 competences:
   - Gestion de Produit
   - Administration Publique
+uuid: 8863a488-4b70-45bb-8330-3434955a0307
 ---
 Rendre le droit plus accessible !

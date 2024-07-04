@@ -11,10 +11,10 @@ missions:
       - l-immersion-facile
 previously:
   - l-immersion-facile
-badges: null
 competences:
   - Gestion de Produit
 startups:
   - l-immersion-facile
+uuid: 8a419ca4-17f4-462d-a46e-1cadf70aebe9
 ---
 Intrapreneur Pôle emploi - Co-pilote de la startup Immersion Facile

@@ -10,4 +10,5 @@ missions:
       - mes-evenements-emploi
 startups:
   - mes-evenements-emploi
+uuid: bd526f2c-eec9-4320-8664-feb44e87eca8
 ---

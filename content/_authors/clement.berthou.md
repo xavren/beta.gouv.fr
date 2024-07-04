@@ -14,5 +14,6 @@ startups:
   - fiche.commune.entreprise.fce
 competences:
   - Développement Backend
+uuid: a3b83aa2-a5de-4709-85df-b07c14d32539
 ---
 Développer simplement des applications complexes.

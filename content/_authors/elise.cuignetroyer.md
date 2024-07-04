@@ -10,5 +10,6 @@ missions:
       - frise.cpip
 startups:
   - frise.cpip
+uuid: 8e097bbb-8778-43d6-a231-0bbb12de6e8a
 ---
 In SPIP veritas

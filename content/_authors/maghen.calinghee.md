@@ -14,5 +14,6 @@ startups:
   - tchap
 badges:
   - segur
+uuid: f1c3a2b4-a7d5-459f-8f63-cca43d4a583b
 ---
 Développeur Logiciel (Java, Python, VueJs..)

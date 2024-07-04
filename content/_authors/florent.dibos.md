@@ -12,5 +12,6 @@ missions:
       - codedutravail
 startups:
   - codedutravail
+uuid: e9ddc96d-7c84-4f45-b437-221ae17b1217
 ---
 Juriste passionné de SI

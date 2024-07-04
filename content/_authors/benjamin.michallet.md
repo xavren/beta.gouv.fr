@@ -11,6 +11,7 @@ link: https://www.linkedin.com/in/benjamin-michallet-phd-232638164/
 competences:
   - Coaching
 memberType: autre
+uuid: 18817f10-ae05-4e76-8ad1-f7d91120c7f1
 ---
 Impact Hacker | Économiste [PhD, 2017 à PSE-Ecole d'Economie de Paris].
 

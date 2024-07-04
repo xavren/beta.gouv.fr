@@ -19,4 +19,5 @@ startups:
   - stop-punaises
 memberType: beta
 link: https://www.linkedin.com/in/paulavideira/
+uuid: 19b4e7bd-4110-4ace-9cc8-3a8e15607ea1
 ---

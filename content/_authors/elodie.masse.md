@@ -2,7 +2,6 @@
 fullname: Elodie Massé
 domaine: Intraprenariat
 role: Intrapreneuse
-github: null
 avatar: /img/authors/elodie.masse.jpg
 missions:
   - start: 2020-03-01
@@ -15,4 +14,5 @@ startups:
   - cyberbudget
 competences:
   - Administration Publique
+uuid: 9d11ce47-df22-43a0-b083-2de0acc9fb60
 ---

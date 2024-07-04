@@ -17,5 +17,6 @@ competences:
   - Développement Full-stack
   - Développement Backend
   - Développement
+uuid: c63eed22-14e0-4484-ae7c-4a07b8651303
 ---
 Développeur engagé, facilitateur engageant, créateur d'impact, leadership empathique, mentorat bienveillant.

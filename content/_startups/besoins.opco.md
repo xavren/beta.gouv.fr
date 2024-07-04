@@ -2,10 +2,10 @@
 title: Besoins OPCO
 mission: Répondre aux besoins des OPCO autour de l'apprentissage.
 sponsors:
-  - /organisations/mtei
-  - /organisations/menjs
-  - /organisations/mesr
   - /organisations/mtfp
+  - /organisations/mesr
+  - /organisations/menjs
+  - /organisations/mtei
 incubator: mission-apprentissage
 contact: apprentissage@beta.gouv.fr
 accessibility_status: non conforme

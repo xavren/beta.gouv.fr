@@ -15,4 +15,5 @@ competences:
   - Croissance
   - Communication
 memberType: beta
+uuid: c8a505fc-eb43-440b-b9e9-bef6385525f1
 ---

@@ -11,4 +11,5 @@ missions:
     startups:
       - nosgestesclimat
 memberType: beta
+uuid: 049e5f18-441f-4bef-ae73-4afc9300890c
 ---

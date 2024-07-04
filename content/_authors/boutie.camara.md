@@ -14,4 +14,5 @@ badges:
   - segur
 domaine: Déploiement
 link: https://www.linkedin.com/in/bouti%C3%A9-camara/
+uuid: 64c42915-5037-4bff-9a4d-6a8785fcd463
 ---

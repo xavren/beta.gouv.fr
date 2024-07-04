@@ -10,4 +10,5 @@ missions:
     employer: UT7
 previously:
   - euphrosyne
+uuid: 8f2753e9-0642-461b-9bc2-49cf61efb819
 ---

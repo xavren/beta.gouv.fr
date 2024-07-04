@@ -19,4 +19,5 @@ competences:
   - PostgreSQL
 memberType: beta
 link: https://www.linkedin.com/in/lepeculier/
+uuid: 486c2bbc-af93-4a25-8271-7ef36180b39d
 ---

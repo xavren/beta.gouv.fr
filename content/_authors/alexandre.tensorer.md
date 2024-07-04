@@ -14,5 +14,6 @@ missions:
 startups:
   - api-engagement
 memberType: beta
+uuid: b5a98c22-77fa-46fb-a6a5-f81759705caf
 ---
 Tech, food and punk-rock

@@ -14,5 +14,6 @@ startups:
   - mon-entreprise
 badges:
   - segur
+uuid: 51dc1af6-faa8-458e-a6d8-8a5d75a65a9d
 ---
 Développeur web freelance

@@ -23,6 +23,6 @@ previously:
   - france-numerique-ensemble
 badges:
   - segur
+uuid: 57149b6a-9e4c-47ad-8340-89c1a7a61ed8
 ---
-
 Sauvons la planête, un commit à la fois :) !

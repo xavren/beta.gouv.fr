@@ -9,5 +9,6 @@ missions:
     status: service
     employer: octo
 memberType: autre
+uuid: f8333f60-9548-4eb5-8b32-0ca5d3daa4c3
 ---
 coach produit

@@ -14,4 +14,5 @@ startups:
   - transport
 memberType: dinum
 link: https://www.linkedin.com/in/jorge-gonzalez-suitt/
+uuid: 71449bf9-7f25-486b-a3e6-5ee63566988a
 ---

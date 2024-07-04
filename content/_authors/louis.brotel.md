@@ -11,7 +11,7 @@ missions:
     end: 2024-03-29
     status: independent
     employer: Ministère des affaires sociales
-    startups: []
 memberType: beta
 link: https://www.linkedin.com/in/lbrotel/
+uuid: 23d27194-9494-418a-936d-7df19b79a1fa
 ---

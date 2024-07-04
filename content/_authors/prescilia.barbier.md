@@ -8,8 +8,8 @@ missions:
     status: service
     employer: DEUD Pôle emploi
     startups:
-      - mobiville
       - la-bonne-boite
+      - mobiville
 incubator: francetravail
 startups:
   - mobiville
@@ -17,5 +17,6 @@ startups:
 competences:
   - Communication
   - Gestion de Produit
+uuid: 88c49e17-1fef-4c5a-a7c1-08892c39ec39
 ---
 Business Developer pour la startup Mobiville.

@@ -14,5 +14,6 @@ missions:
 startups:
   - homologation
 memberType: beta
+uuid: 14b2ebfc-7821-44f2-b545-eda59bee5478
 ---
 Développeur le jour, musicien la nuit.

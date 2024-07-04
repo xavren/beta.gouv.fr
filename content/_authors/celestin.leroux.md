@@ -19,5 +19,6 @@ competences:
   - UX
   - Développement Frontend
 link: https://www.linkedin.com/in/c%C3%A9lestin-leroux-b16862124/
+uuid: e8572753-19c3-4659-9767-d695266bca53
 ---
 préfère le savoir-faire au faire savoir

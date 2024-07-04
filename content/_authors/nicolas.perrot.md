@@ -23,7 +23,7 @@ startups:
   - dedale
 previously:
   - cartobio
-badges: null
 competences:
   - Coaching
+uuid: e3c12c15-9d7c-489d-a3b5-5f0e80e39029
 ---

@@ -7,7 +7,6 @@ missions:
   - start: 2021-06-28
     end: 2024-10-31
     status: independent
-    employer: ''
     startups:
       - mon-suivi-social
 previously:
@@ -20,5 +19,6 @@ startups:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: f0bf61b7-a000-411f-82ea-c9fbd2b4f8d6
 ---
 Accompagner les équipes - imaginer collectivement des solutions sobres

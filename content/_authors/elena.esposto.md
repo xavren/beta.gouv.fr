@@ -11,4 +11,5 @@ badges:
   - segur
 competences:
   - Communication
+uuid: f3f6c909-d0c0-47b1-b72e-13413578a9de
 ---

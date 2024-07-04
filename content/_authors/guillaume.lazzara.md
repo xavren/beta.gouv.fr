@@ -8,9 +8,9 @@ missions:
     end: 2016-09-16
     status: service
     employer: octo
-startups: null
 previously:
   - api-entreprise
   - mps
+uuid: f64dbadc-3e88-4628-8386-622f02765d60
 ---
 Quand tu veux abandonner, souviens-toi pourquoi tu as commencé.

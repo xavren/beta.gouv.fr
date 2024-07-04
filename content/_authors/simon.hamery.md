@@ -17,5 +17,6 @@ badges:
   - segur
 competences:
   - Développement Frontend
+uuid: 13405981-3fd4-4ab2-9d3d-1f96cb37b734
 ---
 Développeur web, basketteur et cycliste engagé dans la transition écologique

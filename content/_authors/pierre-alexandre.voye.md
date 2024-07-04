@@ -11,4 +11,5 @@ missions:
       - encyclopedie-des-metiers
 startups:
   - encyclopedie-des-metiers
+uuid: 1e97a755-86d1-49c2-8e9e-379713971f8f
 ---

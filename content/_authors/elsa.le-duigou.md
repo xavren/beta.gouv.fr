@@ -11,7 +11,6 @@ missions:
   - start: 2022-01-01
     end: 2022-12-26
     status: independent
-    employer: ''
     startups:
       - collectif_objets
   - start: 2022-12-27
@@ -19,12 +18,12 @@ missions:
     status: admin
     employer: dinum
     startups:
+      - api.prevention
+      - france.consulaire
       - infomedicament
       - medistock
-      - tous.a.bord
-      - france.consulaire
       - teleconsultation-ald
-      - api.prevention
+      - tous.a.bord
 previously:
   - collectif_objets
 badges:
@@ -32,4 +31,5 @@ badges:
 teams:
   - /teams/animation-dinum
 link: https://www.linkedin.com/in/elsa-le-duigou-869bb311b/
+uuid: 92fcb0ff-8e8f-4f85-9dc7-076a953dbb8c
 ---

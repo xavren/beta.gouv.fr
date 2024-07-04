@@ -12,6 +12,6 @@ missions:
 startups:
   - dossierfacile
 memberType: autre
+uuid: d83fcf56-7bd7-4530-9d66-6133abb79a8d
 ---
-
 Opérateur de validation

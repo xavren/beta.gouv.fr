@@ -6,7 +6,6 @@ missions:
   - start: 2020-09-02
     end: 2026-06-30
     status: admin
-    employer: ''
     startups:
       - preuve-de-covoiturage
 startups:
@@ -14,4 +13,5 @@ startups:
 previously:
   - le-taxi
   - mesads
+uuid: 0055fb62-a20e-4746-a6bc-eff2d69f3c3d
 ---

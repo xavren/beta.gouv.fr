@@ -12,5 +12,6 @@ previously:
   - metiers-numeriques
 badges:
   - segur
+uuid: 94778313-6594-4bf1-b58c-d2c38c7ef0a3
 ---
 Intrapreneuse, curieuse, j'aime la nouveauté, le changement et apprendre sans cesse de nouvelles choses !

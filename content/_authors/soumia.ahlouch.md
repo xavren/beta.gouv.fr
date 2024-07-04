@@ -14,5 +14,6 @@ missions:
 startups:
   - les-emplois
   - pilotage.de.linclusion
+uuid: 15e360c4-cd6c-400e-a32e-700bda8de984
 ---
 Rigoureuse et organisée , je prends à cœur d'analyser les chiffres pour une bonne prise de décision.

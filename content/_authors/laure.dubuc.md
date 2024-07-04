@@ -11,5 +11,6 @@ missions:
       - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
+uuid: 0df0d343-9e9e-469c-88c3-29d412bc5156
 ---
 Cheffe de projet Résorption-bidonvilles ; Designer UX et graphique

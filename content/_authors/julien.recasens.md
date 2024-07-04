@@ -12,7 +12,6 @@ missions:
   - start: 2024-05-21
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - pass-sport
 startups:
@@ -21,4 +20,5 @@ memberType: beta
 link: https://www.linkedin.com/in/julien-recasens/
 competences:
   - Facilitation
+uuid: 1043c17f-a6d1-4f9e-8e00-6e8a754404dd
 ---

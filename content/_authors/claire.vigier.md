@@ -22,4 +22,5 @@ competences:
   - UX
   - Gestion de Produit
   - Croissance
+uuid: 09028cef-e8a3-4192-bfe0-8a50cc7ad463
 ---

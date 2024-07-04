@@ -24,5 +24,6 @@ competences:
   - Développement
   - Développement Full-stack
   - DevOps
+uuid: 38346c6a-2a04-408a-8bbc-907aab8c8411
 ---
 Développeur et mordu de surf !

@@ -27,4 +27,5 @@ competences:
   - Gestion de Produit
 teams:
   - /teams/animation-dinum
+uuid: fe6f0128-2d0c-4f8a-8f26-515da03b02e5
 ---

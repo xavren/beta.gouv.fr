@@ -10,16 +10,15 @@ missions:
   - start: 2019-05-01
     end: 2021-03-07
     status: independent
-    employer: ''
   - start: 2022-01-01
     end: 2024-11-07
     status: independent
-    employer: ''
 startups:
   - vues-immersives-libres
 previously:
   - anais
   - ban
   - disinfo
+uuid: e890fb9d-b5e1-489a-9bf0-985f9071542a
 ---
 Data addict, open, maker et récidiviste

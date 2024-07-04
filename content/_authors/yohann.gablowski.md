@@ -7,11 +7,11 @@ missions:
   - start: 2023-01-30
     end: 2024-09-29
     status: independent
-    employer: ''
     startups:
       - sirius
 startups:
   - sirius
 memberType: beta
+uuid: 022a7dba-4282-4946-90d6-f07ce32de36f
 ---
 Développeur fullstack

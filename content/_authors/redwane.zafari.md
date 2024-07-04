@@ -21,6 +21,7 @@ competences:
   - JavaScript/TypeScript
   - Accessibilité
   - PostgreSQL
+uuid: 42a603a0-479e-486d-acdf-f572d7593873
 ---
 Je suis développeur Full Stack spécialisé en JavaScript, avec une forte prédilection pour le développement frontend.
 

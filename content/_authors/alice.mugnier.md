@@ -14,4 +14,5 @@ competences:
   - Rédaction
   - Journalisme
   - Langage clair
+uuid: 07374c58-2d8b-4579-bcfb-5ec699f6c1ac
 ---

@@ -13,6 +13,7 @@ missions:
       - signaux-faibles
 startups:
   - signaux-faibles
+uuid: d2ca041a-22c4-414b-9a3f-596ed41cd131
 ---
 Développeur Web depuis 2002. Sides: contributeur principal de openwhyd.org, batteur
   de Harissa.

@@ -14,4 +14,5 @@ missions:
 startups:
   - mobilic
 memberType: beta
+uuid: 818ac696-9d11-4bf0-8df1-d7a09062adf5
 ---

@@ -8,5 +8,6 @@ missions:
     status: service
     employer: Pôle emploi
 memberType: autre
+uuid: a66d48b0-e108-40ca-b9ff-2fd12880c0ef
 ---
 UX designer, mais aussi designer UX

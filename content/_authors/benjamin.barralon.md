@@ -9,10 +9,10 @@ missions:
     status: admin
     employer: AMUE
     startups:
-      - sirius
       - exposition-ij
       - investigation-ij
       - pilotagevoiepro
+      - sirius
 startups:
   - sirius
   - exposition-ij
@@ -22,5 +22,5 @@ teams:
   - /teams/mission-inserjeunes
 badges:
   - segur
+uuid: 2d7d3230-643e-4b88-8eae-a602bfb4fe49
 ---
- 

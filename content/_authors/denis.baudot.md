@@ -23,5 +23,6 @@ startups:
 teams:
   - /teams/animation-dinum
   - /teams/fast-dinum
+uuid: 6fa792dc-36f8-451d-8c31-22145b79301b
 ---
 Développeur à la brigade

@@ -7,4 +7,5 @@ missions:
     end: 2024-08-31
     status: admin
     employer: MINARM
+uuid: 3e68bd84-0810-40c4-a994-62a83ab0f2fe
 ---

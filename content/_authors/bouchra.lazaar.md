@@ -15,5 +15,6 @@ startups:
 competences:
   - Gestion de Produit
   - Croissance
+uuid: 777766f9-9ec0-42af-b2a5-2ae3997fec78
 ---
 Chargée de déploiement

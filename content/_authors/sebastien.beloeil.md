@@ -12,5 +12,6 @@ missions:
 startups:
   - tchap
 memberType: beta
+uuid: 861041e4-8b73-4783-95b9-443c7c70f851
 ---
 In(f[ro])magicien, Photographe

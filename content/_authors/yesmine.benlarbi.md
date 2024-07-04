@@ -16,4 +16,5 @@ startups:
   - zero-logement-vacant
 previously:
   - demarches-simplifiees.fr
+uuid: 428f2d08-9a76-4841-96ec-13af27959fe4
 ---

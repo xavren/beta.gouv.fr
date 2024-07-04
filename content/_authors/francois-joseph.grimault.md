@@ -8,7 +8,6 @@ missions:
   - start: 2017-10-01
     end: 2019-07-19
     status: independent
-    employer: ''
   - start: 2019-12-05
     end: 2023-06-30
     status: independent
@@ -18,5 +17,6 @@ previously:
   - mrs
   - plusfraichemaville
   - datagir
+uuid: efd9379c-5ec6-4fc5-91a0-bce9536d79ab
 ---
 Dubito ergo sum

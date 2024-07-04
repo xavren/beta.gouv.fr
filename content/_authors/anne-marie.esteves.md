@@ -13,7 +13,7 @@ startups:
 previously:
   - api-particulier
   - mpal
+uuid: 86a798d4-e12a-415d-b88d-d0b2a407458f
 ---
-
 *"If you are free, you need to free somebody else. If you have some power, then your job is to empower somebody else.”*
 Toni Morrison

@@ -14,5 +14,6 @@ startups:
   - l-application-du-cej
 competences:
   - UI
+uuid: 2efc7729-87d6-41a7-97ca-a1713ed8e567
 ---
 Designer graphique.

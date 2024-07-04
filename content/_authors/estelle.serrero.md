@@ -12,5 +12,6 @@ missions:
 startups:
   - reva
 memberType: beta
+uuid: a73d58d5-d33a-486a-af59-ed5e7d2baac2
 ---
 Copywriter

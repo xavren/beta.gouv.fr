@@ -19,5 +19,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: 6488bd2c-93ce-47bc-a5c8-39a0bf09ee03
 ---
 Développeur web full-stack avec une teinture software craftmanship, passionné par la transformation digitale et le design applicatif :)

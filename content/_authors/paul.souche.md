@@ -15,5 +15,6 @@ startups:
   - maison.de.lautisme
   - recosante
 memberType: beta
+uuid: 6adfe29c-c6ea-435a-9c56-87ea490c4302
 ---
 Développeur fullstack

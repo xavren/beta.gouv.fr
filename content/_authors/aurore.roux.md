@@ -12,4 +12,5 @@ missions:
 startups:
   - la.bonne.renov
 memberType: beta
+uuid: 0ba5de19-d085-4e97-88e1-fe3143919be8
 ---

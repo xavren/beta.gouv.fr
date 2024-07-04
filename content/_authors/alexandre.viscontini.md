@@ -11,5 +11,6 @@ missions:
       - emile
 startups:
   - emile
+uuid: d7a1fd78-99d9-47fc-b891-260c7c3d93a6
 ---
 Conseiller emploi à la DIHAL

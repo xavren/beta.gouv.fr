@@ -11,4 +11,5 @@ missions:
       - mobiville
 startups:
   - mobiville
+uuid: 84f4afc9-7a36-4e1c-a08f-de884a7f2e39
 ---

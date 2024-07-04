@@ -19,5 +19,6 @@ missions:
 startups:
   - acceslibre
 memberType: beta
+uuid: ccea4574-3cbf-4049-bf33-837c4a94f7de
 ---
 Développeur le jour, coureur le midi, papa la nuit.

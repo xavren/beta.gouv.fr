@@ -14,5 +14,5 @@ startups:
   - ban
 memberType: beta
 link: https://www.linkedin.com/in/jugurtha-bouhadoun/
+uuid: ecb8115c-dfc5-4b2c-a8ea-e261fd48aaf8
 ---
-

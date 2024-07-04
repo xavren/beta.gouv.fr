@@ -12,4 +12,5 @@ missions:
 competences:
   - Développement Full-stack
 memberType: beta
+uuid: 185c04ca-930d-450b-9228-7b2184e6a1d6
 ---

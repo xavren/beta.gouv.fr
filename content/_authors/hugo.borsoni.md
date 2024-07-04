@@ -7,11 +7,11 @@ missions:
   - start: 2023-03-03
     end: 2023-07-06
     status: independent
-    employer: ''
     startups:
       - envergo
 startups:
   - envergo
 memberType: autre
+uuid: fc4b05eb-8c20-4c73-a219-f241358a784c
 ---
 Etudiant en dernière année @ CentraleSupélec

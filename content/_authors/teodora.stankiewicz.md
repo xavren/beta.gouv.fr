@@ -13,5 +13,6 @@ missions:
 startups:
   - rdv-service-public
 memberType: beta
+uuid: 7f46bd8f-0d09-4870-82c9-6b5b15fb3814
 ---
 Product Designer

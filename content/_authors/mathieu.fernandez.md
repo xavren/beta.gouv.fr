@@ -11,5 +11,6 @@ missions:
       - dialogue
 startups:
   - dialogue
+uuid: 8b2abd0d-c420-490a-bdc8-13a6a8adeb50
 ---
 Accro au DiaLog

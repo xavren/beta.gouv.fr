@@ -10,4 +10,5 @@ missions:
     startups:
       - api.prevention
 link: https://www.linkedin.com/in/marine-jara-1a628021/
+uuid: 9fd688ac-c4b2-4ea1-b432-ce7ee5bcdd5a
 ---

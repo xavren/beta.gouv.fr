@@ -13,4 +13,5 @@ missions:
 memberType: autre
 startups:
   - france.nation.verte.agir
+uuid: bdf3b7e5-39e8-4064-81f7-45413584c12b
 ---

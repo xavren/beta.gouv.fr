@@ -12,5 +12,6 @@ missions:
       - portail-rse
 startups:
   - portail-rse
+uuid: 1c91acd7-9950-45a2-a024-3b7bd81b6607
 ---
 Développeur et associé de Yaal Coop

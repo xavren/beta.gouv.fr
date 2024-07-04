@@ -11,4 +11,5 @@ missions:
 startups:
   - travailler.en.france
 memberType: beta
+uuid: 0fa0e319-f79b-4aee-8c8d-de5729486662
 ---

@@ -13,4 +13,5 @@ badges:
   - segur
 startups:
   - cnr
+uuid: 179c8843-3d7f-40ea-b6b3-f2c664a019e3
 ---

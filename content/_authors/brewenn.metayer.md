@@ -17,5 +17,6 @@ competences:
   - Administration Publique
   - Droit / Affaires juridiques
   - Product strategy
+uuid: edb705f4-5607-4f17-af49-9281b7dc0a74
 ---
 Responsable de l'ouverture des données, je suis intéressé par le monde de la mobilité et du transport du point de vue politique, économique et juridique, mais également curieux de tous les sujets qui touchent notre société.

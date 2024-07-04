@@ -7,5 +7,6 @@ missions:
     end: 2025-01-11
     status: admin
 memberType: beta
+uuid: 6b497347-fc33-4fbf-bf6d-653b8d2433cf
 ---
 Lead Marketing Digital au sein de l'incubateur de Pôle emploi

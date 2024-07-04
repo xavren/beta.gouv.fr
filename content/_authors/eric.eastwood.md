@@ -11,4 +11,5 @@ missions:
     startups:
       - tchap
 memberType: beta
+uuid: a0a729dc-0fd5-4ce2-baa6-8d8289a9d7d0
 ---

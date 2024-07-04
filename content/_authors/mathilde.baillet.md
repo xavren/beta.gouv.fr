@@ -11,4 +11,5 @@ missions:
       - mobilic
 startups:
   - mobilic
+uuid: 7ce552bc-dd2c-4b1e-bfac-aa4688f42837
 ---

@@ -13,5 +13,6 @@ missions:
 startups:
   - egalite.professionnelle
 memberType: beta
+uuid: 61d6f540-9615-476c-a75b-c12503f4d062
 ---
 Développeur fullstack avec une passion pour l'impression 3D

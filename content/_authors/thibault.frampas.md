@@ -12,5 +12,5 @@ missions:
 startups:
   - nis2
 memberType: beta
+uuid: f805c134-f784-4136-9593-59a9ee92b720
 ---
-

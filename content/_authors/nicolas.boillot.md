@@ -13,5 +13,6 @@ startups:
   - l-application-du-cej
 badges:
   - segur
+uuid: 609a7b53-fcf5-44aa-b28e-95c2ae1e1886
 ---
 Consultant UX senior

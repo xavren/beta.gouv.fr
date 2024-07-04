@@ -45,5 +45,6 @@ previously:
   - openfisca
   - disinfo
   - aides.jeunes
+uuid: 184f18bc-8242-4744-b34e-05a3031552ea
 ---
 Ingénieur transdisciplinaire. Sceptique des aphorismes autobiographiques.

@@ -12,4 +12,5 @@ missions:
       - partaj
 startups:
   - partaj
+uuid: 05ecdd57-fe42-4f36-b8e2-96c978437a64
 ---

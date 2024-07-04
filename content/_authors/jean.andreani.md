@@ -12,4 +12,5 @@ missions:
 startups:
   - vues-immersives-libres
 memberType: autre
+uuid: 86adfbda-849f-47ba-9dcc-6ddce2c707d6
 ---

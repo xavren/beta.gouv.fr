@@ -16,4 +16,5 @@ previously:
 competences:
   - UX
   - UI
+uuid: f81f6477-2dc7-44cd-9590-8c653065dc6a
 ---

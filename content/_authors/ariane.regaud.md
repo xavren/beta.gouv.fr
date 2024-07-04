@@ -11,5 +11,6 @@ missions:
       - monitorfish
 startups:
   - monitorfish
+uuid: 1f3c7b70-a85f-49f6-99ad-2269bcdd58ff
 ---
 Administratrice des affaires maritimes. Chef du CACEM (Centre d'Appui au Contrôle de l'Environnement Marin).

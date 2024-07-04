@@ -19,4 +19,5 @@ previously:
   - la.communaute.de.linclusion
 startups:
   - place-de-marche-inclusion
+uuid: 0ffb9685-8a2c-4f9f-a97e-ad0842efc743
 ---

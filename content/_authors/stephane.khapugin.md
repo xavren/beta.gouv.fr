@@ -12,5 +12,6 @@ missions:
       - l-immersion-facile
 startups:
   - l-immersion-facile
+uuid: c7699111-6b5e-4be4-b273-5c28599f6dfc
 ---
 Développeur, amateur de montagne

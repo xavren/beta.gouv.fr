@@ -9,5 +9,6 @@ missions:
     status: service
     employer: Numéricité
 memberType: autre
+uuid: 72b87122-cefb-426c-a618-cfcc0054a66c
 ---
 Juriste Numéricité

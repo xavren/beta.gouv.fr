@@ -18,5 +18,6 @@ competences:
   - Développement Backend
   - Développement Frontend
   - UI
+uuid: 393ab68f-f354-43ad-a864-698bfa461859
 ---
 Développeur fullstack javascript

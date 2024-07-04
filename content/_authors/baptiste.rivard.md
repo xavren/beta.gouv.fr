@@ -8,5 +8,6 @@ missions:
     status: admin
     employer: DINUM
 github: sapeurponpier
+uuid: 9b60afac-1f9e-417f-a886-2d22ef1d99c9
 ---
 Étudiant

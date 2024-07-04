@@ -13,5 +13,6 @@ startups:
   - monstage
 badges:
   - segur
+uuid: 166357a8-dad2-434c-acd6-97d27dff5ee2
 ---
 Intrapreneur de Mon stage de troisième.

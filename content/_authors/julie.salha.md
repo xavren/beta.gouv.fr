@@ -15,5 +15,6 @@ startups:
   - demarches-simplifiees.fr
 badges:
   - segur
+uuid: 01b1eab1-84e0-4b1d-abaf-382345369b63
 ---
 Intégratrice web / Consultante en accessibilité numérique

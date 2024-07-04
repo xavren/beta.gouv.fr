@@ -13,4 +13,5 @@ startups:
   - snu
 badges:
   - segur
+uuid: 30c10de3-dbb2-4cc1-a5db-3b5603b457a7
 ---

@@ -17,5 +17,6 @@ badges:
   - segur
 competences:
   - UX
+uuid: 1206f43c-265a-4894-ad64-eb7be863dc65
 ---
 UX Designer & researcher

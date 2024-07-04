@@ -14,5 +14,6 @@ startups:
   - dotations-locales
 badges:
   - segur
+uuid: 7b9de6f7-a811-45da-b041-d7b745c007d2
 ---
 Développeur web full stack

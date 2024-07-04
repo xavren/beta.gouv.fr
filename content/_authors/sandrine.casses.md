@@ -14,6 +14,7 @@ startups:
   - les-emplois
 competences:
   - Gestion de Produit
+uuid: a5e7c234-f302-40c1-be08-52a9b22cad74
 ---
 Heureuse de participer à ce beau projet et d’apporter ma pierre à l’édifice. Ma devise: Je
   ne perds jamais. Soit je gagne, soit j’apprends. (Nelson Mandela)

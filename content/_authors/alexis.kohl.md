@@ -15,5 +15,6 @@ badges:
   - segur
 competences:
   - Gestion de Produit
+uuid: 9263a17b-9dde-4153-b8cf-3b06e4e00c57
 ---
 Product manager au background technique et à la fibre entreuprenariale

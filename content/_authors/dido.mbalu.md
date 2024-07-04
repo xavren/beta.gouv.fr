@@ -13,4 +13,5 @@ missions:
 startups:
   - encyclopedie-des-metiers
   - mobiville
+uuid: 4b9e3782-eaf9-40f8-83e0-acd30718e144
 ---

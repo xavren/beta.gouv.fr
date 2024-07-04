@@ -28,5 +28,6 @@ previously:
   - acceslibre
 competences:
   - Développement Full-Stack
+uuid: bd8bf55f-0012-4bfd-8286-e2297d6aa3d6
 ---
 En quête de sens numérique

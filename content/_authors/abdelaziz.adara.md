@@ -10,4 +10,5 @@ missions:
 memberType: attributaire
 competences:
   - Communication
+uuid: a7c90297-e108-4ae7-bf7f-1c28c3d3c9c8
 ---

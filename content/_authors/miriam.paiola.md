@@ -11,5 +11,6 @@ missions:
       - homologation
 startups:
   - homologation
+uuid: 84f3ce12-d4d1-42f2-ace1-4e553b3d4ee6
 ---
 Membre de l'équipe MonServiceSécurisé, spécialiste en management de la sécurité numérique à l'ANSSI.

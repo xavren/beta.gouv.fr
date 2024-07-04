@@ -17,6 +17,7 @@ link: https://www.linkedin.com/in/pletellier/
 competences:
   - Développement Backend
   - Développement Full-stack
+uuid: 23608bf1-b595-4523-b734-a85a92eb835d
 ---
 Data bricoleuse (engineer et scientist). Grand intérêt pour la data: de la récolte
   de sources variées, à l'uniformisation, analyse, visualisation et machine-learning.

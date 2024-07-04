@@ -15,5 +15,6 @@ startups:
   - data-subvention
 badges:
   - segur
+uuid: 2e5cceb4-6bcf-4076-82cb-be9eede5c5dc
 ---
 Je design des expériences 🧩 et j'illustre avec des pixels 🖌️ UX/UI Designer et presque toujours en baskets 💪

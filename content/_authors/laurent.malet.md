@@ -17,5 +17,6 @@ competences:
   - Finances publiques
   - Fiscalité
   - Tourisme
+uuid: b8002a93-899e-4594-bcc3-2578a7055fd0
 ---
 Inspecteur Traveller

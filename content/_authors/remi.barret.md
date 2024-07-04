@@ -20,5 +20,6 @@ competences:
   - html
   - JavaScript/TypeScript
   - Python
+uuid: 2dacebe4-4a5f-4b4f-a5fc-13e9a3660fa7
 ---
 Artisan du web

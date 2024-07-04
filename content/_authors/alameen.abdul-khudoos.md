@@ -9,9 +9,9 @@ missions:
     end: 2023-06-30
     status: independent
     startups:
-      - zen
-      - travailler.en.france
       - mes-aides-france-travail
+      - travailler.en.france
+      - zen
 incubator: francetravail
 previously:
   - zen
@@ -19,5 +19,6 @@ previously:
   - mes-aides-france-travail
 competences:
   - Gestion de Produit
+uuid: 4aed4988-55ab-4a0b-a258-554e1ab70bc1
 ---
 Product Manager et chef de projet

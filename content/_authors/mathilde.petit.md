@@ -26,4 +26,5 @@ competences:
   - Product strategy
   - UX
   - Communication
+uuid: 49f1423e-08e7-4290-bf4e-08ad5a8849cb
 ---

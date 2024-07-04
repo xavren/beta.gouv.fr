@@ -14,4 +14,5 @@ startups:
 memberType: beta
 previously:
   - zero-logement-vacant
+uuid: 440e0a2f-7072-4be9-b10d-67e629f32cb2
 ---

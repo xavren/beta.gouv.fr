@@ -14,5 +14,6 @@ missions:
 startups:
   - pilotagevoiepro
 memberType: beta
+uuid: 6e9b33d6-3e83-4ae5-aab1-ece0780cc5da
 ---
 Dev React  NodeJS

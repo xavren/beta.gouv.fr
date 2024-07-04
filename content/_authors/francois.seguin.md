@@ -7,7 +7,6 @@ missions:
   - start: 2020-10-01
     end: 2024-12-31
     status: service
-    employer: ''
     startups:
       - pass-culture
 startups:
@@ -15,4 +14,5 @@ startups:
 memberType: beta
 competences:
   - Développement Backend
+uuid: f7532446-df62-4290-8020-56e453b5a866
 ---

@@ -13,5 +13,6 @@ missions:
       - les-emplois
 startups:
   - les-emplois
+uuid: a8600250-a9e7-44a1-871e-8ca526e8a095
 ---
 Intégrateur web, développeur front-end pour la plateforme de l'inclusion

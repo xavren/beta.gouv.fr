@@ -11,5 +11,6 @@ previously:
   - cadransolaire
 competences:
   - Administration Publique
+uuid: 62e17429-23a4-415f-9364-7cf32b73c612
 ---
 Chargé de mission climat énergie, Service ADS Etudes et transversalité

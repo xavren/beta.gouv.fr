@@ -11,5 +11,6 @@ missions:
       - signaux-faibles
 startups:
   - signaux-faibles
+uuid: 823a19b0-cc8a-4a9c-8563-ba8f9024cb48
 ---
 Au service des entreprises en difficulté

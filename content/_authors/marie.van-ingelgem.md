@@ -10,4 +10,5 @@ missions:
       - mes-aides-france-travail
 startups:
   - mes-aides-france-travail
+uuid: 69ff1454-9ddf-4142-99e7-1ed6bdbb8aff
 ---

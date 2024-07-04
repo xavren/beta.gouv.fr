@@ -12,4 +12,5 @@ missions:
 memberType: dinum
 startups:
   - annuaire-entreprises
+uuid: a89269d8-9f6e-41a4-98e8-decb8fb79132
 ---

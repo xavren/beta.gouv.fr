@@ -15,5 +15,6 @@ startups:
   - inca
 badges:
   - segur
+uuid: 90ca096b-c157-427c-885b-c30923b72eb8
 ---
 Juriste, coach et community manager

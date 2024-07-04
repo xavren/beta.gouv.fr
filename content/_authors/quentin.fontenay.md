@@ -13,4 +13,5 @@ missions:
       - france-numerique-ensemble
 startups:
   - france-numerique-ensemble
+uuid: 23d7913f-e41a-4664-a642-1026c2b2a5e5
 ---

@@ -18,5 +18,6 @@ missions:
       - aidantsconnect
 startups:
   - apilos
+uuid: e1f0ad36-2379-427c-a80a-753a669ee608
 ---
 développeuse web à la bonne humeur revendiquée !

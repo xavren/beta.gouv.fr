@@ -13,5 +13,6 @@ missions:
 memberType: autre
 startups:
   - france.nation.verte.agir
+uuid: 6970db35-7ea5-4e60-9438-76714c80af4e
 ---
 Développeur full stack orienté front

@@ -9,10 +9,9 @@ missions:
   - start: 2019-04-01
     end: 2020-12-31
     status: independent
-  - status: independent
-    start: 2021-09-08
+  - start: 2021-09-08
     end: 2024-12-31
-startups:
+    status: independent
 previously:
   - reva
   - avril
@@ -22,4 +21,5 @@ competences:
   - Développement Frontend
   - Développement Backend
   - Administration Système
+uuid: d2312ca7-1d27-4c65-9cfd-4940f48775b0
 ---

@@ -12,5 +12,6 @@ missions:
 previously:
   - transition-ecologique-des-entreprises
 memberType: autre
+uuid: 99ff76db-415a-48d7-af5e-8000d206f86f
 ---
 Développeur

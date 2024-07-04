@@ -20,4 +20,5 @@ competences:
   - Product design
 previously:
   - monstage
+uuid: 178a9590-2bc2-41d1-87ca-ca2c7f758a42
 ---

@@ -12,5 +12,5 @@ missions:
 startups:
   - partaj
 memberType: beta
+uuid: ffd20102-3207-4360-a20d-2e242c0c4d5c
 ---
-

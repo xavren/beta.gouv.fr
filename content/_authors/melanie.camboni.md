@@ -12,5 +12,6 @@ missions:
 startups:
   - conseillers-entreprises
 memberType: beta
+uuid: 9e332e08-2838-4349-9053-65261f7e3cac
 ---
 chargée de suivi qualité / bizdev

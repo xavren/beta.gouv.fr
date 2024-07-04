@@ -13,4 +13,5 @@ missions:
 competences:
   - UX
 memberType: beta
+uuid: a1928648-9050-4b0d-820b-b0852d368c71
 ---

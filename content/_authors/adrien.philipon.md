@@ -12,4 +12,5 @@ missions:
 startups:
   - accesscite
 memberType: beta
+uuid: 65018b35-7f19-4024-9cf7-859b4d21e5d1
 ---

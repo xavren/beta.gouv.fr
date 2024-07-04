@@ -11,5 +11,6 @@ missions:
     employer: Shom
 previously:
   - sppnaut
+uuid: df0850e3-6182-4a50-8aad-e1fdf41d2eb8
 ---
 Ingénieure Hydrographe et docteur en traitement du signal et acoustique sous-marine

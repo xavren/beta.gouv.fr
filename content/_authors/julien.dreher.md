@@ -9,11 +9,11 @@ missions:
     status: service
     employer: NUMA/Frontierlab
     startups:
-      - dossierfacile
       - assec
+      - dossierfacile
 startups:
   - dossierfacile
   - assec
+uuid: 31aa56ef-b15c-4e6e-9374-5baf407b1dd2
 ---
-
 Coach qui aide à comprendre la logique des réseaux

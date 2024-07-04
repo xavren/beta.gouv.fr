@@ -22,5 +22,6 @@ previously:
   - prevention_ruptures_apprentissage
 badges:
   - segur
+uuid: cab3e3e3-ee1e-4b33-b539-0957cf40bc86
 ---
 Coach & ex-intrapreneur @JeVeuxAider @SNU @API-Engagement

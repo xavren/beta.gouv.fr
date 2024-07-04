@@ -17,5 +17,6 @@ previously:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: 2155b344-e4b1-4ad8-95b4-3b3b799739b0
 ---
 Développeur full stack JS

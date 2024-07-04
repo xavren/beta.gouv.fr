@@ -11,5 +11,6 @@ missions:
       - jeveuxaider
 startups:
   - jeveuxaider
+uuid: 304eae6b-b934-4b63-8efd-3c871b191c57
 ---
 Chargée de déploiement au top auprès de la Réserve Civique !

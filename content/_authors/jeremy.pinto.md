@@ -3,7 +3,6 @@ fullname: Jérémy Pinto
 role: Développeur Fullstack
 domaine: Développement
 github: JeremyPinto
-avatar: null
 link: https://codeconut.fr
 missions:
   - start: 2017-01-01
@@ -14,5 +13,6 @@ missions:
       - jeveuxaider
 startups:
   - jeveuxaider
+uuid: 8ca5400b-f8ab-4880-8eb9-95e930359222
 ---
 Laravel / Vue.js

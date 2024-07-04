@@ -8,8 +8,9 @@ missions:
     status: admin
     employer: DGALN
     startups:
-        - vigieau
+      - vigieau
 startups:
-    - vigieau
+  - vigieau
 memberType: beta
+uuid: 4e6bae7a-ddeb-45ec-bcb9-cf7475bc6d26
 ---

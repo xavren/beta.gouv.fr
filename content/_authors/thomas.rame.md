@@ -10,8 +10,8 @@ missions:
     status: independent
     employer: Little Big Connection
     startups:
-      - mediature
       - agents.en.intervention
+      - mediature
   - start: 2023-05-15
     end: 2024-10-17
     status: independent
@@ -29,5 +29,6 @@ competences:
   - Accessibilité
   - Développement
   - DevOps
+uuid: 515a33e4-a2b4-476d-8a74-5151834633d0
 ---
 💻🔥     🚒💨

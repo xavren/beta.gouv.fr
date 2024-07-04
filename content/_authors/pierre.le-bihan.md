@@ -14,5 +14,6 @@ startups:
   - snu
 badges:
   - segur
+uuid: e36021a3-bbd6-44af-a62e-9cfe47d1c773
 ---
 Développeur

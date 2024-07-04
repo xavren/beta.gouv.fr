@@ -13,5 +13,5 @@ missions:
 startups:
   - transport
 memberType: beta
+uuid: eba7a3e0-74ad-4604-8fdb-4c4e90387943
 ---
-

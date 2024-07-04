@@ -13,4 +13,5 @@ previously:
   - octopus
 competences:
   - Sécurité informatique
+uuid: 0874b22c-d858-4b71-b5fa-542559d1a68c
 ---

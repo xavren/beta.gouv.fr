@@ -17,5 +17,5 @@ competences:
   - UX
   - UI
   - Product design
+uuid: 7b39abda-7e31-42ff-a66b-6e2b6cceb2e4
 ---
-

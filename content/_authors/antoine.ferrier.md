@@ -13,5 +13,6 @@ missions:
 startups:
   - envergo
 memberType: beta
+uuid: 1e3ccb29-9a74-48dc-b261-d840d93d93b6
 ---
 Transforme la data en accélérateur de développement

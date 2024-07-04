@@ -15,6 +15,6 @@ badges:
 startups:
   - mistral-penal
 link: https://www.linkedin.com/in/maxime-gammaire-73a059270/
-
+uuid: ce7cf0f2-4bd9-4acf-b86d-81f558d4d6f2
 ---
 Directeur des services de greffe judiciaires

@@ -17,5 +17,6 @@ previously:
   - la-bonne-alternance
 teams:
   - /teams/gip-inclusion
+uuid: eeef97af-5111-40e1-ad82-89dc3ce3babd
 ---
 Un leitmotiv: Mon action permet-elle à un demandeur d’emploi de retrouver un travail ?

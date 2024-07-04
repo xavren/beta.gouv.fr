@@ -14,4 +14,5 @@ startups:
   - euphrosyne
 competences:
   - Administration Publique
+uuid: a683c149-be58-4c00-9b7c-5294df959f7f
 ---

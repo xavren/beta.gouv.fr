@@ -14,4 +14,5 @@ competences:
   - UX
   - UX Writing
 memberType: beta
+uuid: af407b68-95b9-409b-9f40-69f350285fc9
 ---

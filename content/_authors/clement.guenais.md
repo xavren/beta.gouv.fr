@@ -9,4 +9,5 @@ missions:
     status: admin
     employer: MIOM/DNUM
 memberType: beta
+uuid: 12a60065-e1d2-4983-8d3c-99b45e8b3e58
 ---

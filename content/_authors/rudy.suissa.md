@@ -13,5 +13,6 @@ startups:
   - inca
 badges:
   - segur
+uuid: c05befdd-b0a2-49e2-9f7d-c2c06f262948
 ---
 Chargé de déploiement @Lab Agora

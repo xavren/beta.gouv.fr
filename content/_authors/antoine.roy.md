@@ -12,5 +12,6 @@ missions:
       - disinfo
 startups:
   - disinfo
+uuid: ddc652d2-3aa2-4e04-999a-89bbbca1d439
 ---
 Data scientist/engineer | Python

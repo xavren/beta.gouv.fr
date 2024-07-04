@@ -16,4 +16,5 @@ startups:
 competences:
   - Développement Backend
   - Développement Frontend
+uuid: a60afec4-aeb6-4c54-bf96-e2e48d69bbf3
 ---

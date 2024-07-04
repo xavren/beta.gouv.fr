@@ -12,5 +12,6 @@ missions:
       - l-application-du-cej
 startups:
   - l-application-du-cej
+uuid: 93c8f045-3bea-47b8-876b-deb0e78334fd
 ---
 👩‍💻👩‍💻

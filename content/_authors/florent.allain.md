@@ -18,5 +18,6 @@ memberType: beta
 startups:
   - cassiopee
   - airvam
+uuid: 4b889209-9d48-4055-aa97-236dc3728237
 ---
 développeur frontend

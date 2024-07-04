@@ -13,4 +13,5 @@ startups:
   - candela
 competences:
   - Administration Publique
+uuid: ea0a27e7-95e8-4103-959e-962d47f3150d
 ---

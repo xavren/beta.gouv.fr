@@ -8,4 +8,5 @@ missions:
     status: admin
     employer: MTECT
 memberType: autre
+uuid: 4d5ac4df-e848-44b4-8f72-67fe7e1d8d84
 ---

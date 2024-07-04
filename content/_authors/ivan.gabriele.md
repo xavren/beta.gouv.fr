@@ -46,4 +46,5 @@ competences:
   - Développement Frontend
 badges:
   - segur
+uuid: 5f77044f-6b97-41f5-977a-13a079ad39e2
 ---

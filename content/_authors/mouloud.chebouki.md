@@ -7,8 +7,8 @@ missions:
     end: 2021-10-20
     status: admin
     employer: pole-emploi
-startups: null
 badges:
   - segur
+uuid: d23e61f9-bb13-4799-aa30-7b0047162147
 ---
 Slasheur , i.e. à la fois facilitateur, animateur, chargé de déploiement, et toujours au service de la communauté

@@ -6,11 +6,9 @@ missions:
   - start: 2020-03-23
     end: 2021-11-30
     status: independent
-    employer: ''
   - start: 2021-11-30
     end: 2024-12-31
     status: independent
-    employer: ''
 startups:
   - les-emplois
   - la.communaute.de.linclusion
@@ -20,5 +18,5 @@ competences:
   - Communication
 teams:
   - /teams/gip-inclusion
-
+uuid: 73d51214-45f3-42b5-86a0-0067bb70bb08
 ---

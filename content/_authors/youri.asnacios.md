@@ -13,4 +13,5 @@ missions:
 startups:
   - monitorfish
 memberType: beta
+uuid: b780ab1a-f69d-4c9f-8754-ea5d0bf61327
 ---

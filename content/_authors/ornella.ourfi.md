@@ -14,6 +14,6 @@ startups:
   - france-numerique-ensemble
 badges:
   - segur
+uuid: 2ede3f72-dd7c-4941-82b3-513fe798dc1c
 ---
-
 Développeuse Web full stack

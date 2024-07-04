@@ -13,4 +13,5 @@ missions:
 startups:
   - signalement
 memberType: autre
+uuid: f37ba8c9-493b-43de-9381-116f17805601
 ---

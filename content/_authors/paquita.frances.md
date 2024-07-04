@@ -16,5 +16,6 @@ badges:
   - segur
 competences:
   - Communication
+uuid: d5cbb064-d52c-49e1-99de-5e7cdbf4bf30
 ---
 Expertise Emploi / Formation dans des entreprises françaises et américaines, jury VAE au CNAM

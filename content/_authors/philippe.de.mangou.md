@@ -22,6 +22,7 @@ competences:
   - Communication
 memberType: beta
 github: philippedemangoubeta
+uuid: d2acbaae-45ef-46bd-89e6-75ce051a9635
 ---
 Responsable technique passionné par le produit, la tech et le développement des équipes
 

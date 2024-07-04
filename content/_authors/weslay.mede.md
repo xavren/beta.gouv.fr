@@ -9,5 +9,6 @@ missions:
     status: service
     employer: Octo Technology
 memberType: beta
+uuid: 29237109-864b-4bfe-bd93-58f3fc9c27b7
 ---
 Développeur le jour, gameur la nuit.

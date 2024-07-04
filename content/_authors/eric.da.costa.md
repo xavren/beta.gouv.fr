@@ -13,5 +13,6 @@ startups:
   - reva
 memberType: beta
 link: https://www.linkedin.com/in/eric-da-costa-5702b1236/
+uuid: bf601bf4-0134-48d4-80ab-f46a202cf8f1
 ---
 Chargé de communication

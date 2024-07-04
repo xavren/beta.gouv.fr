@@ -8,8 +8,8 @@ missions:
     end: 2016-07-01
     status: service
     employer: octo
-startups: null
 previously:
   - mdph
+uuid: 013f80fa-e722-438f-9dca-616ffe7b0b03
 ---
 Développeur web au service du public.

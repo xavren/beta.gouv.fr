@@ -14,4 +14,5 @@ startups:
   - vues-immersives-libres
 badges:
   - segur
+uuid: ceda2384-0a5e-4bfc-b5e0-202653c19d41
 ---

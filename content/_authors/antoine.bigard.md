@@ -9,10 +9,10 @@ missions:
     status: independent
     employer: ut7
     startups:
+      - api.apprentissage
+      - boite.aux.lettres
       - catalogue-apprentissage
       - dematapprentissage
-      - boite.aux.lettres
-      - api.apprentissage
 startups:
   - catalogue-apprentissage
   - dematapprentissage
@@ -25,4 +25,5 @@ competences:
   - Développeur full stack
 teams:
   - /teams/mission-apprentissage
+uuid: e8f43275-7d3b-4132-aa2f-86e297bf8c93
 ---

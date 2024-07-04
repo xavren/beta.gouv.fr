@@ -14,5 +14,6 @@ missions:
 startups:
   - snu
 memberType: beta
+uuid: f7c1c7b1-8d4a-47e0-a527-a6cb72610c20
 ---
 Product Lead, Software Engineer & Couteau Suisse

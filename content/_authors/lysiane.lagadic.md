@@ -14,4 +14,5 @@ competences:
   - Product design
   - Coaching
 memberType: beta
+uuid: 2143c22d-4f53-4194-b879-e51e50d58c95
 ---

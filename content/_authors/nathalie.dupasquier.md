@@ -16,5 +16,6 @@ startups:
 competences:
   - UX
   - UI
+uuid: 5b089acf-1895-47d2-b333-73f81b1e256b
 ---
 (Product) Designer.

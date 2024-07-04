@@ -16,5 +16,6 @@ startups:
   - dora
 competences:
   - Gestion de Produit
+uuid: 2092bfa6-7299-4fea-b7d7-ff5ebedc1c24
 ---
 Responsable produit (PO)

@@ -16,5 +16,6 @@ competences:
   - Administration Système
   - Gestion de Produit
 memberType: beta
+uuid: b8b6af3a-52f1-4e47-810f-61a68cdd9986
 ---
 Développeur full stack JS

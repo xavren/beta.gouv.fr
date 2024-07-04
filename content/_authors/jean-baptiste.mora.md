@@ -3,7 +3,6 @@ fullname: Jean-Baptiste Mora
 role: Développeur
 domaine: Développement
 github: jeanbaptistemora
-avatar: null
 link: https://moramora.fr
 missions:
   - start: 2019-06-17
@@ -14,5 +13,6 @@ missions:
       - mrs
 startups:
   - mrs
+uuid: b366d6aa-912c-44ff-a913-5ea80386a093
 ---
 Développeur web Front et Back / Sys-admin / DevOps à Toulouse.

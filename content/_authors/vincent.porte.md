@@ -15,5 +15,6 @@ missions:
 startups:
   - la.communaute.de.linclusion
   - les-emplois
+uuid: f83a115e-155f-4216-8052-6d03de467fa5
 ---
 Entrepreneur Tech Data IA Menuisier le reste du temps

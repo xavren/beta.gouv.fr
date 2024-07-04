@@ -15,4 +15,5 @@ startups:
   - competence.validee
   - mes.aides.a.lembauche
   - mes-evenements-emploi
+uuid: 9ab3ee87-ed4d-4106-9efa-b06f55dcb68b
 ---

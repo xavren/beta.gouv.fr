@@ -13,5 +13,6 @@ missions:
       - mes-aides
 startups:
   - mes-aides
+uuid: 6ef6208b-f74d-405f-aafc-453189d1c356
 ---
 Infiltrée Latitudes. <3

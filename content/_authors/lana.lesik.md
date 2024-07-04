@@ -11,5 +11,6 @@ missions:
       - l-application-du-cej
 startups:
   - l-application-du-cej
+uuid: bde474d3-c736-4457-a501-6fc64801ccf4
 ---
 Dev Mobile Octo

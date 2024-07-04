@@ -13,4 +13,5 @@ missions:
 memberType: beta
 startups:
   - carte-verte
+uuid: 154c4b55-42bb-41b1-b772-d21f2779ad54
 ---

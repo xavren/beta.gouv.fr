@@ -10,11 +10,11 @@ missions:
     status: independent
     employer: Agence du Service Civique
     startups:
-      - usine-chatbots
+      - airvam
       - les-alpps
       - octopus
       - osirispn
-      - airvam
+      - usine-chatbots
 startups:
   - usine-chatbots
   - les-alpps
@@ -28,4 +28,5 @@ previously:
   - megalodon
 competences:
   - Gestion de Produit
+uuid: b564dc8b-1e51-40a6-8051-b5542bd4c950
 ---

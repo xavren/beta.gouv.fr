@@ -10,5 +10,6 @@ missions:
     status: service
     employer: Fairness.coop
 memberType: attributaire
+uuid: 1effc01b-55af-4e1a-b0ac-a10d10a03fb1
 ---
 Développeuse chez Fairness.coop

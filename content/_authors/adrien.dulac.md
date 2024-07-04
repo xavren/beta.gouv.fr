@@ -8,7 +8,6 @@ missions:
   - start: 2023-07-15
     end: 2024-12-31
     status: independent
-    employer: ''
 memberType: dinum
+uuid: 08723143-5393-4834-8a21-a1d9fa3ba943
 ---
-

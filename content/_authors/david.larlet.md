@@ -19,5 +19,6 @@ previously:
   - api-drones
   - zam
   - visam
+uuid: 11ecf863-6fcf-4c75-b482-8a86068eb509
 ---
 Artisan, geek et citoyen.

@@ -9,5 +9,6 @@ missions:
     status: service
     employer: Malt
 memberType: attributaire
+uuid: 093b01c7-497e-45fa-8bc0-847f035afddc
 ---
 Responsable du compte de la Fabrique numérique des Ministères sociaux chez Malt

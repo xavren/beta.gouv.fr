@@ -12,5 +12,6 @@ missions:
 startups:
   - mes.aides.a.lembauche
 memberType: beta
+uuid: 24060c3c-bbd6-4990-b3e6-fbcf871679c1
 ---
 PM - conseillère entreprises - facilitatrice

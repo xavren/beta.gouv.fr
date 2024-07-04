@@ -14,4 +14,5 @@ startups:
   - anais
 competences:
   - Développement
+uuid: 35534898-d853-4531-9996-3728ffe5bf19
 ---

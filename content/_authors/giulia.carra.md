@@ -15,4 +15,5 @@ competences:
   - DevOps
   - Data Science
 memberType: beta
+uuid: a2148f03-b84d-465c-afb5-0275e2b8e648
 ---

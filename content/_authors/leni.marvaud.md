@@ -10,4 +10,5 @@ missions:
       - la-bonne-boite
 startups:
   - la-bonne-boite
+uuid: 949a4fe1-dbaa-430e-8ed7-636d2b011d8d
 ---

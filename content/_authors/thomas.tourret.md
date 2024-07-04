@@ -14,4 +14,5 @@ startups:
   - l-application-du-cej
 badges:
   - segur
+uuid: 494736ab-65f1-4d70-aa0e-65924f37aaa8
 ---

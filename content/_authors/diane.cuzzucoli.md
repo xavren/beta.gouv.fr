@@ -10,5 +10,6 @@ missions:
     startups:
       - maestro
 memberType: autre
+uuid: 63f7e7d8-e313-43d3-8a97-65e0f47fb4c2
 ---
 Ingénieure Analyse de risque - microbiologiste - chaine alimentaire

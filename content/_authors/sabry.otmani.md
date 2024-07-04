@@ -11,5 +11,6 @@ missions:
       - reglementations.en.foret
 startups:
   - reglementations.en.foret
+uuid: 7dcf656f-d8a5-49a1-9fb9-8089671089f7
 ---
 J'aime bien les idées, j'aime encore plus les executer.

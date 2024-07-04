@@ -7,11 +7,11 @@ missions:
   - start: 2023-10-09
     end: 2024-09-30
     status: independent
-    employer: ''
     startups:
       - transition-ecologique-des-entreprises
 startups:
   - transition-ecologique-des-entreprises
 memberType: beta
+uuid: 6fe341a4-6880-4b25-b5a6-ead22bc9c25f
 ---
 Et puis j'écris aussi.

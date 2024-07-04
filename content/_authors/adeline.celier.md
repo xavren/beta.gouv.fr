@@ -12,5 +12,6 @@ missions:
       - monitorfish
 startups:
   - monitorfish
+uuid: 1c5b4672-2105-47d3-b712-228182f85bb7
 ---
 Designer de service pour les merlus et les grondins.

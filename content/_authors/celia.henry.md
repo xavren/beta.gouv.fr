@@ -7,7 +7,7 @@ missions:
     end: 2017-08-31
     status: admin
     employer: MEEM
-startups: null
 previously:
   - plante-et-moi
+uuid: 2de0b786-a506-4e4e-868d-4e83497c1022
 ---

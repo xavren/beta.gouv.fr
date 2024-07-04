@@ -13,5 +13,6 @@ startups:
   - tchap
 badges:
   - segur
+uuid: 5441201e-4341-4690-9d3b-83db66adf0c4
 ---
 DevOps, plus Ops que Dev, mais un peu Dev quand même

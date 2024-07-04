@@ -13,5 +13,6 @@ missions:
       - l-immersion-facile
 startups:
   - l-immersion-facile
+uuid: 80d45239-87e5-4969-a253-e07087834974
 ---
 Développeur TS Fullstack. ATDD / Architecture Hexagonale

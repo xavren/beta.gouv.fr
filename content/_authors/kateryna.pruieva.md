@@ -12,5 +12,6 @@ missions:
 startups:
   - aplus
 memberType: beta
+uuid: c3f24541-9985-44de-bae4-6d0f2300ba4b
 ---
 UX designer

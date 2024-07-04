@@ -8,9 +8,10 @@ missions:
     status: service
     employer: Pôle emploi
     startups:
-      - mes-evenements-emploi
       - encyclopedie-des-metiers
+      - mes-evenements-emploi
 startups:
   - mes-evenements-emploi
   - encyclopedie-des-metiers
+uuid: 4289730a-2978-4404-943e-c6f05c324635
 ---

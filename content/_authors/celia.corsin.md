@@ -17,5 +17,6 @@ startups:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: e8736cdd-9817-4fc9-a5d0-f18ee61ba340
 ---
 Dev @LaFabriqueNumérique entre autres choses

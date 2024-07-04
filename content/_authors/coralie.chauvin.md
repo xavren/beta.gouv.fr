@@ -17,5 +17,6 @@ competences:
   - Communication
 startups:
   - jeveuxaider
+uuid: c3a32fad-e07a-4a7e-b1ac-d950d94341b9
 ---
 Animatrice de la communauté de bénévole JeVeuxAider.gouv.fr

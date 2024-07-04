@@ -14,5 +14,6 @@ missions:
 startups:
   - archifiltre
 memberType: beta
+uuid: 904d1068-35ac-4d15-971d-b66e1061cd5c
 ---
 Product manager

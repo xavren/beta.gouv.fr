@@ -8,8 +8,8 @@ missions:
     status: service
     employer: octo
 github: thomaspepio
-startups: null
 previously:
   - mpal
+uuid: ce115f34-ff59-4b13-b9fc-473da17a0dc3
 ---
 Former java/jee/js/css (I guess full-stack is appropriate) developer and tech lead. Now fallen in the bright world of *operations* o7

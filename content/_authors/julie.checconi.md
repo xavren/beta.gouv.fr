@@ -13,5 +13,6 @@ missions:
 startups:
   - plusfraichemaville
 memberType: beta
+uuid: b322f2bf-5c06-408e-b30e-9045c049b4ac
 ---
 Designer de service, UX UI, illustratrice

@@ -8,10 +8,11 @@ missions:
     status: service
     employer: octo
     startups:
-      - pix
       - mpal
+      - pix
 startups:
   - pix
   - mpal
+uuid: 8426bb2b-1c54-4b47-a9cf-61337c4e958d
 ---
 Newbie Ruby on Rails ;)

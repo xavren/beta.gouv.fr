@@ -21,5 +21,6 @@ competences:
   - Développement Frontend
   - Gestion de Produit
 link: https://www.linkedin.com/in/damienlethiec/
+uuid: 7f44b7fb-9d32-494a-8691-e1a5d107ab09
 ---
 Artisan numérique et polymathe

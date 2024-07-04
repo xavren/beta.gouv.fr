@@ -10,4 +10,5 @@ missions:
 teams:
   - /teams/anct
 memberType: beta
+uuid: 0d86a62a-db67-4d5b-9e3c-312fbdbb4509
 ---

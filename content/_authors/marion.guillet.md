@@ -14,4 +14,5 @@ startups:
   - la-bonne-alternance
 previously:
   - la-bonne-boite
+uuid: df2175db-00c2-4d4e-9d8e-77c05949714a
 ---

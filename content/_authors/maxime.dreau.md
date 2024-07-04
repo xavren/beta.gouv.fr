@@ -12,8 +12,8 @@ missions:
     status: independent
     employer: octo
     startups:
-      - filharmonic
       - anais
+      - filharmonic
   - start: 2023-02-01
     end: 2023-11-13
     status: independent
@@ -34,4 +34,5 @@ competences:
   - Développement Full-stack
 startups:
   - chauffage-urbain
+uuid: db3f480b-a1b8-46a6-9ab2-82f02bc88ec3
 ---

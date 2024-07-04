@@ -13,5 +13,6 @@ startups:
 memberType: beta
 competences:
   - Administration Publique
+uuid: e77ca8e7-83ee-4ffc-aa7c-f5c77e68de5e
 ---
 Chargé d'animation SNU !

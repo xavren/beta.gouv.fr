@@ -12,4 +12,5 @@ missions:
       - territoires-en-transitions
 startups:
   - territoires-en-transitions
+uuid: 9cf487c1-78c1-4c12-a6ed-554bb29484a8
 ---

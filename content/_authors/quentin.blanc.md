@@ -14,4 +14,5 @@ startups:
   - rdv.insertion
 badges:
   - segur
+uuid: fc50e8a9-dabe-4e2c-b183-2b11e86f0705
 ---

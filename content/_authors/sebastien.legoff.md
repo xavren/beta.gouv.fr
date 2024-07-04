@@ -19,4 +19,5 @@ competences:
   - Développement Backend
   - Développement Frontend
   - Coaching
+uuid: 8c11b5c5-be6d-4f62-b689-b11a93b9e2b4
 ---

@@ -14,4 +14,5 @@ startups:
   - collectif_objets
 badges:
   - segur
+uuid: 0be5a168-5573-4793-b7fc-e2d1e46e1f74
 ---

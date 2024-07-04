@@ -7,5 +7,6 @@ missions:
   - start: 2021-04-16
     end: 2021-09-30
     status: independent
+uuid: 4abe4d7b-6ce0-41eb-b7e4-89a94191a67a
 ---
 Designer de programmes d'innovation, Facilitatrice Design Thinking et Formatrice aux méthodes entrepreneuriales

@@ -12,5 +12,6 @@ missions:
 avatar: /img/authors/kathleen.marie-joseph.jpg
 startups:
   - mobiville
+uuid: 2582842e-f0a0-4324-8e89-42bad7351a74
 ---
 Intrapreneuse. Passionnée par les projets innovants. Ce qui me motive c'est de pouvoir créer des services utiles aux usagers.

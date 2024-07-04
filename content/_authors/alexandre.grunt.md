@@ -11,4 +11,5 @@ missions:
       - jesaisfaire
 startups:
   - jesaisfaire
+uuid: 9fb029c7-258c-4a60-9045-d3ac93259e71
 ---

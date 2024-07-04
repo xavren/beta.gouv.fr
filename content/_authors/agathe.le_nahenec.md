@@ -7,8 +7,8 @@ missions:
     end: 2023-03-17
     status: admin
     employer: dinum
-startups: null
 previously:
   - mdph
   - mon-entreprise
+uuid: c1a02c23-efd3-469e-ae0f-1ca233e240b4
 ---

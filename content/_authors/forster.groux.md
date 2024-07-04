@@ -20,5 +20,6 @@ startups:
   - ma-cantine-egalim
   - cassiopee
 link: https://www.linkedin.com/in/forster-groux-14232580/
+uuid: cd477081-3f6d-4626-92c2-8456e9c25cd1
 ---
 Développeur passionné d'agilité et d'horizontalité

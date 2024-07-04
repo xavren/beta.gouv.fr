@@ -16,11 +16,11 @@ missions:
   - start: 2023-12-20
     end: 2024-12-31
     status: independent
-    employer: ''
 startups:
   - pitchou
 previously:
   - comobi
   - urbanvitaliz
   - recosante
+uuid: 4411acd7-7177-4eaf-9b43-a53fc7cfaa93
 ---

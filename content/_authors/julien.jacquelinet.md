@@ -16,5 +16,6 @@ competences:
   - Développement Full-stack
   - DevOps
 memberType: beta
+uuid: cd291076-f7e1-4f63-8a92-220b4e129e92
 ---
 Ingénieur Informatique - Python, Web, traitement de données, SIG / GIS, devops

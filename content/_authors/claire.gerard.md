@@ -11,5 +11,6 @@ missions:
       - reva
 startups:
   - reva
+uuid: 78734d04-05b4-49c5-a041-135ed2b75878
 ---
 UX/UI/designer

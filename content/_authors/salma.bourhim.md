@@ -9,4 +9,5 @@ missions:
     employer: SNDV
 badges:
   - segur
+uuid: 1e07d43e-e6d1-4df2-ac89-61bbb09bebeb
 ---

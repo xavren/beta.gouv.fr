@@ -6,12 +6,12 @@ missions:
   - start: 2023-02-01
     end: 2024-09-30
     status: independent
-    employer: ''
     startups:
       - oilhi
 startups:
   - oilhi
 memberType: beta
 link: https://www.linkedin.com/in/mariecelinebattesti
+uuid: ef014893-3662-4bc3-8f4f-1e30874a9178
 ---
 Bien occupée mais toujours partante pour de nouveaux projets

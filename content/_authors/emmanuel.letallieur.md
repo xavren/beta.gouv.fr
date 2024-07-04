@@ -19,4 +19,5 @@ competences:
   - Développement Backend
   - UX
   - Product design
+uuid: 4399f2bd-519d-46f1-9321-da3bd6878f0c
 ---

@@ -12,5 +12,6 @@ missions:
       - aidantsconnect
 startups:
   - aidantsconnect
+uuid: ceb78bf4-34bd-4756-b24f-199a6ca13f44
 ---
 La tech au service de l'humain.

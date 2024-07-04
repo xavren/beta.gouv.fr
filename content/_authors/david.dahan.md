@@ -12,4 +12,5 @@ missions:
     startups:
       - icare-complements-alimentaires
 memberType: beta
+uuid: 01dacbd6-07f6-48db-8820-8afde9b56d12
 ---

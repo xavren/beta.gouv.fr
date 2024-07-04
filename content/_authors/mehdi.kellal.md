@@ -13,5 +13,6 @@ badges:
   - segur
 startups:
   - cnr
+uuid: e11999f2-f1eb-4abd-a331-bfe9a85c41bb
 ---
 éveillé le jour, tente de dormir la nuit.

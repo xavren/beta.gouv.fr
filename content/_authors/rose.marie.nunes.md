@@ -12,5 +12,6 @@ missions:
 startups:
   - pass-culture
 memberType: beta
+uuid: 48309c2f-307b-4d14-9b74-7ce877c5eff1
 ---
 Responsable de l'homologation au pass Culture, photographe pendant 8 ans avant ça.

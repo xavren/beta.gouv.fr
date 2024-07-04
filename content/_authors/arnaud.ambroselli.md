@@ -15,5 +15,6 @@ startups:
   - mano
 badges:
   - segur
+uuid: 0fcbbb48-9d72-4a83-bf2f-9202b87c052b
 ---
 Développeur

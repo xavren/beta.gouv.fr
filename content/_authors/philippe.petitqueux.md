@@ -14,5 +14,6 @@ startups:
   - reva
 previously:
   - avril
+uuid: ca8d5036-092a-4a8f-9225-44e71cbd3b3a
 ---
 Pas de badges, pas de chocolat

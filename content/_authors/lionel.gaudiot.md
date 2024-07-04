@@ -12,5 +12,6 @@ missions:
       - mission.debroussaillement
 startups:
   - mission.debroussaillement
+uuid: 4338b61f-2278-4849-a66c-124dd30bdf6e
 ---
 Directeur territorial adjoint sud-est IGN (couteau suisse) Traileur amateur

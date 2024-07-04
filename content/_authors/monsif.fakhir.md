@@ -12,4 +12,5 @@ missions:
 startups:
   - maison.de.lautisme
 memberType: beta
+uuid: e7300972-5b45-4bef-a40f-6c5886351ebe
 ---

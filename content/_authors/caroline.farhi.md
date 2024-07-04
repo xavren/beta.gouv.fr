@@ -12,5 +12,6 @@ startups:
   - jeveuxaider
 badges:
   - segur
+uuid: dfb5f985-6008-40cc-8d88-b1d38e2db177
 ---
 Animation / Support / Modération

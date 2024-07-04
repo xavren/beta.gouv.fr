@@ -1,7 +1,6 @@
 ---
 fullname: Clémence Lopez
-role: Responsable de portefeuille - Éducation nationale, Vie associative, Sports et
-  Enseignement supérieur
+role: Responsable de portefeuille - Éducation nationale, Vie associative, Sports et Enseignement supérieur
 domaine: Produit
 github: clemhacks
 missions:
@@ -13,7 +12,6 @@ missions:
     end: 2026-09-01
     status: admin
     employer: Dinum
-startups: null
 previously:
   - tchap
   - mon-diagnostic-artificialisation
@@ -25,4 +23,5 @@ badges:
   - segur
 teams:
   - /teams/animation-dinum
+uuid: 29ca714c-76a5-413d-8216-8e6060fc7904
 ---

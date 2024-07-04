@@ -6,9 +6,9 @@ missions:
   - start: 2023-11-01
     end: 2024-03-31
     status: service
-    employer: ''
 previously:
   - monstage
 memberType: autre
+uuid: d840837c-e3dd-4bb3-bab3-1b934a018fe8
 ---
 Digital native et storyteller, née avec une passion pour le voyage et l'engagement social dans toutes ces formes.

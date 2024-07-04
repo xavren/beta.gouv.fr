@@ -11,4 +11,5 @@ missions:
       - clara
 startups:
   - clara
+uuid: 0c7f7a95-cf2b-4495-a863-6272ec2d49da
 ---

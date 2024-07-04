@@ -13,5 +13,6 @@ missions:
 startups:
   - l-application-du-cej
 memberType: autre
+uuid: 1fdca024-027b-478e-a14b-0f52812a52c4
 ---
 co PO

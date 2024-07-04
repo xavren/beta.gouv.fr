@@ -14,4 +14,5 @@ memberType: beta
 competences:
   - Croissance
   - Product strategy
+uuid: 15b4ceec-add1-4035-827b-403b98fc8b2e
 ---

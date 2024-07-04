@@ -11,5 +11,6 @@ missions:
       - l-application-du-cej
 startups:
   - l-application-du-cej
+uuid: 2c88886f-b582-4c0e-bef4-62365289c9b4
 ---
 Chef de projet, déploiement, optimisation

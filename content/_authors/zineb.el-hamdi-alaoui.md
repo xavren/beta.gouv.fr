@@ -8,9 +8,9 @@ missions:
     status: admin
     employer: Dinum
     startups:
-      - >-
-        gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
+      - gestion-et-pilotage-du-parc-d-hebergement-du-dispositif-national-d-acceuil
 competences:
   - Intrapreneur(se)
 memberType: beta
+uuid: 093a20d1-f913-4126-9e73-03a0284ac0b9
 ---

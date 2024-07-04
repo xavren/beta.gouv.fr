@@ -12,4 +12,5 @@ missions:
       - mon-diagnostic-artificialisation
 startups:
   - mon-diagnostic-artificialisation
+uuid: 0fb024d1-8ee8-4d89-94c6-3996b294db4f
 ---

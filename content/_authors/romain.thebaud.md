@@ -13,5 +13,6 @@ missions:
 startups:
   - snu
 memberType: beta
+uuid: 4434112f-c059-4066-a05c-90c00bcc668a
 ---
 Développeur Back  Devops

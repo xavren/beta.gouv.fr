@@ -17,5 +17,6 @@ memberType: beta
 role: Développeur
 startups:
   - espace.sur.demande
+uuid: 29071bec-9c2f-4513-bff2-da938b8d79f4
 ---
 Développeur Freelance Symfony

@@ -7,5 +7,6 @@ missions:
   - start: 2021-09-03
     end: 2021-12-31
     status: admin
+uuid: 9a689657-327a-423d-9882-3c0ae7b16f0a
 ---
 Stagiaire chez Direction générale du Trésor

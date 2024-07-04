@@ -18,4 +18,5 @@ competences:
 memberType: beta
 link: https://www.linkedin.com/in/hugo-lecuyer-67841a8a/
 github: hlecuyer
+uuid: 2eea0316-c2b0-4bf2-b3f7-8b0e2f9078e3
 ---

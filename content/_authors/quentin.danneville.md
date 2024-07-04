@@ -10,10 +10,11 @@ missions:
     status: independent
     employer: DINUM
     startups:
-      - urbanvitaliz
       - recommandations-collaboratives
+      - urbanvitaliz
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
+uuid: ef5d8697-d6d8-438f-a5e7-4f95ed480b7e
 ---
 Développeur full stack

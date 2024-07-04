@@ -14,5 +14,6 @@ badges:
   - segur
 competences:
   - UI
+uuid: e3b4555f-7907-4669-b315-16b9ba5914f4
 ---
 Passionné par la conception d'interfaces fluides et adaptées pour chaque usage

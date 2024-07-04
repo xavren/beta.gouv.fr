@@ -12,4 +12,5 @@ missions:
       - devoirs-faits-communaute
 startups:
   - devoirs-faits-communaute
+uuid: 3cdadbaa-1ba6-4cc0-8477-0cf568a73201
 ---

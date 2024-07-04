@@ -15,4 +15,5 @@ startups:
   - preuve-de-covoiturage
 badges:
   - segur
+uuid: 9d2e743a-e050-42d0-b1b1-e1b3123c6e0a
 ---

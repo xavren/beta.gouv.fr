@@ -13,5 +13,6 @@ startups:
 badges:
   - segur
 domaine: Autre
+uuid: 8da9425d-8798-4542-b869-a37e13cf26d5
 ---
 stagiaire le jour, étudiante la nuit

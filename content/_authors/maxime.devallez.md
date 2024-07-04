@@ -11,5 +11,6 @@ missions:
       - clara
 startups:
   - clara
+uuid: 984deb12-616d-4c4b-a0e8-28a965910224
 ---
 Développeur sur Clara !

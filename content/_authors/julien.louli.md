@@ -12,5 +12,6 @@ missions:
 startups:
   - jafer
 memberType: beta
+uuid: b53c5a27-7141-435a-8954-6d0ef553bf36
 ---
 Chargé de déploiement

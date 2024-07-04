@@ -13,5 +13,6 @@ missions:
       - partaj
 startups:
   - partaj
+uuid: 8060c58f-f854-40e7-88d3-5083c532f524
 ---
 Coach produit & growth @Ground. Fan de musique (jazz, disco, house). La réponse à tout est le chiffre 42.

@@ -11,5 +11,6 @@ missions:
       - aplus
 startups:
   - aplus
+uuid: aa28b74d-0780-4d50-8b66-caaaade3a75a
 ---
 Libriste, j'aime la guitare (plutôt amplifiée) et le code… avec une préférence pour celui de l'Éducation et de la Route. Je lis le JO dans le texte.

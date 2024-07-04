@@ -17,5 +17,6 @@ startups:
 memberType: autre
 previously:
   - tchap
+uuid: dccf0a55-6e1d-4212-8c7d-e70676a5bace
 ---
 DevOps freelance

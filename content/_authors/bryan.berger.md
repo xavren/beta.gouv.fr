@@ -17,5 +17,6 @@ memberType: beta
 role: Développeur Front & Back
 startups:
   - snu
+uuid: adf0f580-c8db-423f-a225-3bec7c74e1dd
 ---
 Passionné par l'automatisation et l'optimisation, voilà pourquoi je suis développeur.

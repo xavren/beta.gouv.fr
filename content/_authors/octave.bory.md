@@ -30,4 +30,5 @@ competences:
   - Croissance
 teams:
   - /teams/fast-dinum
+uuid: 0506ec4f-4575-4dcb-b4e9-e4e5d595a4ad
 ---

@@ -13,5 +13,5 @@ memberType: beta
 competences:
   - Intrapreneur(se)
   - 'lean management; process '
+uuid: 1d798f67-dca4-473a-8ea8-91d29417d543
 ---
-

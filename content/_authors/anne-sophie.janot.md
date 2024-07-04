@@ -13,4 +13,5 @@ missions:
 startups:
   - trackdechets
 memberType: beta
+uuid: 9464d1ec-e22f-4f72-8425-0a761e4be5cb
 ---

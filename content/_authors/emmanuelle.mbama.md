@@ -13,5 +13,6 @@ badges:
   - segur
 competences:
   - Communication
+uuid: 8a06fd48-4b63-4c82-85be-977a8116be29
 ---
 À temps partiel chargée de déploiement, meme lord le reste du temps.

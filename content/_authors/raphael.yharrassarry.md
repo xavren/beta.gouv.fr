@@ -9,7 +9,6 @@ missions:
   - start: 2019-12-15
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - trackdechets
 startups:
@@ -19,5 +18,6 @@ previously:
 competences:
   - UX
   - UI
+uuid: 317a4196-58f2-4880-aa82-1ba070a0d57b
 ---
 Lead UX Designer

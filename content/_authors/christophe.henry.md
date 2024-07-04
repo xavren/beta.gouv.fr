@@ -13,5 +13,6 @@ missions:
       - aidantsconnect
 startups:
   - aidantsconnect
+uuid: f03a9919-43d0-45c1-9111-88e74cecb961
 ---
 La vie n'est marrante qu'en apprenant. Aussi: chats !

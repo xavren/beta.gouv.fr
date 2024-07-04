@@ -14,5 +14,6 @@ previously:
 competences:
   - Coaching
   - UX
+uuid: 9efc710d-cd7f-4c66-968d-b04282b037aa
 ---
 Designer de services & social

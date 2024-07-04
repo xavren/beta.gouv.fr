@@ -12,5 +12,6 @@ missions:
       - sppnaut
 startups:
   - sppnaut
+uuid: 93021131-f8bd-46ea-892e-1634bb74261c
 ---
 Ingénieur hydrographe au Shom

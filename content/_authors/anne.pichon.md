@@ -7,11 +7,9 @@ missions:
   - start: 2017-05-03
     end: 2020-01-01
     status: admin
-    employer: ''
   - start: 2020-01-02
     end: 2024-12-30
     status: independent
-    employer: ''
 startups:
   - inventaire.friches.agricoles
   - vigieau
@@ -30,4 +28,5 @@ competences:
   - Product strategy
   - Coaching
   - Facilitation
+uuid: 5d050e07-7928-498f-b8b4-cb8cd9a95468
 ---

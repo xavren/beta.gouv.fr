@@ -10,4 +10,5 @@ missions:
     employer: NUMA
 competences:
   - Coaching
+uuid: c65c36cf-688a-4555-b6d6-5920ec1ed5f2
 ---

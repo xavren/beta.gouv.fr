@@ -11,4 +11,5 @@ missions:
       - sndv_maritime
 startups:
   - sndv_maritime
+uuid: 8a505d4a-6447-43f1-9ecc-330db88b9034
 ---

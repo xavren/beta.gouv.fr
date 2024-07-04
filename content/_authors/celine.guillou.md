@@ -10,5 +10,6 @@ missions:
       - monitorfish
 startups:
   - monitorfish
+uuid: 909dbe08-27aa-49c9-b461-e801aa0d4a76
 ---
 Cheffe du Centre National de Surveillance des Pêches et intrapreneur du projet Monitor

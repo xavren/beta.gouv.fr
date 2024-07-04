@@ -11,4 +11,5 @@ missions:
       - au-compost-mitoyen
 startups:
   - au-compost-mitoyen
+uuid: abdb71a5-fc91-42a7-9d44-65a67b907a94
 ---

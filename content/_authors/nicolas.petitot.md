@@ -12,4 +12,5 @@ missions:
       - camino
 startups:
   - camino
+uuid: 00dead14-08d4-4235-a100-ae3974f5cf22
 ---

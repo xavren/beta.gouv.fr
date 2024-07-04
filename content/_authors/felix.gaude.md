@@ -13,4 +13,5 @@ missions:
 startups:
   - moncomptepro
 memberType: beta
+uuid: aa85bcd5-db56-42f4-a512-1c5e962d48ea
 ---

@@ -15,4 +15,5 @@ competences:
   - Coaching
   - Communication
   - Croissance
+uuid: fced528a-e424-4af4-b056-d6cde29f592d
 ---

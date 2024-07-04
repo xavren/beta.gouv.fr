@@ -11,4 +11,5 @@ missions:
 startups:
   - territoires-en-transitions
 memberType: beta
+uuid: d8c5db4a-9883-4549-bd10-2f17ead78776
 ---

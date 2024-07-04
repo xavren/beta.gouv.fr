@@ -14,5 +14,6 @@ startups:
   - aides-territoires
 competences:
   - Communication
+uuid: d961ace6-7c55-4d5d-89a1-b7e040a6dea2
 ---
 Chargée de déploiement le jour, illustratrice et rugbywoman la nuit

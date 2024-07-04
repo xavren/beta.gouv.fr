@@ -26,5 +26,6 @@ startups:
 previously:
   - ban
   - bases.adresses.locales
+uuid: f9d66dde-cc26-41d2-9596-22c94f7a0229
 ---
 Chargée de déploiement pour la startup d’État BAL (ANCT)

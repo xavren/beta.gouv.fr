@@ -12,5 +12,6 @@ missions:
       - data-inclusion
 startups:
   - data-inclusion
+uuid: 54da36f4-0070-44b3-9259-fb16278bd4b8
 ---
 Façonneur de schéma et plombier des données au GIP de l'inclusion. Basé à Rennes.

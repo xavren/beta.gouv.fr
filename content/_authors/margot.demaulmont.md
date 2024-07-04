@@ -8,7 +8,7 @@ missions:
     end: 2017-08-18
     status: admin
     employer: dinum
-startups: null
 previously:
   - open-academie
+uuid: b0334dac-6089-4549-8ecb-18bbfdc7b2d1
 ---

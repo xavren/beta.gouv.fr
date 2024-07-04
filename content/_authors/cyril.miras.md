@@ -11,4 +11,5 @@ missions:
 memberType: beta
 teams:
   - /teams/mtes
+uuid: 92648ddc-8108-449d-a443-1ac8e8c84f55
 ---

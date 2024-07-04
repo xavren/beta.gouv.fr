@@ -16,9 +16,10 @@ missions:
   - start: 2023-07-03
     end: 2024-05-30
     status: independent
-    employer: Malt  
+    employer: Malt
 previously:
   - signaux-faibles
   - transition-ecologique-des-entreprises
+uuid: 101dc63a-8b35-4ae6-a136-1122bb37e114
 ---
 Data Full Stack

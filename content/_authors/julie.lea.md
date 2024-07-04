@@ -7,5 +7,5 @@ missions:
     end: 2025-07-31
     status: service
 memberType: attributaire
+uuid: c19c0ec2-1660-44f9-a2cb-437cf491cb2a
 ---
-

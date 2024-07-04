@@ -16,5 +16,6 @@ previously:
   - carnet.de.bord
   - inclusion.connect
   - la.communaute.de.linclusion
+uuid: 5b3f7256-a6a1-4206-ab8f-94ae8bee99a4
 ---
 Développeur Python 🐍. Lanceur de 🥏, aussi pour mon 🐕.

@@ -7,7 +7,7 @@ missions:
     end: 2018-12-31
     status: admin
     employer: DIRECCTE
-startups: null
 previously:
   - conseillers-entreprises
+uuid: 04c8a226-9c14-4bb4-ad37-e39c71d77d8f
 ---

@@ -12,4 +12,5 @@ previously:
   - mediation.logement
 competences:
   - Administration Publique
+uuid: 790d385c-ce49-4a1f-afa4-c8c0490e0146
 ---

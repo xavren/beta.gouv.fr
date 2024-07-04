@@ -12,5 +12,6 @@ missions:
 startups:
   - reva
 memberType: beta
+uuid: 2fd757a4-19ce-4ca4-a8d1-d086867720ba
 ---
 Chargé déploiement

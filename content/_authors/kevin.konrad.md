@@ -18,4 +18,5 @@ competences:
   - DevOps
   - Sécurité informatique
 memberType: beta
+uuid: 12088a70-2e2c-47df-804d-8a2a07f6ce1b
 ---

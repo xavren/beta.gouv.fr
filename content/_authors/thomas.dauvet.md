@@ -12,5 +12,6 @@ missions:
 startups:
   - ma-cantine-egalim
 memberType: beta
+uuid: 4741c30a-dc62-4487-bacd-b353dbf229c6
 ---
 Product Manager  Owner

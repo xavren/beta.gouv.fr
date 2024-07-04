@@ -12,5 +12,6 @@ missions:
       - trackdechets
 startups:
   - trackdechets
+uuid: 0a2bcf8d-7ed5-472a-a6ca-8bf673170594
 ---
 Développeur fullstack et vice-champion de France de course en sac

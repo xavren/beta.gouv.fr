@@ -10,4 +10,5 @@ missions:
     employer: BENEXT
 competences:
   - Administration Publique
+uuid: 51c93389-816e-4ade-9cbf-b363c44041b4
 ---

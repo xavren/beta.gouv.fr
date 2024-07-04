@@ -34,4 +34,5 @@ competences:
   - Product design
   - Product strategy
   - UX
+uuid: 870e12aa-5deb-4384-a479-cd1be5afb315
 ---

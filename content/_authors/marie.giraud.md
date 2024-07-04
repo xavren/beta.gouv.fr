@@ -9,14 +9,14 @@ missions:
     status: independent
     employer: Ministère des Armées
     startups:
-      - sepia
+      - airvam
+      - cassiopee
+      - megalodon
       - octopus
       - osirispn
-      - cassiopee
-      - airvam
-      - usine-chatbots
+      - sepia
       - stargate
-      - megalodon
+      - usine-chatbots
 startups:
   - sepia
   - octopus
@@ -26,4 +26,5 @@ startups:
   - usine-chatbots
   - stargate
   - megalodon
+uuid: fcdf900a-3f87-4cb5-9290-69b32779f8dc
 ---

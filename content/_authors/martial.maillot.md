@@ -19,5 +19,6 @@ competences:
   - Développement Frontend
   - Développement Full-stack
   - DevOps
+uuid: 9dc8ec8a-8762-4e8a-86b5-b9cd4e9c93f7
 ---
 Artisan logiciel (DDD, TDD, DevOps culture...), vélotaffeur 🚴, 👪

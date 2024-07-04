@@ -7,7 +7,7 @@ missions:
     end: 2017-06-04
     status: admin
     employer: anssi
-startups: null
 previously:
   - api-drones
+uuid: b3367adc-b283-446b-aeb1-d3279d75a445
 ---

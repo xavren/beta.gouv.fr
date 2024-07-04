@@ -13,4 +13,5 @@ startups:
   - mon-suivi-justice
 badges:
   - segur
+uuid: fef9d1e7-bbd1-4b0b-9503-2a2df2836b6f
 ---

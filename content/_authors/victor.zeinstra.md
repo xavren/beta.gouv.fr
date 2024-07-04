@@ -14,5 +14,6 @@ startups:
 competences:
   - Développement Backend
   - Développement Frontend
+uuid: 56362528-a0f5-48bf-8720-5d8a5e6403a6
 ---
 Développeur fullstack, fan de TDD

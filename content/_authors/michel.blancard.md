@@ -17,5 +17,6 @@ startups:
 previously:
   - mes-aides
   - la-bonne-boite
+uuid: e9a965a4-b84a-4ff4-8774-15363bd2b11c
 ---
 Artisan de l'information

@@ -10,4 +10,5 @@ missions:
 memberType: beta
 startups:
   - reperer.identifier.victimes.teh
+uuid: 8225c783-3906-4e39-a5b5-3061539ade08
 ---

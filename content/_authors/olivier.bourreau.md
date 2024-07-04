@@ -15,4 +15,5 @@ startups:
 previously:
   - carnet.de.bord
 memberType: beta
+uuid: c74acc8d-58f9-47b4-89ed-c48a0e5d7f81
 ---

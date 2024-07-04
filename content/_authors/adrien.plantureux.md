@@ -1,8 +1,7 @@
 ---
 fullname: Adrien Plantureux
 domaine: Intraprenariat
-role: Intrapreneur à la fabrique numérique (MTE) pour un projet d'open data sur les
-  données Loi sur l'eau
+role: Intrapreneur à la fabrique numérique (MTE) pour un projet d'open data sur les données Loi sur l'eau
 missions:
   - start: 2021-04-09
     end: 2024-12-31
@@ -14,5 +13,6 @@ startups:
   - envergo
 competences:
   - Administration Publique
+uuid: 72b691e5-dfd5-48d3-902b-7ce704e86779
 ---
 Chargé de mission "outils informatiques de la police de l'environnement"

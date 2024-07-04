@@ -13,5 +13,6 @@ missions:
 startups:
   - reva
 memberType: beta
+uuid: 75041be9-2302-402b-9823-0f5afd95bfbc
 ---
 Développeur

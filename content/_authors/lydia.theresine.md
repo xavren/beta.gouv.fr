@@ -13,5 +13,6 @@ startups:
   - la-bonne-boite
 competences:
   - Communication
+uuid: 0b480a31-870c-4eb3-b721-8a74c876dac9
 ---
 "Cela me semble toujours impossible, jusqu’à ce qu’on le fasse (Nelson Mandela) », j'accompagne, j'aide à la faire,  je le fais, nous le faisons !

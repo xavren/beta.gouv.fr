@@ -8,12 +8,13 @@ missions:
     status: independent
     startups:
       - vigieau
-  - status: independent
-    start: 2024-07-02
+  - start: 2024-07-02
     end: 2024-09-30
+    status: independent
     startups:
       - vigieau
 memberType: beta
 competences:
   - Communication
+uuid: e51d3f47-a2d1-4a09-81bc-37f326daf28f
 ---

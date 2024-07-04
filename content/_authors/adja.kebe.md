@@ -14,5 +14,6 @@ startups:
   - mobilic
 badges:
   - segur
+uuid: 3cff841c-37a7-459e-aa53-2874bfb77eea
 ---
 Chargée de déploiement et communication

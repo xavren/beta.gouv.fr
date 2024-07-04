@@ -12,5 +12,6 @@ missions:
 startups:
   - potentiel
 memberType: beta
+uuid: ed200013-6a05-4085-91ef-5e39ff0ffd19
 ---
 Chargé de mission photovoltaïque

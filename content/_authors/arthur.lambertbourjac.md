@@ -12,5 +12,6 @@ missions:
       - l-application-du-cej
 startups:
   - l-application-du-cej
+uuid: 29243b33-9176-4e0e-acd1-9367cbaeb085
 ---
 Du craft, à manger et du fun.

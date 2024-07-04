@@ -14,4 +14,5 @@ github: Johannbr
 competences:
   - Développement Full-stack
 memberType: beta
+uuid: d8ebae63-247e-43e5-ba6a-e63f45f77de4
 ---

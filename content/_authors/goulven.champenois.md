@@ -18,4 +18,5 @@ competences:
   - UX
   - DevOps
 memberType: beta
+uuid: 99ec9b10-2d9e-4262-8384-95a1d77388a9
 ---

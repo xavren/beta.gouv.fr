@@ -10,5 +10,6 @@ missions:
     startups:
       - potentiel
 link: https://fr.linkedin.com/in/violettemrqs
+uuid: 8ed55418-b227-4bac-a14c-427b9d49d83e
 ---
 Développeuse Fullstack TS | Based in Lyon | ⛰️⛰️⛰️

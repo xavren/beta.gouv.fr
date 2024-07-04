@@ -18,4 +18,5 @@ competences:
   - Data Science
   - Machine learning
   - Python
+uuid: 0a343b10-e503-4209-8eee-d5f50e038b88
 ---

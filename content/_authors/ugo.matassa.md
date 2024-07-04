@@ -12,5 +12,6 @@ missions:
 startups:
   - carnet.de.bord
 memberType: autre
+uuid: 036bb01e-782c-4b78-90da-19a808f5cb37
 ---
 Développeur en immersion chez Carnet de Bord

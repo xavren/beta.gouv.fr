@@ -7,7 +7,6 @@ missions:
     end: 2018-06-01
     status: admin
     employer: dinum
-startups: null
 previously:
   - mrs
   - pass-culture
@@ -15,5 +14,6 @@ previously:
   - demarches-simplifiees.fr
   - aplus
   - api-particulier
+uuid: 14e355c8-68e7-42bb-95fa-a7a30800d184
 ---
 Interface Humaine à la recherche de connections pour développer les services publics numériques de demain

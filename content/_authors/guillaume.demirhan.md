@@ -13,5 +13,6 @@ startups:
   - mano
 badges:
   - segur
+uuid: eee5ea70-5b02-4d86-bc59-eab7f7eb96f7
 ---
 Infirmier / Porteur du projet MANO

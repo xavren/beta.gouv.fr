@@ -15,5 +15,6 @@ missions:
     employer: Dinum
 previously:
   - aidantsconnect
+uuid: ad8e9ef4-f1d4-454d-b151-c3d9eaf1fab5
 ---
 Développeuse multi-tâches et multi-langages

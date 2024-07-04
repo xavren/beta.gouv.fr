@@ -8,4 +8,5 @@ missions:
     end: 2024-12-31
     status: service
     employer: LaZone
+uuid: 1dfcfbcc-a52a-4957-be39-129b74b7e842
 ---

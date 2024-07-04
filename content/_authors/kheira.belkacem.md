@@ -12,4 +12,5 @@ missions:
 startups:
   - tchap
 memberType: dinum
+uuid: 1e243183-8681-4d11-83b5-8f81c818f0af
 ---

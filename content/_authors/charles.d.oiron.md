@@ -14,4 +14,5 @@ missions:
 startups:
   - recosante
 memberType: beta
+uuid: d94079a0-7e80-4658-822d-91722bbe1cb8
 ---

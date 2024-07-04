@@ -12,5 +12,6 @@ missions:
       - resorption-bidonvilles
 startups:
   - resorption-bidonvilles
+uuid: 20765ce0-f418-4f4f-b867-e1bc91b4157c
 ---
 développeur full-stack chez résorption-bidonvilles

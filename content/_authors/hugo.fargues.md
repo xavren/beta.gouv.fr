@@ -10,4 +10,5 @@ missions:
     status: independent
     employer: DINUM
 memberType: beta
+uuid: 05e5dab6-9ace-4c47-a546-a06b4360f9d5
 ---

@@ -16,5 +16,6 @@ previously:
   - mobilic
 badges:
   - segur
+uuid: 2eac47e6-2013-4be9-a239-ba48f87cad18
 ---
 Product Designer et amatrice de kitesurf

@@ -8,13 +8,14 @@ missions:
     status: admin
     employer: dinum
     startups:
-      - mps
       - api-entreprise
       - demarches-simplifiees.fr
+      - mps
 startups:
   - mps
   - api-entreprise
   - demarches-simplifiees.fr
 github: emsnytech
+uuid: 4d7bad3a-32bd-4c0d-9e87-54aac999c74d
 ---
 Fonctionnaire, et le plus vieux de la bande. Le moins disruptif ? À voir…

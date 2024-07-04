@@ -11,6 +11,6 @@ missions:
       - france-numerique-ensemble
 startups:
   - france-numerique-ensemble
+uuid: 8fe6953a-4f2c-435f-8c85-f18ee856902e
 ---
-
 Chargée d'animation et du support de la communauté des conseillers numérique france service

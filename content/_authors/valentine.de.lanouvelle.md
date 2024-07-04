@@ -16,4 +16,5 @@ memberType: beta
 incubator: justice
 competences:
   - Administration Publique
+uuid: 2e49c82f-82f3-4c1d-bc48-4c1a3d129aa3
 ---

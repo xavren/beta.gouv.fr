@@ -13,4 +13,5 @@ startups:
   - data-subvention
 badges:
   - segur
+uuid: fbc3cb1b-e799-410f-97b4-ac49cb42d74e
 ---

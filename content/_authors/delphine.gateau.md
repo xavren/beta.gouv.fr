@@ -13,5 +13,6 @@ missions:
 startups:
   - tchap
 memberType: beta
+uuid: 800f51f9-0006-44ee-8b85-370a3e434027
 ---
 Biz dev pour Tchap

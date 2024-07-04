@@ -14,5 +14,6 @@ missions:
 startups:
   - egalite.professionnelle
 memberType: beta
+uuid: d9da07a6-8a2a-4109-bfa7-1649c0d7f4dc
 ---
 Développeur depuis 12 ans avec un mindset de craftman. Passionné de spiritualité et plein d'autres chose...

@@ -6,7 +6,8 @@ link: https://www.linkedin.com/in/guillaume-harry-32885637/
 missions:
   - start: 2017-10-18
     end: 2018-06-20
-    employer: dinum
     status: admin
+    employer: dinum
+uuid: de1fc7b7-8212-4c95-b919-97dde2c5078c
 ---
 Spécialiste Gestion des Identités et des Accès

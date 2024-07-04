@@ -11,4 +11,5 @@ missions:
       - cmachance
 startups:
   - cmachance
+uuid: 7caf440e-97f7-493b-abdd-0f66fe4377a8
 ---

@@ -17,5 +17,6 @@ badges:
 startups:
   - notifications
   - valorisation.des.stages.pro
+uuid: 24e01cc0-5d3d-4ec4-a029-0a8a9c7c3544
 ---
 Lead dev à l'Incubateur des Services Numériques (ISN).

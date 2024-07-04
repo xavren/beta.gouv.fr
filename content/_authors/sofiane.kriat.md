@@ -11,8 +11,9 @@ missions:
     startups:
       - fonds.de.plans
 startups:
-    - fonds.de.plans
+  - fonds.de.plans
 memberType: beta
 link: https://www.linkedin.com/in/sofiane-kriat-ba339182/
+uuid: 45dcfa24-8c85-42e9-bbd8-63c3f461cad8
 ---
 Passionné de cartes et données géographiques!

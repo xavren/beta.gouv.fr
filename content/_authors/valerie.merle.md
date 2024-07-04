@@ -7,9 +7,9 @@ missions:
   - start: 2020-09-01
     end: 2024-12-31
     status: admin
-    employer: ''
     startups:
       - ma-cantine-egalim
 startups:
   - ma-cantine-egalim
+uuid: 0ab16527-5fb1-4356-b2e0-882969b8b0ae
 ---

@@ -2,7 +2,6 @@
 fullname: Douglas Duteil
 role: Développeur
 domaine: Développement
-link: null
 github: douglasduteil
 missions:
   - start: 2018-10-01
@@ -21,5 +20,6 @@ previously:
   - workinfrance
   - domifa
   - tremplin
+uuid: 5ad20715-d835-446e-b53f-cad2839655b1
 ---
 Living JS build tool.

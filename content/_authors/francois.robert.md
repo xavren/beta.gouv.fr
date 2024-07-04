@@ -13,5 +13,6 @@ missions:
 startups:
   - athena
 memberType: autre
+uuid: 71a3e1d2-08b8-4f9d-bbb9-6723d34247da
 ---
 Développeur

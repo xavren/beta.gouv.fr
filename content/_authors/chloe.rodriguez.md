@@ -13,5 +13,6 @@ missions:
     employer: numa
 startups:
   - mobinat
+uuid: 5a9f600f-4328-4567-87e2-24051e2bb632
 ---
 Designer de services et coach d’intrapreneur·e·s :D

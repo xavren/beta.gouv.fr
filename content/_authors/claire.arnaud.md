@@ -11,5 +11,6 @@ missions:
       - la-bonne-alternance
 startups:
   - la-bonne-alternance
+uuid: 182c320f-d13a-4f55-82f4-c383421d83ed
 ---
 Product Designer

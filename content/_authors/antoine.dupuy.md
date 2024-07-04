@@ -13,5 +13,6 @@ startups:
   - homologation
 badges:
   - segur
+uuid: f4a9b47f-592b-46b1-a887-87f07b8e4d53
 ---
 Business Developer

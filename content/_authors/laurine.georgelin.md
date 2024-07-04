@@ -12,5 +12,6 @@ missions:
 startups:
   - mon-suivi-justice
 memberType: autre
+uuid: 14d3ad81-ab0f-4fdf-ba49-88040b6e1159
 ---
 Stagiaire les mercredis et vendredis, étudiante le reste de la semaine !

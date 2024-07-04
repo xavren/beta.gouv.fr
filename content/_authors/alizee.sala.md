@@ -10,4 +10,5 @@ missions:
     startups:
       - l-application-du-cej
 memberType: attributaire
+uuid: 440d3306-a7c8-4d52-b0ad-042e23ff0f3d
 ---

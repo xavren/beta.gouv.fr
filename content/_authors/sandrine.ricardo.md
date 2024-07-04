@@ -22,5 +22,6 @@ startups:
 domaine: Développement
 competences:
   - Développement Full-stack
+uuid: 8c7b27a3-416e-486d-a594-15c7a8f406e2
 ---
 Développeuse pour projets écologiques et sociaux

@@ -7,7 +7,6 @@ missions:
   - start: 2018-04-10
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - conseillers-entreprises
       - signaux-faibles
@@ -22,4 +21,5 @@ badges:
   - segur
 competences:
   - Coaching
+uuid: 64d960f2-57f7-45fc-94a4-e42b62ca433d
 ---

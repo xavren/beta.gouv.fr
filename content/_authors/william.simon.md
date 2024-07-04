@@ -15,4 +15,5 @@ competences:
   - Google Ads
   - SEA
 memberType: beta
+uuid: fe4ce5f7-443a-4d5e-a508-655a3b361b24
 ---

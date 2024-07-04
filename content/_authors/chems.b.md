@@ -12,4 +12,5 @@ missions:
 startups:
   - place-de-marche-inclusion
 memberType: beta
+uuid: a60951b1-8cc8-4e61-95b8-51bf26d2da89
 ---

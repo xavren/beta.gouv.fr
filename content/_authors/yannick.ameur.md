@@ -16,5 +16,6 @@ startups:
   - les-emplois
 previously:
   - carnet.de.bord
+uuid: 5b905dee-4e45-458a-9041-fe221d17bbe3
 ---
 Coach pour la planète.

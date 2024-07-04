@@ -12,5 +12,6 @@ missions:
       - assec
 startups:
   - assec
+uuid: 5b25533c-4202-4ceb-b4da-a8ef7206533d
 ---
 Veux aider le monde agricole à s'adapter aux épisodes de sécheresse.

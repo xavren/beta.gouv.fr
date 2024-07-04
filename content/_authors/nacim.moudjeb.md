@@ -12,6 +12,6 @@ missions:
 startups:
   - dossierfacile
 memberType: beta
+uuid: 9670ad3f-e4d9-4f43-8d60-e51cda26d339
 ---
-
 Opérateur chez Dossier Facile

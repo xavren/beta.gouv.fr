@@ -12,5 +12,6 @@ missions:
       - egalite.professionnelle
 startups:
   - egalite.professionnelle
+uuid: e6275de0-c0ff-4b34-80b8-ca1c0340972d
 ---
 Développeur Javascript React Nextjs

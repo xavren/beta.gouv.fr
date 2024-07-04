@@ -12,5 +12,6 @@ missions:
       - homologation
 startups:
   - homologation
+uuid: 793aaf27-9ae0-4a67-a3c8-5ecb8a25ce20
 ---
 Lead Dev du Lab de l'ANSSI. https://www.ssi.gouv.fr/

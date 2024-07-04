@@ -11,5 +11,6 @@ missions:
       - pix
 startups:
   - pix
+uuid: b689efc2-5b05-47e0-9f20-e505997b1fa2
 ---
 Public + commun = the future

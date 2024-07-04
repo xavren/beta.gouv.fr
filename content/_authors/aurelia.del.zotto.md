@@ -10,5 +10,5 @@ missions:
 startups:
   - monprojetsup
 memberType: autre
+uuid: 7ec63d80-b953-4436-b3e3-28ea7e9ebdd4
 ---
-

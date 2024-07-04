@@ -12,5 +12,6 @@ missions:
 github: jcarb
 startups:
   - aeris
+uuid: a30b44fe-0168-4979-afdb-5bae848b79b1
 ---
 “Le langage informatique permet de lever des ambiguïtés parfois permises par les rédactions littéraires”

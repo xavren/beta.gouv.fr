@@ -9,4 +9,5 @@ missions:
     status: independent
     employer: ANCT
 memberType: beta
+uuid: c99ee8e8-08e6-40d9-bffe-c62ad8c8e58c
 ---

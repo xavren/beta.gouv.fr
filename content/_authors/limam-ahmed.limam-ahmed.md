@@ -11,5 +11,6 @@ previously:
   - camino
 badges:
   - segur
+uuid: a59da2a0-d89a-4ce4-98fc-ed52fe173b68
 ---
 Chargé de déploiement CAMINO

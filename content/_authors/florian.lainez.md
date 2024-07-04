@@ -15,6 +15,6 @@ competences:
   - Croissance
   - OpenStreetMap
 memberType: beta
+uuid: f9e13405-0271-43fe-84e9-fd7abdf162a5
 ---
-
 Expert OpenStreetMap

@@ -10,4 +10,5 @@ missions:
     startups:
       - infrastructures.numeriques
 memberType: beta
+uuid: 32c56a24-5642-4ecc-8d29-b78259ccec95
 ---

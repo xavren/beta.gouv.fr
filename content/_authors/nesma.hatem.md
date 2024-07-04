@@ -10,4 +10,5 @@ missions:
     startups:
       - jeveuxaider
 memberType: beta
+uuid: e7da909a-89e5-4ec0-9177-588d31fdbb51
 ---

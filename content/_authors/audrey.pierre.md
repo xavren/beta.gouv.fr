@@ -10,5 +10,6 @@ missions:
 memberType: autre
 teams:
   - /teams/lab-mi
+uuid: a76d7152-efb9-4876-a11d-d2ac21fb5076
 ---
 Cheffe de bureau BAOT

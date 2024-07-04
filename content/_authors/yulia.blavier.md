@@ -12,5 +12,6 @@ missions:
 startups:
   - metiers-numeriques
 memberType: dinum
+uuid: 620ba8e1-8779-4e30-8a3f-45bfff2a1191
 ---
 Product Owner, DINUM

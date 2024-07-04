@@ -12,5 +12,6 @@ missions:
       - signaux-faibles
 startups:
   - signaux-faibles
+uuid: 9e68b02f-38f7-4631-82c9-a64b95289e3f
 ---
 Data scientist @Signaux Faibles

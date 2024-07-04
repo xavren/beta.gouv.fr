@@ -12,5 +12,6 @@ missions:
       - perspectives
 startups:
   - perspectives
+uuid: 82bf2447-572b-4138-8e4a-051e7f307319
 ---
 Développeur sur Perspectives

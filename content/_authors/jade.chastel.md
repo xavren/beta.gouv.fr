@@ -12,5 +12,6 @@ missions:
 startups:
   - reva
 memberType: beta
+uuid: 64c48d32-a919-4688-a5f6-49130ec2a448
 ---
 Assistante support et administratif

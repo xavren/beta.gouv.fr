@@ -17,4 +17,5 @@ previously:
 competences:
   - Gestion de Produit
   - Développement Fullstack
+uuid: fd827ab2-8da3-4456-a772-678487f65762
 ---

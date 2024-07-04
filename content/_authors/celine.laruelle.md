@@ -13,5 +13,6 @@ missions:
 startups:
   - pacoupa
 memberType: autre
+uuid: 4e185ae3-ca4f-4e6b-9c57-899ae40998d3
 ---
 ingénieure au service bâtiment à l'ADEME, spécialisée dans les systèmes thermiques

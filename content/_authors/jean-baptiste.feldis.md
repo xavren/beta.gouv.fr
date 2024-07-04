@@ -16,4 +16,5 @@ competences:
   - Développement
   - Développement Full-stack
 memberType: beta
+uuid: b5d0a35e-f78a-4960-806b-acab6ec375da
 ---

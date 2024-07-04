@@ -18,5 +18,6 @@ previously:
   - chauffage-urbain
 competences:
   - Coaching
+uuid: bf903fce-35a2-4943-bc5d-0e501932b8f0
 ---
 Coach startup, Orpailleur du service public… en quête de pépites !

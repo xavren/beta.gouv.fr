@@ -6,8 +6,8 @@ github: adenoix
 missions:
   - start: 2018-12-07
     end: 2025-06-30
-    employer: GIP Plateforme de l'inclusion
     status: admin
+    employer: GIP Plateforme de l'inclusion
 teams:
   - /teams/gip-inclusion
 previously:
@@ -22,4 +22,5 @@ badges:
   - segur
 competences:
   - Administration Publique
+uuid: 2d5a1c67-e45d-4a2b-a379-1f44412f9697
 ---

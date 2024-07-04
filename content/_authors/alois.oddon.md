@@ -13,4 +13,5 @@ competences:
   - DevOps
   - Administration Système
   - Sécurité informatique
+uuid: 46f049fd-784f-4e75-b334-1f6896309e53
 ---

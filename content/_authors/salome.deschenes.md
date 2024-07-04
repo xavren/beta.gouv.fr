@@ -17,8 +17,8 @@ missions:
 startups:
   - urbanvitaliz
   - recommandations-collaboratives
-badges: null
 competences:
   - Communication
   - Administration Publique
+uuid: 4eab3766-6f30-45be-984a-a6c4a5ed68af
 ---

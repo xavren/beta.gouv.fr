@@ -13,5 +13,6 @@ previously:
   - psij
 competences:
   - Coaching
+uuid: ee49d7c0-19cb-4dcf-8d59-4f542ae8bd15
 ---
 Coach startup à l'incubateur du LabMI

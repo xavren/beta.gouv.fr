@@ -6,11 +6,10 @@ missions:
   - start: 2024-05-13
     end: 2024-09-13
     status: admin
-    employer: >-
-      Direction de l'environnement, de l'aménagement et du logement de La
-      Réunion
+    employer: Direction de l'environnement, de l'aménagement et du logement de La Réunion
     startups:
       - prelevements.deau
 github: GirardinClaire
 memberType: beta
+uuid: 0bc691b5-63a0-4315-a994-6a1f96924a35
 ---

@@ -8,10 +8,9 @@ missions:
   - start: 2023-12-11
     end: 2025-01-31
     status: independent
-    employer: ''
     startups:
-      - jeveuxaider
       - api-engagement
+      - jeveuxaider
 startups:
   - jeveuxaider
   - api-engagement
@@ -19,4 +18,5 @@ memberType: beta
 competences:
   - Product design
   - UX
+uuid: 4accec81-b11c-487b-bc9a-40655b733fcd
 ---

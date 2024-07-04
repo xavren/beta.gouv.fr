@@ -14,4 +14,5 @@ startups:
   - nosgestesclimat
 badges:
   - segur
+uuid: ab09ed31-d988-4bc7-b7f1-6971340c8b72
 ---

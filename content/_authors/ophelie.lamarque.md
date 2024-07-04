@@ -16,5 +16,6 @@ competences:
   - UX
   - UI
   - Gestion de Produit
+uuid: 98c50768-44f1-4c32-8d5e-436688c25bc4
 ---
 Sensible à la valeur que le Design apporte à l'entreprise.

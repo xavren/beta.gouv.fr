@@ -7,8 +7,8 @@ missions:
     end: 2024-04-16
     status: service
     employer: FNCCR
-startups: null
 previously:
   - chauffage-urbain
+uuid: 3bc05672-f53a-4fec-ad7a-c629ae1ebecb
 ---
 En charge de tout ce qui touche à l'énergie, j'accompagne les collectivités dans leurs projets

@@ -16,5 +16,6 @@ startups:
   - la-bonne-alternance
 previously:
   - memo
+uuid: a345b4be-551f-4b2e-9e68-4f62cc7b801d
 ---
 Développeur full-stack, single page app monomaniac

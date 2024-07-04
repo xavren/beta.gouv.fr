@@ -10,4 +10,5 @@ missions:
       - protege-toit
 startups:
   - protege-toit
+uuid: f6275cff-1900-47d4-b9a5-8f590b3b9284
 ---

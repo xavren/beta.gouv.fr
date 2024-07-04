@@ -13,5 +13,6 @@ missions:
 startups:
   - tumeplay
 memberType: beta
+uuid: d6b6ef2a-c75f-4d2e-afd1-34a91dd5a0ff
 ---
 Développeur web et mobile @Numéricité

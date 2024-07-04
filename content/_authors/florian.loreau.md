@@ -11,4 +11,5 @@ missions:
       - ban
 startups:
   - ban
+uuid: 74098be6-2895-459f-bfff-4d3bc228d169
 ---

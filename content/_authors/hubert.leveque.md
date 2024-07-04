@@ -2,8 +2,6 @@
 fullname: Hubert Leveque
 role: Intrapreneur
 domaine: Intraprenariat
-avatar: null
-link: null
 github: hubertleveque
 missions:
   - start: 2018-06-06
@@ -11,4 +9,5 @@ missions:
     status: independent
 previously:
   - eva
+uuid: 2634bf46-db0a-448a-a5a4-31b4545065cb
 ---

@@ -7,7 +7,6 @@ missions:
   - start: 2021-04-05
     end: 2024-12-31
     status: independent
-    employer: ''
     startups:
       - 1000.premiers.jours.blues
       - carte-verte
@@ -19,5 +18,6 @@ previously:
   - 1000.jours
 competences:
   - Gestion de Produit
+uuid: 0ee06180-9c38-4d3e-946a-34e9117dfb16
 ---
 Product Manager 1000 jours

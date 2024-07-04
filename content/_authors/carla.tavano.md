@@ -10,4 +10,5 @@ missions:
       - ellesfontlaculture
 startups:
   - ellesfontlaculture
+uuid: 07c6b4c1-9ede-445a-9aaf-42522bdb6149
 ---

@@ -7,10 +7,10 @@ missions:
   - start: 2023-09-05
     end: 2024-09-30
     status: independent
-    employer: ''
     startups:
       - nosgestesclimat
 startups:
   - nosgestesclimat
 memberType: beta
+uuid: af5f9976-9f9f-4795-9459-45e7c4b27063
 ---

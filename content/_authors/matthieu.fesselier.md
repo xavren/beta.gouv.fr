@@ -14,4 +14,5 @@ competences:
   - Développement Full-stack
   - JavaScript/TypeScript
 memberType: beta
+uuid: 390a8170-8f3b-43f7-829a-7f69937265fd
 ---

@@ -13,4 +13,5 @@ missions:
 startups:
   - resorption-bidonvilles
 memberType: autre
+uuid: 046f6cb6-6e19-4d76-8026-d47707c6afe8
 ---

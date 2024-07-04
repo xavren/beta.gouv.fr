@@ -9,4 +9,5 @@ missions:
     employer: Dinum
     startups:
       - data.etat
+uuid: f347df05-e5d6-4660-a050-edacd9860f81
 ---

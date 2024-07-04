@@ -14,5 +14,6 @@ missions:
 startups:
   - preuve-de-covoiturage
 memberType: beta
+uuid: 71f005e3-8e99-44cd-80c8-defd322f2e23
 ---
 Docteur en Statistique/Machine Learning.

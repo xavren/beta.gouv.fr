@@ -17,5 +17,6 @@ competences:
   - langage clair
   - simplification linguistique
 memberType: beta
+uuid: b47b0c75-73e9-4851-b3f8-6b69395e9baa
 ---
 La simplification de la langue française comme moteur d'intégration des personnes exilées

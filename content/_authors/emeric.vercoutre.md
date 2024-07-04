@@ -11,4 +11,5 @@ missions:
       - bati-amiante
 startups:
   - bati-amiante
+uuid: c138b189-dc4b-4de6-ace3-8c56f47c15b6
 ---

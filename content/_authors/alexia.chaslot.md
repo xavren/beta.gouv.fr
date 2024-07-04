@@ -17,4 +17,5 @@ badges:
 competences:
   - Administration Publique
   - Gestion de Produit
+uuid: 7cb2f9e4-b6f0-4efd-a1d5-1dafd1a6e56f
 ---

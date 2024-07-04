@@ -12,5 +12,6 @@ missions:
       - aplus
 startups:
   - aplus
+uuid: cfa454c0-a081-424c-bef6-a439f26a036e
 ---
 Écrit des autobiographies percutantes en moins de 200 caractères depuis 1972.

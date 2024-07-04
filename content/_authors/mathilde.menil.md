@@ -11,5 +11,6 @@ missions:
 competences:
   - Gestion de Produit
   - Administration Publique
+uuid: 901b882e-19f1-45ed-96f7-3cb9e3a87198
 ---
 Ouverte, optimiste et en quête de solutions pour les entreprises.

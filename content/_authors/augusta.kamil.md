@@ -17,5 +17,6 @@ startups:
 memberType: beta
 competences:
   - Croissance
+uuid: add696f2-7925-4673-9927-624bc0593751
 ---
 Je suis chargée de déploiement à l'Incubateur de l'ANCT

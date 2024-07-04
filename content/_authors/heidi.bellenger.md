@@ -12,4 +12,5 @@ missions:
 startups:
   - mes-aides-france-travail
 memberType: beta
+uuid: e1419f30-9223-438a-919a-8568a5c3b724
 ---

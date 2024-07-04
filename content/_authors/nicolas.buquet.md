@@ -16,5 +16,6 @@ startups:
 memberType: beta
 previously:
   - tchap
+uuid: 34b6def7-a754-401b-8e0d-11094899bd2c
 ---
 Développeur iOS senior, runner

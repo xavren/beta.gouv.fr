@@ -12,5 +12,6 @@ missions:
       - l-immersion-facile
 startups:
   - l-immersion-facile
+uuid: 4dff1308-44ca-4bee-b112-f6ca7d248738
 ---
 Développeur Fullstack

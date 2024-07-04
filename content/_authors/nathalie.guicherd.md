@@ -10,4 +10,5 @@ missions:
 memberType: dinum
 teams:
   - /teams/lab-mi
+uuid: 9ec1cfc0-4565-4fb4-b9e1-27fbb9b7a043
 ---

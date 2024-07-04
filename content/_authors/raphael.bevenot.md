@@ -9,5 +9,6 @@ missions:
     status: admin
     employer: DNUM MI
 memberType: beta
+uuid: 6bdb5679-ac4a-4905-8e61-574fe8ff755b
 ---
 Réutilisateur de données de père en fils, fils de cheminot.

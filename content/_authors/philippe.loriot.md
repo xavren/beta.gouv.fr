@@ -12,6 +12,6 @@ badges:
   - segur
 startups:
   - mon-diagnostic-artificialisation
+uuid: 44f5dd73-348e-40b6-bcb8-1dce0a8f71db
 ---
-
 Le spartiate qui voulut mesurer l'artificialisation

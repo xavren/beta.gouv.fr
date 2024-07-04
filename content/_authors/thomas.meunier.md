@@ -11,5 +11,6 @@ missions:
       - signaux-faibles
 startups:
   - signaux-faibles
+uuid: 8d71e73b-9722-47dd-9326-3006c0ff8637
 ---
 Je suis stagiaire à l'INRIA et je vais tenter d'aider Signaux Faibles dans leur mission de sauvetage!

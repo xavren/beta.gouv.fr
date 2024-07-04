@@ -20,4 +20,5 @@ badges:
 teams:
   - /teams/animation-dinum
   - /teams/fast-dinum
+uuid: 8d779fc3-8281-4453-be69-c22397dc2d56
 ---

@@ -13,4 +13,5 @@ missions:
 startups:
   - ozensemble
 memberType: beta
+uuid: db694749-1c57-4836-97e8-0f85092bc3e4
 ---

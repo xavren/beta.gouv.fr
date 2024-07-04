@@ -10,5 +10,6 @@ missions:
     startups:
       - otelo
 memberType: beta
+uuid: ac5db65e-e3b7-4027-896e-b5d4be664990
 ---
 Intrapreneur OTELO

@@ -6,7 +6,6 @@ missions:
   - start: 2022-06-24
     end: 2025-02-28
     status: admin
-    employer: ''
     startups:
       - romin
 startups:
@@ -14,5 +13,6 @@ startups:
 incubator: justice
 github: MathieuLB44
 link: https://www.linkedin.com/in/mathieu-le-bouler-4613a61a1
+uuid: 8297461b-e657-41da-955f-22f81fa52fa8
 ---
 Papa fatigué, Breton têtu, CPIP engagé

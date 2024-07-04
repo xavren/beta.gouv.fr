@@ -22,5 +22,6 @@ startups:
   - reva
 badges:
   - segur
+uuid: 99e4d4d0-5ce4-45bd-a8a1-470d6413fef8
 ---
 Coach agile: passionné par les produits, la tech, la data, les gens

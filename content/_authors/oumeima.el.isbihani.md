@@ -15,6 +15,7 @@ competences:
   - Développement Frontend
   - Développement Full-stack
 memberType: beta
+uuid: 32d38559-ab95-4326-b148-0142debf8e26
 ---
 Après une formation en informatique à Brest, j'ai travaillé 6 ans dans une SCIC (Société Coopérative d'Intérêt Collectif) tout en militant activement au sein de plusieurs associations pour la justice sociale et climatique.
 

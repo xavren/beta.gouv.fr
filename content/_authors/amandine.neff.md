@@ -8,4 +8,5 @@ missions:
     status: service
 badges:
   - segur
+uuid: 39c4f0c5-7065-497a-b832-0ea1371fe1d6
 ---

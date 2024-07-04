@@ -13,4 +13,5 @@ missions:
 startups:
   - docurba
 memberType: dinum
+uuid: b8fc60d3-0974-4a97-9a87-dbbda9d3513a
 ---

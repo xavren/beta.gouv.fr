@@ -11,5 +11,6 @@ missions:
 startups:
   - mediation.logement
 memberType: beta
+uuid: d9f2cb13-da06-43d3-a929-51299e69b69d
 ---
 intrapreneure

@@ -12,4 +12,5 @@ missions:
       - civils-de-la-defense
 startups:
   - civils-de-la-defense
+uuid: 5a98d9cf-0604-48fc-9463-f9e570bf87fe
 ---

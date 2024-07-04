@@ -3,7 +3,6 @@ fullname: Pascal Lamouric
 domaine: Développement
 role: Product Engineer
 github: pskl
-#avatar:
 link: https://pascal.cc
 missions:
   - start: 2024-03-21
@@ -21,4 +20,5 @@ competences:
   - UX
   - Gestion de Produit
 memberType: beta
+uuid: 91723a20-f4f1-48c9-8fd8-03c798006c37
 ---

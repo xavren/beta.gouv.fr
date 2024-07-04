@@ -11,5 +11,6 @@ missions:
 memberType: autre
 teams:
   - /teams/animation-atelier_meae
+uuid: 58997042-35cf-40b8-9d35-d07393366a9c
 ---
 Docteure en psychologie, ingénieure en machine learning

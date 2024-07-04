@@ -14,5 +14,6 @@ previously:
   - mon-recap
 competences:
   - Gestion de Produit
+uuid: ab089e5c-0e77-47fd-bcca-78070e5a5a45
 ---
 Aider à maximiser l' impact positif du numérique sur la société

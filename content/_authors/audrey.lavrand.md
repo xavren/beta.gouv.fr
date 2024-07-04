@@ -10,5 +10,6 @@ missions:
       - versementgetorix
 startups:
   - versementgetorix
+uuid: e6605633-3bbc-4542-8490-6532f1c1ba83
 ---
 Archiviste et en charge de la carte archéologique au Service régional d'archéologie de Bretagne

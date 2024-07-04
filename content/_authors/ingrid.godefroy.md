@@ -3,18 +3,18 @@ fullname: Ingrid Godefroy
 role: Chargée de déploiement
 domaine: Déploiement
 missions:
-  - start: 2021-12-01
-    end: 2024-12-31
-    status: independent
-    employer: Omnicité
-    startups:
-      - signalement
   - start: 2021-06-01
     end: 2021-12-31
     status: independent
     employer: Malt
     startups:
       - commun.orientation
+  - start: 2021-12-01
+    end: 2024-12-31
+    status: independent
+    employer: Omnicité
+    startups:
+      - signalement
   - start: 2022-10-01
     end: 2023-06-30
     status: independent
@@ -27,4 +27,5 @@ previously:
   - monstage
   - commun.orientation
 link: https://www.linkedin.com/in/ingridgodefroy/
+uuid: 834d7161-4038-4e03-b691-d2ea6ec8e4f9
 ---

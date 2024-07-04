@@ -11,5 +11,6 @@ missions:
       - dossierfacile
 startups:
   - dossierfacile
+uuid: b254c026-2a5b-44a8-a5ce-80ef354d3d51
 ---
 Secrétaire et assistante indépendante auprès d'entreprises et de particuliers

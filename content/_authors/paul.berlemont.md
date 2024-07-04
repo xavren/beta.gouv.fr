@@ -13,6 +13,6 @@ startups:
   - dossierfacile
 badges:
   - segur
+uuid: 74da441c-b7fb-400e-879b-a416a49db528
 ---
-
 Hello! Étudiant en L3 à HEC, je suis chargé de déploiement pour DossierFacile.

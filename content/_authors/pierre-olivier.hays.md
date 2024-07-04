@@ -13,5 +13,6 @@ missions:
 startups:
   - camino
 memberType: beta
+uuid: 1b020464-f32b-4ac5-b22d-2037fa5218e4
 ---
 Intrapreneur

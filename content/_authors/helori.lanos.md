@@ -14,5 +14,6 @@ missions:
 startups:
   - zero-logement-vacant
 memberType: beta
+uuid: eadc40f2-a722-4d8f-8e6b-2273e008a280
 ---
 Entrepreneur & Développeur Fullstack

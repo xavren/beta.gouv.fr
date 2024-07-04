@@ -15,4 +15,5 @@ startups:
   - snu
 competences:
   - Communication
+uuid: bc54a5b8-7859-474f-863c-bc902cc2b1aa
 ---

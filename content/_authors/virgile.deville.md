@@ -16,5 +16,6 @@ teams:
   - /teams/accelerateur-initiatives-citoyennes
 startups:
   - umap
+uuid: 97e5f3ce-2010-4bc4-8e72-8c20e8ea70a0
 ---
 Product Manager, Expert commnuns numériques, co-fondateur d'Open Source Poltics (Decidim), skater 🛹

@@ -12,4 +12,5 @@ missions:
       - le-taxi
 startups:
   - le-taxi
+uuid: e1da8b8b-aec8-447a-87ed-6923f43111b3
 ---

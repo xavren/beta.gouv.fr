@@ -12,4 +12,5 @@ missions:
 startups:
   - collectif_objets
 memberType: beta
+uuid: ac14ae8e-7c4f-4bde-bf6f-866b09136572
 ---

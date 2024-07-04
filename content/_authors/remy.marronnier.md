@@ -11,5 +11,6 @@ missions:
       - clara
 startups:
   - clara
+uuid: f906b06b-a474-4502-b7d0-62dafa4ed449
 ---
 Devenu développeur web après un parcours classique (études de Philosophie, Mandataire Judiciaire à la Protection des Majeurs puis Professeur en Français langues étrangères en Iran), je prends un plaisir fou à mettre les US dans la colonne *done* et à avoir des retours utilisateur.

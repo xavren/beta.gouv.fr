@@ -17,6 +17,7 @@ competences:
   - Python
   - JavaScript/TypeScript
 memberType: beta
+uuid: f8fc14fd-fa81-4102-86ff-3ddedecf622c
 ---
 Dev Backend Freelance sur Grist à la DINUM
 Libriste

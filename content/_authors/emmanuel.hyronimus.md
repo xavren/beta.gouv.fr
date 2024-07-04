@@ -16,5 +16,6 @@ competences:
   - Product design
   - UI
   - UX
+uuid: 0411dbc1-9c7e-447a-85bd-94619a6745b9
 ---
 Designer élevé en plein air.

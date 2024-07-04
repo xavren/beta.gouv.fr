@@ -8,7 +8,6 @@ missions:
     end: 2024-08-31
     status: service
     employer: Octo
-    startups: []
 startups:
   - l-application-du-cej
 badges:
@@ -16,5 +15,6 @@ badges:
 competences:
   - Développement Frontend
   - Développement Backend
+uuid: 5fbd2a00-5771-45b8-99d8-f61218419e97
 ---
 Développeuse multipassionnée, pour un numérique inclusif, divers et accessible 🌸🌱

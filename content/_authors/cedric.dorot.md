@@ -10,4 +10,5 @@ missions:
     startups:
       - agora
 memberType: beta
+uuid: 6045177e-4296-4563-8363-73cf6363214f
 ---

@@ -14,5 +14,6 @@ missions:
     employer: dinum
 startups:
   - data.gouv.fr
+uuid: 965a3e46-9468-4924-8453-de285ac33165
 ---
 KISS.

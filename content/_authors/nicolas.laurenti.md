@@ -13,5 +13,6 @@ startups:
   - demarches-simplifiees.fr
 competences:
   - Administration Système
+uuid: f28b278d-39bf-4380-adc7-18f679136013
 ---
 Un sysadmin qui lit aussi du code, plus ou moins haut niveau.

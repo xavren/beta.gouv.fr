@@ -16,4 +16,5 @@ competences:
   - UX
   - UI
   - Communication
+uuid: cd752f87-b6f8-400b-b760-1a3d89864262
 ---

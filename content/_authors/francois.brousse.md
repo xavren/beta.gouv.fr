@@ -18,5 +18,6 @@ competences:
   - Product design
   - Accessibilité
   - UI
+uuid: ea837fba-cf81-453f-896b-cb972c325e2f
 ---
 Designer UX

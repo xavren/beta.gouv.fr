@@ -16,6 +16,6 @@ badges:
   - segur
 previously:
   - france-numerique-ensemble
+uuid: d399f092-c21f-4188-a801-bdcb8e524196
 ---
-
 Développeur Fullstack

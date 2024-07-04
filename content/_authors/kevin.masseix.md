@@ -14,5 +14,6 @@ missions:
 startups:
   - annuaire-entreprises
 memberType: autre
+uuid: 793620da-831c-4b32-ae60-c7e1cd06eae0
 ---
 DevOps, expert opensearch  SIMD computing

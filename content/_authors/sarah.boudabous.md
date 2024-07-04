@@ -14,6 +14,6 @@ startups:
   - dossierfacile
 badges:
   - segur
+uuid: ec72fe1c-8fab-42ba-87e1-d14b67b44d2e
 ---
-
 Chargée de déploiement, enthousiaste et dynamique.

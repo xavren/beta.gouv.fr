@@ -12,5 +12,6 @@ missions:
     status: independent
 startups:
   - dossiersco
+uuid: eeea3e2b-61fa-4720-90b2-738db0f4dc90
 ---
 Développeur

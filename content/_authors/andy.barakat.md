@@ -9,10 +9,11 @@ missions:
     status: admin
     employer: MTE-MCTRCT-Mer - DGALN
     startups:
-      - vigieau
       - vert.impact
+      - vigieau
 teams:
   - /teams/mtes
 startups:
   - vigieau
+uuid: 5f4d86bd-9534-4a1a-8672-965dfa6f62f8
 ---

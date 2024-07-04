@@ -14,5 +14,6 @@ startups:
   - inclusion.connect
 competences:
   - Gestion de Produit
+uuid: 815a7bf9-ff50-4832-8564-696972f189c6
 ---
 Entrepreneure fan de sports aquatiques

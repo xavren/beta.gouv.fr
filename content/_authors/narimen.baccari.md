@@ -12,4 +12,5 @@ missions:
       - recosante
 startups:
   - recosante
+uuid: 37aa8725-1539-4a7a-b93b-cbb678e8dd49
 ---

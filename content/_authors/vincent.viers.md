@@ -14,17 +14,16 @@ missions:
     employer: benext
     startups:
       - a-just
-  - start: 2022-08-22
-    end: 2023-06-01
-    status: independent
-    employer: octo
-    startups: []
   - start: 2022-04-01
     end: 2024-09-30
     status: independent
     employer: scopyleft
     startups:
       - données-et-territoires
+  - start: 2022-08-22
+    end: 2023-06-01
+    status: independent
+    employer: octo
 startups:
   - données-et-territoires
   - pilotage.de.linclusion
@@ -33,5 +32,6 @@ previously:
   - signaux-faibles
   - disinfo
   - a-just
+uuid: 63de5a7e-087e-4bd5-a887-7e605ac9cf1b
 ---
 Data Dévelopeur & coach

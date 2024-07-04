@@ -11,5 +11,6 @@ missions:
       - civils-de-la-defense
 startups:
   - civils-de-la-defense
+uuid: abe36343-1c9d-40ec-bd7b-acbbcaf3386f
 ---
 Observe, assimile et innove...

@@ -14,5 +14,6 @@ missions:
 startups:
   - oots.once-only.technical.system
 memberType: beta
+uuid: 34c69ebb-bea4-4b96-bea2-d822115909ad
 ---
 Développeur le jour, papa la nuit. Musicien punk et couturier.

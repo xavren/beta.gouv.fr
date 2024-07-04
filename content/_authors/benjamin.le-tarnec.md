@@ -15,5 +15,6 @@ badges:
   - segur
 competences:
   - Coaching
+uuid: 25d424d9-631b-424d-af2e-b916eaa2648b
 ---
 Accompagnateur et coach en organisation

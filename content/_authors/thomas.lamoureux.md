@@ -11,4 +11,5 @@ missions:
     startups:
       - moncomptepro
 memberType: dinum
+uuid: 381a7973-d1a1-428e-be23-c63d0754102c
 ---

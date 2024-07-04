@@ -12,4 +12,5 @@ missions:
 startups:
   - portail-rse
 memberType: autre
+uuid: 2f5db41b-cb78-49ad-8a11-ce229fffdedf
 ---

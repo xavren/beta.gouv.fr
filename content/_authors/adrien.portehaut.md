@@ -15,5 +15,6 @@ previously:
   - memo
   - anotea
   - mobiville
+uuid: 2224c900-42e1-4eec-81cc-4ede36ba6be3
 ---
 Passionné par le Design de Service, j'aime co-construire des expériences interactives utilisables satisfaisantes voire mémorables pour nos utilisateurs !

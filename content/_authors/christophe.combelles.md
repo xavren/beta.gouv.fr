@@ -14,5 +14,6 @@ missions:
 startups:
   - ecobalyse
 memberType: beta
+uuid: 59a72c3a-2361-497f-842a-75f81063a1e7
 ---
 ingénieur logiciel et cloud spécialisé Open-Source, Cloud, Environnement et ERP/PGI

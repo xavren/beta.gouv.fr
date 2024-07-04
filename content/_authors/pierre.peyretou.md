@@ -10,5 +10,6 @@ missions:
     employer: NUMA
 competences:
   - Coaching
+uuid: af32a07b-6488-42fb-8f31-516f73cc5570
 ---
 J'ai participé au lancement de plusieurs entreprises, travaillé en VC, dirigé 2 ans DataCity et aujourd'hui prof affilié Energies-Climat à ESCP

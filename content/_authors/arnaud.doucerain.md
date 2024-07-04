@@ -7,8 +7,8 @@ missions:
     end: 2017-10-31
     status: service
     employer: octo
-startups: null
 previously:
   - conseillers-entreprises
+uuid: 91fd7f6d-9a8f-4c80-8f14-8f61ebf881fa
 ---
 Simplifier, gamifier, donner du feedback, être bienveillant !

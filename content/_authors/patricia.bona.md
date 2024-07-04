@@ -12,5 +12,6 @@ missions:
 memberType: beta
 startups:
   - estime.formation
+uuid: fb697623-46c0-40e0-b55c-7414d5d91662
 ---
 Product Manager junior

@@ -13,5 +13,6 @@ missions:
 startups:
   - l-application-du-cej
 memberType: beta
+uuid: 37ff9523-2900-4991-abc2-5d9727d62935
 ---
 Développeur fullstack - Ingénieur créatif

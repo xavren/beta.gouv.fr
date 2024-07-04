@@ -14,5 +14,6 @@ startups:
   - competence.validee
 competences:
   - Gestion de Produit
+uuid: abaaab39-322b-4da4-8042-665623226feb
 ---
 Pivoteur professionnel

@@ -13,5 +13,6 @@ startups:
   - l-application-du-cej
 badges:
   - segur
+uuid: c46c2c2c-1237-42e2-8d2e-f949a4d216da
 ---
 Coach produit et Agile

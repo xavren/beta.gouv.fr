@@ -7,4 +7,5 @@ missions:
     end: 2030-02-01
     status: admin
 memberType: dinum
+uuid: adc82284-da4e-4ada-bc0f-3f726cc428ae
 ---

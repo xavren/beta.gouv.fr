@@ -3,7 +3,6 @@ fullname: Joël Pagniez
 domaine: Coaching
 role: Coach
 github: JoelPagniez
-avatar: null
 link: https://www.linkedin.com/in/joel-pagniez-0941b687/
 missions:
   - start: 2019-11-26
@@ -21,4 +20,5 @@ competences:
   - Developpement
 teams:
   - /teams/lab-mi
+uuid: 1c9c04fd-7148-485e-aa1f-2cae4ff45c0d
 ---

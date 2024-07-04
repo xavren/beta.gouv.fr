@@ -21,4 +21,5 @@ competences:
   - Gestion de Produit
   - Croissance
   - Coaching
+uuid: 904f905b-93a7-4a12-b238-b230c4181fcb
 ---

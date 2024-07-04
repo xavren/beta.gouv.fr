@@ -17,5 +17,6 @@ badges:
   - segur
 competences:
   - Administration Publique
+uuid: 9704d77f-7cf8-4143-8d6a-560ac47e7b60
 ---
 Intrapreneur sur le domaine régalien

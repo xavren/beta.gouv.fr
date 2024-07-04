@@ -13,4 +13,5 @@ missions:
 startups:
   - candilib
   - polex
+uuid: 413bda7e-f258-409a-a814-69d08097fd03
 ---

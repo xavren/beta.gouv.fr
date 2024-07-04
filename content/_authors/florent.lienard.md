@@ -14,5 +14,6 @@ memberType: beta
 startups:
   - agents.en.intervention
   - espace.sur.demande
+uuid: 0cc7e7ad-f8a2-4912-a0d8-bd1eaba04153
 ---
 UX/UI Designer

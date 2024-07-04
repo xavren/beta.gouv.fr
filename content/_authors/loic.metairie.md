@@ -9,5 +9,6 @@ missions:
     status: service
 badges:
   - segur
+uuid: 4269da71-54ce-4ba9-a5fa-4d3b11606084
 ---
 Point de contact Little Big Connection

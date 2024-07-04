@@ -13,4 +13,5 @@ startups:
   - ecobalyse
 badges:
   - segur
+uuid: a6639b84-e529-4fa4-bfff-59ea216a7a5e
 ---

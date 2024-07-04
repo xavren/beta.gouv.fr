@@ -13,4 +13,5 @@ missions:
     startups:
       - les-emplois
 memberType: autre
+uuid: 7193eae0-6d2d-467b-80d1-ff877dff362c
 ---

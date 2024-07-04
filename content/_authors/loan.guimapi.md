@@ -8,5 +8,6 @@ missions:
     status: admin
 badges:
   - segur
+uuid: f92d6bb9-9573-4aa4-9525-dcc8bd33b936
 ---
 Apprentie designer interactif

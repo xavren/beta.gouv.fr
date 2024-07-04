@@ -20,5 +20,6 @@ startups:
   - suite.territoriale
   - themis
 memberType: beta
+uuid: 744bcb97-b3a8-4d7f-9dcc-714142bfbc34
 ---
 Communicante engagée pour l'environnement

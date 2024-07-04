@@ -14,5 +14,6 @@ missions:
 startups:
   - mon-aide-cyber
 memberType: beta
+uuid: 75926982-77e3-4527-b98d-8b54a5c61767
 ---
 Designer

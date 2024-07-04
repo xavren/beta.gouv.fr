@@ -8,5 +8,6 @@ missions:
     status: service
     employer: Octo
 memberType: attributaire
+uuid: f7889aa8-673c-43d5-97aa-b46d2e598d40
 ---
 Membre Octo.

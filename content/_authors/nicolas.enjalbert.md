@@ -10,9 +10,9 @@ missions:
     status: independent
     employer: Benext, NUMA
     startups:
+      - data-inclusion
       - envergo
       - inclusion.connect
-      - data-inclusion
       - rdv.insertion
 startups:
   - envergo
@@ -26,5 +26,6 @@ competences:
 previously:
   - l-application-du-cej
   - carnet.de.bord
+uuid: 05c68065-818b-4c38-aaa6-20d24ba95808
 ---
 Designer de service & coach produit

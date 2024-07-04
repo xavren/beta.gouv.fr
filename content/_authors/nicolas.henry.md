@@ -12,5 +12,6 @@ missions:
     employer: MTES/SNUM
     startups:
       - dossierfacile
+uuid: 4286cc8d-87aa-4437-a275-863fe358965e
 ---
 Chargé de déploiement, dossierfacile.fr

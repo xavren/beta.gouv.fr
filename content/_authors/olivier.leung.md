@@ -14,5 +14,6 @@ startups:
   - domifa
 badges:
   - segur
+uuid: f9f6b963-6801-4e7a-8b8e-fa6ba86d47e5
 ---
 Développeur et allergique au fun :p
